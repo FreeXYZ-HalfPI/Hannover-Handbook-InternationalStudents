@@ -1,0 +1,17 @@
+# Section 5 — Work, Finance & Career
+
+> [!TIP]
+> **Last reviewed:** 2026-10-24 · Back to the [handbook contents](../README.md)
+
+Student jobs, tax, scholarships, entrepreneurship, staying after graduation and leaving Germany. The information in this section is general and not legal or tax advice.
+
+## Pages in this section
+
+- [40. Student jobs](40-student-jobs.md) — 140-day limit, HiWi, Werkstudent, Minijob and minimum wage
+- [41. Job search and German CV](41-job-search-cv.md) — Career Service, job portals and German CV conventions
+- [42. Tax and payslips](42-tax-payslip.md) — tax-free allowance, insurance and tax returns
+- [43. Scholarships and financial support](43-scholarships.md) — emergency aid, completion aid, Deutschlandstipendium, DAAD and foundations
+- [44. Starting a business](44-starting-business.md) — starting business and start-up advice
+- [45. Career service and internships](45-career-service.md) — Career Service, internships and Career Dates
+- [46. After graduation](46-after-graduation.md) — job-seeker permit, Blue Card, permanent residence and naturalisation
+- [47. Leaving Germany](47-leaving-germany.md) — Abmeldung, cancelling contracts, closing accounts and pension refund

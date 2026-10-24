@@ -1,0 +1,5 @@
+- [ ] Every new or changed fact has an official source link (priority: uni-hannover.de, hannover.de, gesetze-im-internet.de, make-it-in-germany.com)
+- [ ] I ran `bash tools/check_links.sh` and `python3 tools/build_sources.py` so the sources table (section 6) is up to date
+- [ ] The "Last reviewed" date at the top of the page is updated
+- [ ] Country-specific points are marked with 🌍
+- [ ] Personal experience, if any, is only in section 7 and contains no personal data
