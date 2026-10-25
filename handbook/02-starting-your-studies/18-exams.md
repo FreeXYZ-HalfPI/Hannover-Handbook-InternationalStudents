@@ -43,13 +43,13 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 2 | [Studentenwerk – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 3 | [Exam information & subject advice](https://www.uni-hannover.de/en/studium/im-studium/pruefungsinfos-fachberatung) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 4 | [LUH – ZQS](https://www.uni-hannover.de/en/universitaet/organisation/einrichtungen/zentrale-einrichtungen/zqs) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 5 | [ptb](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-10-24 | ✅ Opened |
-| 6 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 7 | [SG 62](https://www.uni-hannover.de/en/universitaet/organisation/dezernate/dezernat-6/sg-62-examinations-office) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
+| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 2 | [Studentenwerk – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 3 | [Exam information & subject advice](https://www.uni-hannover.de/en/studium/im-studium/pruefungsinfos-fachberatung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 4 | [LUH – ZQS](https://www.uni-hannover.de/en/universitaet/organisation/einrichtungen/zentrale-einrichtungen/zqs) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 5 | [ptb](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-10-25 | ✅ Opened |
+| 6 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 7 | [SG 62](https://www.uni-hannover.de/en/universitaet/organisation/dezernate/dezernat-6/sg-62-examinations-office) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
 
 ## 7. Student experiences (unofficial)
 

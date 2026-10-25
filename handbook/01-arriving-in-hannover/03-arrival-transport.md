@@ -41,17 +41,17 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Hannover Airport – Transport & Directions](https://www.hannover-airport.de/en/traffic-connection/transport-directions/) | Hannover Airport | 2026-10-24 | ✅ Opened |
-| 2 | [ÜSTRA – Tickets and subscriptions](https://www.uestra.de/en/tickets-prices/tickets-and-subscriptions/) | ÜSTRA / GVH | 2026-10-24 | ✅ Opened |
-| 3 | [Deutsche Bahn](https://int.bahn.de/en) | int.bahn.de | 2026-10-24 | ✅ Opened |
-| 4 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-24 | ✅ Opened |
-| 5 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 6 | [LUH – How to get here](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/wegweiser/anfahrtsbeschreibung) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 7 | [Standortfinder](https://standortfinder.uni-hannover.de/) | Leibniz University Hannover | 2026-10-24 | ✅ Opened |
-| 8 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 9 | [Studentenwerk – Housing search](https://www.studentenwerk-hannover.de/en/wohnen/wohnungssuche) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 10 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 11 | [uestra.de](https://www.uestra.de/) | ÜSTRA / GVH | 2026-10-24 | ✅ Opened |
+| 1 | [Hannover Airport – Transport & Directions](https://www.hannover-airport.de/en/traffic-connection/transport-directions/) | Hannover Airport | 2026-10-25 | ✅ Opened |
+| 2 | [ÜSTRA – Tickets and subscriptions](https://www.uestra.de/en/tickets-prices/tickets-and-subscriptions/) | ÜSTRA / GVH | 2026-10-25 | ✅ Opened |
+| 3 | [Deutsche Bahn](https://int.bahn.de/en) | int.bahn.de | 2026-10-25 | ✅ Opened |
+| 4 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-25 | ✅ Opened |
+| 5 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 6 | [LUH – How to get here](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/wegweiser/anfahrtsbeschreibung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 7 | [Standortfinder](https://standortfinder.uni-hannover.de/) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
+| 8 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 9 | [Studentenwerk – Housing search](https://www.studentenwerk-hannover.de/en/wohnen/wohnungssuche) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 10 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 11 | [uestra.de](https://www.uestra.de/) | ÜSTRA / GVH | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

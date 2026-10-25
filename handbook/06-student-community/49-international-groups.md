@@ -40,11 +40,11 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Student associations](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/studentische-vereinigungen) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 3 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-24 | ✅ Opened |
-| 4 | [ESN – Find a section](https://esn.org/sections) | esn.org | 2026-10-24 | ⚠️ Blocks automated checks — open in a browser |
-| 5 | [Study-Buddy](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote/study-buddy) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
+| 1 | [LUH – Student associations](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/studentische-vereinigungen) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 3 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-25 | ✅ Opened |
+| 4 | [ESN – Find a section](https://esn.org/sections) | esn.org | 2026-10-25 | ⚠️ Blocks automated checks — open in a browser |
+| 5 | [Study-Buddy](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote/study-buddy) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
 
 ## 7. Student experiences (unofficial)
 

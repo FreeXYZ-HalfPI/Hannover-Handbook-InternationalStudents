@@ -45,11 +45,11 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Studentenwerk Hannover – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 2 | [European Commission – Your Europe: Bank accounts](https://europa.eu/youreurope/citizens/consumers/financial-products-and-services/bank-accounts-eu/index_en.htm) | European Union | 2026-10-24 | ✅ Opened |
-| 3 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 4 | [Payment Accounts Act § 31 ZKG](https://www.gesetze-im-internet.de/zkg/__31.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 5 | [bafin.de](https://www.bafin.de/EN/Homepage/homepage_node.html) | BaFin | 2026-10-24 | ✅ Opened |
+| 1 | [Studentenwerk Hannover – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 2 | [European Commission – Your Europe: Bank accounts](https://europa.eu/youreurope/citizens/consumers/financial-products-and-services/bank-accounts-eu/index_en.htm) | European Union | 2026-10-25 | ✅ Opened |
+| 3 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 4 | [Payment Accounts Act § 31 ZKG](https://www.gesetze-im-internet.de/zkg/__31.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 5 | [bafin.de](https://www.bafin.de/EN/Homepage/homepage_node.html) | BaFin | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

@@ -41,10 +41,10 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [AStA – International students](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-24 | ✅ Opened |
-| 2 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-24 | ✅ Opened |
-| 3 | [LUH – Financial aid for international students](https://www.uni-hannover.de/en/studium/finanzierung-foerderung/finanzielle-beihilfen-fuer-internationale-studierende) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 4 | [LUH](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
+| 1 | [AStA – International students](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-25 | ✅ Opened |
+| 2 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-25 | ✅ Opened |
+| 3 | [LUH – Financial aid for international students](https://www.uni-hannover.de/en/studium/finanzierung-foerderung/finanzielle-beihilfen-fuer-internationale-studierende) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 4 | [LUH](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
 
 ## 7. Student experiences (unofficial)
 

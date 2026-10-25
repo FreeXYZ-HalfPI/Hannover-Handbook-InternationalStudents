@@ -46,12 +46,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [§ 28 FeV – EU/EEA licences](https://www.gesetze-im-internet.de/fev_2010/__28.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 2 | [§ 29 FeV](https://www.gesetze-im-internet.de/fev_2010/__29.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 3 | [Annex 11 FeV](https://www.gesetze-im-internet.de/fev_2010/anlage_11.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 4 | [hannover.gov.de – Conversion of third-country licences](https://hannover.gov.de/buergerservice/dienstleistungen/fahrerlaubnis-umschreibung-einer-sonstigen-auslaendischen-fahrerlaubnis-drittstaaten--900000272-0.html?myMedium=1) | City of Hannover | 2026-10-24 | ✅ Opened |
-| 5 | [hannover.de – Foreign driving licence](https://www.hannover.de/Leben-in-der-Region-Hannover/Mobilit%C3%A4t/Kraftfahrzeug-Stra%C3%9Fe/Fahrerlaubnis%C2%AD%C2%ADbeh%C3%B6rde-Region-Hannover/Ausl%C3%A4ndischer-F%C3%BChrerschein) | City and Region of Hannover | 2026-10-24 | ✅ Opened |
-| 6 | [hannover.gov.de – Driving licence office](https://hannover.gov.de/buergerservice/verwaltung/32-12-fahrerlaubnisbehoerde-900000753-30810.html) | City of Hannover | 2026-10-24 | ✅ Opened |
+| 1 | [§ 28 FeV – EU/EEA licences](https://www.gesetze-im-internet.de/fev_2010/__28.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 2 | [§ 29 FeV](https://www.gesetze-im-internet.de/fev_2010/__29.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 3 | [Annex 11 FeV](https://www.gesetze-im-internet.de/fev_2010/anlage_11.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 4 | [hannover.gov.de – Conversion of third-country licences](https://hannover.gov.de/buergerservice/dienstleistungen/fahrerlaubnis-umschreibung-einer-sonstigen-auslaendischen-fahrerlaubnis-drittstaaten--900000272-0.html?myMedium=1) | City of Hannover | 2026-10-25 | ✅ Opened |
+| 5 | [hannover.de – Foreign driving licence](https://www.hannover.de/Leben-in-der-Region-Hannover/Mobilit%C3%A4t/Kraftfahrzeug-Stra%C3%9Fe/Fahrerlaubnis%C2%AD%C2%ADbeh%C3%B6rde-Region-Hannover/Ausl%C3%A4ndischer-F%C3%BChrerschein) | City and Region of Hannover | 2026-10-25 | ✅ Opened |
+| 6 | [hannover.gov.de – Driving licence office](https://hannover.gov.de/buergerservice/verwaltung/32-12-fahrerlaubnisbehoerde-900000753-30810.html) | City of Hannover | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

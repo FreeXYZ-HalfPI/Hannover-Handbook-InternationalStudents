@@ -39,13 +39,13 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 2 | [LUH – Housing](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/housing) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 3 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 4 | [stwh-portal.de](https://stwh-portal.de/terminreservierung-soziales/) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 5 | [Studentenwerk – Housing search](https://www.studentenwerk-hannover.de/en/wohnen/wohnungssuche) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 6 | [First Steps in Germany](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 7 | [Save money](https://www.studentenwerk-hannover.de/en/geld/geld-sparen) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
+| 1 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 2 | [LUH – Housing](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/housing) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 3 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 4 | [stwh-portal.de](https://stwh-portal.de/terminreservierung-soziales/) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 5 | [Studentenwerk – Housing search](https://www.studentenwerk-hannover.de/en/wohnen/wohnungssuche) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 6 | [First Steps in Germany](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 7 | [Save money](https://www.studentenwerk-hannover.de/en/geld/geld-sparen) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

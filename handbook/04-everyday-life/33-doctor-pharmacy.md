@@ -43,10 +43,10 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [116117.de](https://www.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-10-24 | ✅ Opened |
-| 2 | [aponet – On-duty pharmacy search](https://www.aponet.de/notdienstsuche) | ABDA (pharmacists) | 2026-10-24 | ✅ Opened |
-| 3 | [Federal Ministry of Health – Co-payment rules (PDF)](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/A/Arzneimittelversorgung/Zuzahlungsregelungen_GKV.pdf) | Federal Ministry of Health | 2026-10-24 | ✅ Opened |
-| 4 | [BfArM – Travelling with narcotic drugs](https://www.bfarm.de/EN/Federal-Opium-Agency/Narcotic-drugs/Travelling-with-narcotic-drugs/_node.html) | Federal Institute for Drugs and Medical Devices | 2026-10-24 | ✅ Opened |
+| 1 | [116117.de](https://www.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-10-25 | ✅ Opened |
+| 2 | [aponet – On-duty pharmacy search](https://www.aponet.de/notdienstsuche) | ABDA (pharmacists) | 2026-10-25 | ✅ Opened |
+| 3 | [Federal Ministry of Health – Co-payment rules (PDF)](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/A/Arzneimittelversorgung/Zuzahlungsregelungen_GKV.pdf) | Federal Ministry of Health | 2026-10-25 | ✅ Opened |
+| 4 | [BfArM – Travelling with narcotic drugs](https://www.bfarm.de/EN/Federal-Opium-Agency/Narcotic-drugs/Travelling-with-narcotic-drugs/_node.html) | Federal Institute for Drugs and Medical Devices | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

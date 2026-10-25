@@ -43,10 +43,10 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 2 | [Exam information & subject advice](https://www.uni-hannover.de/en/studium/im-studium/pruefungsinfos-fachberatung) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 3 | [Course catalogue](https://www.uni-hannover.de/en/studium/im-studium/vorlesungen) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 4 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
+| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 2 | [Exam information & subject advice](https://www.uni-hannover.de/en/studium/im-studium/pruefungsinfos-fachberatung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 3 | [Course catalogue](https://www.uni-hannover.de/en/studium/im-studium/vorlesungen) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 4 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
 
 ## 7. Student experiences (unofficial)
 

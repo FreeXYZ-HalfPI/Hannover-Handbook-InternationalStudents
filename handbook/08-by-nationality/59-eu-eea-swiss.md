@@ -49,16 +49,16 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 2 | [Freedom of Movement Act § 4](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/__4.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 3 | [LUH – Health insurance](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/krankenversicherung) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 4 | [Your Europe – Health cover for students](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm) | European Union | 2026-10-24 | ✅ Opened |
-| 5 | [LUH – Application & admission](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 6 | [§ 8 BAföG – eligible foreign nationals](https://www.gesetze-im-internet.de/baf_g/__8.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 7 | [§ 28 FeV](https://www.gesetze-im-internet.de/fev_2010/__28.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 8 | [Federal Returning Officer – EU citizens](https://www.bundeswahlleiterin.de/en/europawahlen/2024/informationen-waehler/unionsbuerger.html) | bundeswahlleiterin.de | 2026-10-24 | ✅ Opened |
-| 9 | [LUH – Exchange students](https://www.uni-hannover.de/en/studium/im-studium/international/exchange-students) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 10 | [Your Europe Advice](https://europa.eu/youreurope/advice/index_en.htm) | European Union | 2026-10-24 | ✅ Opened |
+| 1 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 2 | [Freedom of Movement Act § 4](https://www.gesetze-im-internet.de/freiz_gg_eu_2004/__4.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 3 | [LUH – Health insurance](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/krankenversicherung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 4 | [Your Europe – Health cover for students](https://europa.eu/youreurope/citizens/health/unplanned-healthcare/temporary-stays/index_en.htm) | European Union | 2026-10-25 | ✅ Opened |
+| 5 | [LUH – Application & admission](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 6 | [§ 8 BAföG – eligible foreign nationals](https://www.gesetze-im-internet.de/baf_g/__8.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 7 | [§ 28 FeV](https://www.gesetze-im-internet.de/fev_2010/__28.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 8 | [Federal Returning Officer – EU citizens](https://www.bundeswahlleiterin.de/en/europawahlen/2024/informationen-waehler/unionsbuerger.html) | bundeswahlleiterin.de | 2026-10-25 | ✅ Opened |
+| 9 | [LUH – Exchange students](https://www.uni-hannover.de/en/studium/im-studium/international/exchange-students) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 10 | [Your Europe Advice](https://europa.eu/youreurope/advice/index_en.htm) | European Union | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

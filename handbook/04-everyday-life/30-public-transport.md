@@ -45,13 +45,13 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-24 | ✅ Opened |
-| 2 | [AStA – Semester ticket hardship fund rules (PDF)](https://staff.asta-hannover.de/beta/assets/SemTicketAusfall_Ordnung.pdf) | AStA Hannover | 2026-10-24 | ✅ Opened |
-| 3 | [AStA – Semester ticket (English)](https://www.asta-hannover.de/en/translate-to-english-semesterticket) | AStA Hannover | 2026-10-24 | ✅ Opened |
-| 4 | [AStA – Hardship fund portal](https://staff.asta-hannover.de/) | AStA Hannover | 2026-10-24 | ✅ Opened |
-| 5 | [uestra.de](https://www.uestra.de/) | ÜSTRA / GVH | 2026-10-24 | ✅ Opened |
-| 6 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 7 | [AStA – Bike workshop](https://www.asta-hannover.de/angebote-beratung/fahrradwerkstaette) | AStA Hannover | 2026-10-24 | ✅ Opened |
+| 1 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-25 | ✅ Opened |
+| 2 | [AStA – Semester ticket hardship fund rules (PDF)](https://staff.asta-hannover.de/beta/assets/SemTicketAusfall_Ordnung.pdf) | AStA Hannover | 2026-10-25 | ✅ Opened |
+| 3 | [AStA – Semester ticket (English)](https://www.asta-hannover.de/en/translate-to-english-semesterticket) | AStA Hannover | 2026-10-25 | ✅ Opened |
+| 4 | [AStA – Hardship fund portal](https://staff.asta-hannover.de/) | AStA Hannover | 2026-10-25 | ✅ Opened |
+| 5 | [uestra.de](https://www.uestra.de/) | ÜSTRA / GVH | 2026-10-25 | ✅ Opened |
+| 6 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 7 | [AStA – Bike workshop](https://www.asta-hannover.de/angebote-beratung/fahrradwerkstaette) | AStA Hannover | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

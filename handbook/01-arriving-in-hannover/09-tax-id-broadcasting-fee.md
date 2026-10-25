@@ -49,14 +49,14 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [BZSt – Tax identification number](https://www.bzst.de/DE/Privatpersonen/SteuerlicheIdentifikationsnummer/steuerlicheidentifikationsnummer_node.html) | Federal Central Tax Office | 2026-10-24 | ✅ Opened |
-| 2 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 3 | [BZSt – FAQ](https://www.bzst.de/DE/Privatpersonen/SteuerlicheIdentifikationsnummer/FAQ/faq_node.html) | Federal Central Tax Office | 2026-10-24 | ✅ Opened |
-| 4 | [Rundfunkbeitrag – Students](https://www.rundfunkbeitrag.de/buergerinnen-und-buerger/informationen/informationen-fuer-studierende) | ARD ZDF Deutschlandradio Beitragsservice | 2026-10-24 | ✅ Opened |
-| 5 | [betanet](https://www.betanet.de/rundfunkbeitrag-befreiung-ermaessigung.html) | betanet.de — unofficial / secondary source | 2026-10-24 | ✅ Opened |
-| 6 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 7 | [Rundfunkbeitrag – Students and apprentices](https://www.rundfunkbeitrag.de/welcome/english/students-and-apprentices) | ARD ZDF Deutschlandradio Beitragsservice | 2026-10-24 | ✅ Opened |
-| 8 | [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/) | ARD ZDF Deutschlandradio Beitragsservice | 2026-10-24 | ✅ Opened |
+| 1 | [BZSt – Tax identification number](https://www.bzst.de/DE/Privatpersonen/SteuerlicheIdentifikationsnummer/steuerlicheidentifikationsnummer_node.html) | Federal Central Tax Office | 2026-10-25 | ✅ Opened |
+| 2 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 3 | [BZSt – FAQ](https://www.bzst.de/DE/Privatpersonen/SteuerlicheIdentifikationsnummer/FAQ/faq_node.html) | Federal Central Tax Office | 2026-10-25 | ✅ Opened |
+| 4 | [Rundfunkbeitrag – Students](https://www.rundfunkbeitrag.de/buergerinnen-und-buerger/informationen/informationen-fuer-studierende) | ARD ZDF Deutschlandradio Beitragsservice | 2026-10-25 | ✅ Opened |
+| 5 | [betanet](https://www.betanet.de/rundfunkbeitrag-befreiung-ermaessigung.html) | betanet.de — unofficial / secondary source | 2026-10-25 | ✅ Opened |
+| 6 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 7 | [Rundfunkbeitrag – Students and apprentices](https://www.rundfunkbeitrag.de/welcome/english/students-and-apprentices) | ARD ZDF Deutschlandradio Beitragsservice | 2026-10-25 | ✅ Opened |
+| 8 | [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/) | ARD ZDF Deutschlandradio Beitragsservice | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

@@ -43,12 +43,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LLC](https://www.llc.uni-hannover.de/en/) | Leibniz Language Centre | 2026-10-24 | ✅ Opened |
-| 2 | [LLC – German courses](https://www.llc.uni-hannover.de/en/language-courses/german) | Leibniz Language Centre | 2026-10-24 | ✅ Opened |
-| 3 | [LLC – Registration](https://www.llc.uni-hannover.de/en/language-courses/language-course-registration) | Leibniz Language Centre | 2026-10-24 | ✅ Opened |
-| 4 | [Tandem offers](https://www.llc.uni-hannover.de/en/language-courses/tandem-learning/tandem-learning-offers) | Leibniz Language Centre | 2026-10-24 | ✅ Opened |
-| 5 | [Guidelines for courses and fee regulation](https://www.llc.uni-hannover.de/en/leibniz-language-centre/guidelines-for-courses-and-fee-regulation) | Leibniz Language Centre | 2026-10-24 | ✅ Opened |
-| 6 | [LLC – Contact](https://www.llc.uni-hannover.de/en/leibniz-language-centre/contactdirectionsoffice-hours) | Leibniz Language Centre | 2026-10-24 | ✅ Opened |
+| 1 | [LLC](https://www.llc.uni-hannover.de/en/) | Leibniz Language Centre | 2026-10-25 | ✅ Opened |
+| 2 | [LLC – German courses](https://www.llc.uni-hannover.de/en/language-courses/german) | Leibniz Language Centre | 2026-10-25 | ✅ Opened |
+| 3 | [LLC – Registration](https://www.llc.uni-hannover.de/en/language-courses/language-course-registration) | Leibniz Language Centre | 2026-10-25 | ✅ Opened |
+| 4 | [Tandem offers](https://www.llc.uni-hannover.de/en/language-courses/tandem-learning/tandem-learning-offers) | Leibniz Language Centre | 2026-10-25 | ✅ Opened |
+| 5 | [Guidelines for courses and fee regulation](https://www.llc.uni-hannover.de/en/leibniz-language-centre/guidelines-for-courses-and-fee-regulation) | Leibniz Language Centre | 2026-10-25 | ✅ Opened |
+| 6 | [LLC – Contact](https://www.llc.uni-hannover.de/en/leibniz-language-centre/contactdirectionsoffice-hours) | Leibniz Language Centre | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

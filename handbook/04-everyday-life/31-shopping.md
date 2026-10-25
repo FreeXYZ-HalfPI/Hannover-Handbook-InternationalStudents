@@ -44,13 +44,13 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 2 | [hannover.de – Hausmarke](https://www.hannover.de/Wirtschaft-Wissenschaft/Wissenschaft/Studieren-in-Hannover/Hausmarke) | City and Region of Hannover | 2026-10-24 | ✅ Opened |
-| 3 | [Studentenwerk – Save money](https://www.studentenwerk-hannover.de/en/money/save-money) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 4 | [Federal Environment Ministry – Single-use and reusable](https://www.bundesumweltministerium.de/faqs/einweg-und-mehrweg) | Federal Environment Ministry | 2026-10-24 | ✅ Opened |
-| 5 | [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/umwelt-haushalt/abfall/fragen-und-antworten-alles-zum-einwegpfand-und-dosenpfand-11505) | Verbraucherzentrale | 2026-10-24 | ✅ Opened |
-| 6 | [IHK Braunschweig – NLöffVZG](https://www.ihk.de/braunschweig/branchen/handel/einzelhandel/durchfuehrung-verkaufsoffener-sonntage-4500236) | ihk.de | 2026-10-24 | ✅ Opened |
-| 7 | [Save money](https://www.studentenwerk-hannover.de/en/geld/geld-sparen) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
+| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 2 | [hannover.de – Hausmarke](https://www.hannover.de/Wirtschaft-Wissenschaft/Wissenschaft/Studieren-in-Hannover/Hausmarke) | City and Region of Hannover | 2026-10-25 | ✅ Opened |
+| 3 | [Studentenwerk – Save money](https://www.studentenwerk-hannover.de/en/money/save-money) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 4 | [Federal Environment Ministry – Single-use and reusable](https://www.bundesumweltministerium.de/faqs/einweg-und-mehrweg) | Federal Environment Ministry | 2026-10-25 | ✅ Opened |
+| 5 | [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/umwelt-haushalt/abfall/fragen-und-antworten-alles-zum-einwegpfand-und-dosenpfand-11505) | Verbraucherzentrale | 2026-10-25 | ✅ Opened |
+| 6 | [IHK Braunschweig – NLöffVZG](https://www.ihk.de/braunschweig/branchen/handel/einzelhandel/durchfuehrung-verkaufsoffener-sonntage-4500236) | ihk.de | 2026-10-25 | ✅ Opened |
+| 7 | [Save money](https://www.studentenwerk-hannover.de/en/geld/geld-sparen) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

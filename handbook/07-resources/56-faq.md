@@ -65,23 +65,23 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Studentenwerk](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 2 | [hannover.gov.de](https://hannover.gov.de/buergerservice/dienstleistungen/anmeldung-einer-wohnung-zuzug-nach-hannover-900000016-0.html?myMedium=1) | City of Hannover | 2026-10-24 | ✅ Opened |
-| 3 | [§ 41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 4 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 5 | [German missions in Italy](https://italien.diplo.de/it-de/service/visa-aktuell/2586756-2586756) | Federal Foreign Office (German mission) | 2026-10-24 | ✅ Opened |
-| 6 | [LUH](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 7 | [LUH – Study costs](https://www.uni-hannover.de/studium/finanzierung-foerderung/studienkosten) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 8 | [BARMER](https://www.barmer.de/unsere-leistungen/beitraege-tarife/krankenversicherung-studierende) | BARMER | 2026-10-24 | ✅ Opened |
-| 9 | [§ 16b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 10 | [§ 81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 11 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 12 | [AStA](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-24 | ✅ Opened |
-| 13 | [ptb](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-10-24 | ✅ Opened |
-| 14 | [§ 29 FeV](https://www.gesetze-im-internet.de/fev_2010/__29.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 15 | [Make it in Germany](https://www.make-it-in-germany.com/en/visa-recognition/family-reunification/spouses-joining-non-eu-citizens) | Federal Government – Make it in Germany | 2026-10-24 | ✅ Opened |
-| 16 | [§ 20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 17 | [Federal Foreign Office](https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/schengen-207786) | Federal Foreign Office | 2026-10-24 | ✅ Opened |
+| 1 | [Studentenwerk](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 2 | [hannover.gov.de](https://hannover.gov.de/buergerservice/dienstleistungen/anmeldung-einer-wohnung-zuzug-nach-hannover-900000016-0.html?myMedium=1) | City of Hannover | 2026-10-25 | ✅ Opened |
+| 3 | [§ 41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 4 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 5 | [German missions in Italy](https://italien.diplo.de/it-de/service/visa-aktuell/2586756-2586756) | Federal Foreign Office (German mission) | 2026-10-25 | ✅ Opened |
+| 6 | [LUH](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 7 | [LUH – Study costs](https://www.uni-hannover.de/studium/finanzierung-foerderung/studienkosten) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 8 | [BARMER](https://www.barmer.de/unsere-leistungen/beitraege-tarife/krankenversicherung-studierende) | BARMER | 2026-10-25 | ✅ Opened |
+| 9 | [§ 16b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 10 | [§ 81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 11 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 12 | [AStA](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-25 | ✅ Opened |
+| 13 | [ptb](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-10-25 | ✅ Opened |
+| 14 | [§ 29 FeV](https://www.gesetze-im-internet.de/fev_2010/__29.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 15 | [Make it in Germany](https://www.make-it-in-germany.com/en/visa-recognition/family-reunification/spouses-joining-non-eu-citizens) | Federal Government – Make it in Germany | 2026-10-25 | ✅ Opened |
+| 16 | [§ 20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 17 | [Federal Foreign Office](https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/schengen-207786) | Federal Foreign Office | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

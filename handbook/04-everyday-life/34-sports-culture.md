@@ -40,14 +40,14 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 2 | [Hochschulsport – Sports programmes](https://www.hochschulsport-hannover.de/en/sports-programs/) | Hochschulsport Hannover | 2026-10-24 | ✅ Opened |
-| 3 | [Hochschulsport](https://www.hochschulsport-hannover.de/en/university-sports-department/about-us) | Hochschulsport Hannover | 2026-10-24 | ✅ Opened |
-| 4 | [Studentenwerk – Save money](https://www.studentenwerk-hannover.de/en/money/save-money) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 5 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 6 | [staatstheater-hannover.de](https://www.staatstheater-hannover.de/) | Staatstheater Hannover | 2026-10-24 | ✅ Opened |
-| 7 | [Campus and city](https://www.uni-hannover.de/en/universitaet/campus-und-stadt) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 8 | [hannover.de events calendar](https://www.hannover.de/Veranstaltungskalender) | City and Region of Hannover | 2026-10-24 | ✅ Opened |
+| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 2 | [Hochschulsport – Sports programmes](https://www.hochschulsport-hannover.de/en/sports-programs/) | Hochschulsport Hannover | 2026-10-25 | ✅ Opened |
+| 3 | [Hochschulsport](https://www.hochschulsport-hannover.de/en/university-sports-department/about-us) | Hochschulsport Hannover | 2026-10-25 | ✅ Opened |
+| 4 | [Studentenwerk – Save money](https://www.studentenwerk-hannover.de/en/money/save-money) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 5 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 6 | [staatstheater-hannover.de](https://www.staatstheater-hannover.de/) | Staatstheater Hannover | 2026-10-25 | ✅ Opened |
+| 7 | [Campus and city](https://www.uni-hannover.de/en/universitaet/campus-und-stadt) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 8 | [hannover.de events calendar](https://www.hannover.de/Veranstaltungskalender) | City and Region of Hannover | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

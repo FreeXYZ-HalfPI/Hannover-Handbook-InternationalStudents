@@ -89,24 +89,24 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [online portal](https://hannover.gov.de/portal/seiten/erteilung-oder-verlaengerung-einer-aufenthaltserlaubnis-oder-blauen-karte-eu-1141-30810.html?rubrik=1001) | City of Hannover | 2026-10-24 | ✅ Opened |
-| 2 | [list of missions](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/deutsche-auslandsvertretungen/03-webseitenav) | Federal Foreign Office | 2026-10-24 | ✅ Opened |
-| 3 | [Federal Foreign Office – Missions of other states in Germany](https://www.auswaertiges-amt.de/de/reiseundsicherheit/vertretungen-anderer-staaten) | Federal Foreign Office | 2026-10-24 | ✅ Opened |
-| 4 | [uni-assist.de](https://www.uni-assist.de/) | uni-assist | 2026-10-24 | ✅ Opened |
-| 5 | [Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 6 | [International first-semester students](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/internationale-erstsemesterstudierende) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 7 | [Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 8 | [Semester dates](https://www.uni-hannover.de/en/studium/semestertermine) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 9 | [Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 10 | [Online services](https://www.uni-hannover.de/en/studium/im-studium/online-dienste) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 11 | [Standortfinder](https://standortfinder.uni-hannover.de/) | Leibniz University Hannover | 2026-10-24 | ✅ Opened |
-| 12 | [First Steps in Germany](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 13 | [Bürgeramt appointments](https://termin.hannover.gov.de/buergeramt) | City of Hannover | 2026-10-24 | ✅ Opened |
-| 14 | [Make it in Germany](https://www.make-it-in-germany.com/en/) | Federal Government – Make it in Germany | 2026-10-24 | ✅ Opened |
-| 15 | [Study in Germany (DAAD)](https://www.study-in-germany.de/en/) | DAAD | 2026-10-24 | ✅ Opened |
-| 16 | [uestra.de (GVH)](https://www.uestra.de/) | ÜSTRA / GVH | 2026-10-24 | ✅ Opened |
-| 17 | [aha-region.de](https://www.aha-region.de/) | aha – Region Hannover waste management | 2026-10-24 | ✅ Opened |
-| 18 | [116117.de](https://www.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-10-24 | ✅ Opened |
+| 1 | [online portal](https://hannover.gov.de/portal/seiten/erteilung-oder-verlaengerung-einer-aufenthaltserlaubnis-oder-blauen-karte-eu-1141-30810.html?rubrik=1001) | City of Hannover | 2026-10-25 | ✅ Opened |
+| 2 | [list of missions](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/deutsche-auslandsvertretungen/03-webseitenav) | Federal Foreign Office | 2026-10-25 | ✅ Opened |
+| 3 | [Federal Foreign Office – Missions of other states in Germany](https://www.auswaertiges-amt.de/de/reiseundsicherheit/vertretungen-anderer-staaten) | Federal Foreign Office | 2026-10-25 | ✅ Opened |
+| 4 | [uni-assist.de](https://www.uni-assist.de/) | uni-assist | 2026-10-25 | ✅ Opened |
+| 5 | [Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 6 | [International first-semester students](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/internationale-erstsemesterstudierende) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 7 | [Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 8 | [Semester dates](https://www.uni-hannover.de/en/studium/semestertermine) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 9 | [Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 10 | [Online services](https://www.uni-hannover.de/en/studium/im-studium/online-dienste) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 11 | [Standortfinder](https://standortfinder.uni-hannover.de/) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
+| 12 | [First Steps in Germany](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 13 | [Bürgeramt appointments](https://termin.hannover.gov.de/buergeramt) | City of Hannover | 2026-10-25 | ✅ Opened |
+| 14 | [Make it in Germany](https://www.make-it-in-germany.com/en/) | Federal Government – Make it in Germany | 2026-10-25 | ✅ Opened |
+| 15 | [Study in Germany (DAAD)](https://www.study-in-germany.de/en/) | DAAD | 2026-10-25 | ✅ Opened |
+| 16 | [uestra.de (GVH)](https://www.uestra.de/) | ÜSTRA / GVH | 2026-10-25 | ✅ Opened |
+| 17 | [aha-region.de](https://www.aha-region.de/) | aha – Region Hannover waste management | 2026-10-25 | ✅ Opened |
+| 18 | [116117.de](https://www.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

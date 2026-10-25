@@ -44,14 +44,14 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Federal Foreign Office – Schengen Agreement](https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/schengen-207786) | Federal Foreign Office | 2026-10-24 | ✅ Opened |
-| 2 | [Federal Foreign Office – Calculating the length of stay](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/39-berechnung-aufenthaltsdauer/606614) | Federal Foreign Office | 2026-10-24 | ✅ Opened |
-| 3 | [European Commission – Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) | European Union | 2026-10-24 | ✅ Opened |
-| 4 | [Federal Foreign Office – Visa for Germany](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/606772-606772) | Federal Foreign Office | 2026-10-24 | ✅ Opened |
-| 5 | [European Union – EES](https://travel-europe.europa.eu/ees_en) | European Union | 2026-10-24 | ✅ Opened |
-| 6 | [City of Wiesbaden](https://www.wiesbaden.de/vv/produkte/33/Verlust-Aufenthaltstitel-Reiseausweis) | wiesbaden.de — unofficial / secondary source | 2026-10-24 | ✅ Opened |
-| 7 | [§ 51 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 8 | [auswaertiges-amt.de](https://www.auswaertiges-amt.de/) | Federal Foreign Office | 2026-10-24 | ✅ Opened |
+| 1 | [Federal Foreign Office – Schengen Agreement](https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/schengen-207786) | Federal Foreign Office | 2026-10-25 | ✅ Opened |
+| 2 | [Federal Foreign Office – Calculating the length of stay](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/39-berechnung-aufenthaltsdauer/606614) | Federal Foreign Office | 2026-10-25 | ✅ Opened |
+| 3 | [European Commission – Short-stay calculator](https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en) | European Union | 2026-10-25 | ✅ Opened |
+| 4 | [Federal Foreign Office – Visa for Germany](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/606772-606772) | Federal Foreign Office | 2026-10-25 | ✅ Opened |
+| 5 | [European Union – EES](https://travel-europe.europa.eu/ees_en) | European Union | 2026-10-25 | ✅ Opened |
+| 6 | [City of Wiesbaden](https://www.wiesbaden.de/vv/produkte/33/Verlust-Aufenthaltstitel-Reiseausweis) | wiesbaden.de — unofficial / secondary source | 2026-10-25 | ✅ Opened |
+| 7 | [§ 51 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__51.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 8 | [auswaertiges-amt.de](https://www.auswaertiges-amt.de/) | Federal Foreign Office | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

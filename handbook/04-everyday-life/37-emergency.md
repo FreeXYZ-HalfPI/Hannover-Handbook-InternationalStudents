@@ -49,20 +49,20 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [hannover.de – Emergency services & numbers](https://www.hannover.de/Leben-in-der-Region-Hannover/B%C3%BCrger-Service/Hilfe,-Beratung,-Notdienste/Notdienste-Notfall%C2%ADnummern) | City and Region of Hannover | 2026-10-24 | ✅ Opened |
-| 2 | [116117.de](https://www.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-10-24 | ✅ Opened |
-| 3 | [TelefonSeelsorge](https://www.telefonseelsorge.de/telefon/) | TelefonSeelsorge | 2026-10-24 | ✅ Opened |
-| 4 | [Hilfetelefon Gewalt gegen Frauen](https://www.hilfetelefon.de/en.html) | Federal Office for Family Affairs | 2026-10-24 | ✅ Opened |
-| 5 | [aponet](https://www.aponet.de/notdienstsuche) | ABDA (pharmacists) | 2026-10-24 | ✅ Opened |
-| 6 | [LUH – Emergency](https://www.uni-hannover.de/en/notfall) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 7 | [BBK – First aid and emergency call](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Gesundheit-und-Hygiene/Erste-Hilfe-und-Notruf/erste-hilfe-und-notruf_node.html) | Federal Office of Civil Protection | 2026-10-24 | ✅ Opened |
-| 8 | [BBK – NINA](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/warn-app-nina_node.html) | Federal Office of Civil Protection | 2026-10-24 | ✅ Opened |
-| 9 | [City of Munich – Loss of residence documents](https://stadt.muenchen.de/service/info/verlust-von-aufenthalts-oder-ausweisdokumenten/10112606/) | stadt.muenchen.de — unofficial / secondary source | 2026-10-24 | ✅ Opened |
-| 10 | [City of Wiesbaden](https://www.wiesbaden.de/vv/produkte/33/Verlust-Aufenthaltstitel-Reiseausweis) | wiesbaden.de — unofficial / secondary source | 2026-10-24 | ✅ Opened |
-| 11 | [Federal Foreign Office – Missions of other states in Germany](https://www.auswaertiges-amt.de/de/reiseundsicherheit/vertretungen-anderer-staaten) | Federal Foreign Office | 2026-10-24 | ✅ Opened |
-| 12 | [WEISSER RING](https://weisser-ring.de/english) | weisser-ring.de | 2026-10-24 | ✅ Opened |
-| 13 | [pd-h.polizei-nds.de](https://www.pd-h.polizei-nds.de/) | Police Hannover | 2026-10-24 | ✅ Opened |
-| 14 | [hannover.de – Police directorate](https://www.hannover.de/Media/02-GIS-Objekte/Organisationsdatenbank/Redaktion-Hannover.de/A-Z/P/Polizei/Polizeidirektion-Hannover) | City and Region of Hannover | 2026-10-24 | ✅ Opened |
+| 1 | [hannover.de – Emergency services & numbers](https://www.hannover.de/Leben-in-der-Region-Hannover/B%C3%BCrger-Service/Hilfe,-Beratung,-Notdienste/Notdienste-Notfall%C2%ADnummern) | City and Region of Hannover | 2026-10-25 | ✅ Opened |
+| 2 | [116117.de](https://www.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-10-25 | ✅ Opened |
+| 3 | [TelefonSeelsorge](https://www.telefonseelsorge.de/telefon/) | TelefonSeelsorge | 2026-10-25 | ✅ Opened |
+| 4 | [Hilfetelefon Gewalt gegen Frauen](https://www.hilfetelefon.de/en.html) | Federal Office for Family Affairs | 2026-10-25 | ✅ Opened |
+| 5 | [aponet](https://www.aponet.de/notdienstsuche) | ABDA (pharmacists) | 2026-10-25 | ✅ Opened |
+| 6 | [LUH – Emergency](https://www.uni-hannover.de/en/notfall) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 7 | [BBK – First aid and emergency call](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Gesundheit-und-Hygiene/Erste-Hilfe-und-Notruf/erste-hilfe-und-notruf_node.html) | Federal Office of Civil Protection | 2026-10-25 | ✅ Opened |
+| 8 | [BBK – NINA](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/warn-app-nina_node.html) | Federal Office of Civil Protection | 2026-10-25 | ✅ Opened |
+| 9 | [City of Munich – Loss of residence documents](https://stadt.muenchen.de/service/info/verlust-von-aufenthalts-oder-ausweisdokumenten/10112606/) | stadt.muenchen.de — unofficial / secondary source | 2026-10-25 | ✅ Opened |
+| 10 | [City of Wiesbaden](https://www.wiesbaden.de/vv/produkte/33/Verlust-Aufenthaltstitel-Reiseausweis) | wiesbaden.de — unofficial / secondary source | 2026-10-25 | ✅ Opened |
+| 11 | [Federal Foreign Office – Missions of other states in Germany](https://www.auswaertiges-amt.de/de/reiseundsicherheit/vertretungen-anderer-staaten) | Federal Foreign Office | 2026-10-25 | ✅ Opened |
+| 12 | [WEISSER RING](https://weisser-ring.de/english) | weisser-ring.de | 2026-10-25 | ✅ Opened |
+| 13 | [pd-h.polizei-nds.de](https://www.pd-h.polizei-nds.de/) | Police Hannover | 2026-10-25 | ✅ Opened |
+| 14 | [hannover.de – Police directorate](https://www.hannover.de/Media/02-GIS-Objekte/Organisationsdatenbank/Redaktion-Hannover.de/A-Z/P/Polizei/Polizeidirektion-Hannover) | City and Region of Hannover | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

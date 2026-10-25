@@ -52,13 +52,13 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Housing](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/housing) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 2 | [Studentenwerk – Housing search](https://www.studentenwerk-hannover.de/en/wohnen/wohnungssuche) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 3 | [§ 551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 4 | [Federal Anti-Discrimination Agency – Housing](https://www.antidiskriminierungsstelle.de/EN/about-discrimination/areas-of-life/daily-business/housing-market/housing-market-node.html) | Federal Anti-Discrimination Agency | 2026-10-24 | ✅ Opened |
-| 5 | [AStA Hannover](https://www.asta-hannover.de/) | AStA Hannover | 2026-10-24 | ✅ Opened |
-| 6 | [Police information sheet via KIT (PDF, German)](https://www.intl.kit.edu/download/INFOBLATT_Betrug%20bei%20der%20Wohnungssuche.pdf) | intl.kit.edu — unofficial / secondary source | 2026-10-24 | ✅ Opened |
-| 7 | [City of Hannover form (PDF)](https://hannover.gov.de/medien/dokumente/wohnungsgeberbestaetigung.pdf) | City of Hannover | 2026-10-24 | ✅ Opened |
+| 1 | [LUH – Housing](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/housing) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 2 | [Studentenwerk – Housing search](https://www.studentenwerk-hannover.de/en/wohnen/wohnungssuche) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 3 | [§ 551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 4 | [Federal Anti-Discrimination Agency – Housing](https://www.antidiskriminierungsstelle.de/EN/about-discrimination/areas-of-life/daily-business/housing-market/housing-market-node.html) | Federal Anti-Discrimination Agency | 2026-10-25 | ✅ Opened |
+| 5 | [AStA Hannover](https://www.asta-hannover.de/) | AStA Hannover | 2026-10-25 | ✅ Opened |
+| 6 | [Police information sheet via KIT (PDF, German)](https://www.intl.kit.edu/download/INFOBLATT_Betrug%20bei%20der%20Wohnungssuche.pdf) | intl.kit.edu — unofficial / secondary source | 2026-10-25 | ✅ Opened |
+| 7 | [City of Hannover form (PDF)](https://hannover.gov.de/medien/dokumente/wohnungsgeberbestaetigung.pdf) | City of Hannover | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

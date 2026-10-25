@@ -43,12 +43,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Federal Ministry of Finance – Monthly report Feb 2026](https://www.bundesfinanzministerium.de/Monatsberichte/Ausgabe/2026/02/Inhalte/Kapitel-2-Analysen/2-5-wichtigste-steuerliche-aenderungen-2026.html) | Federal Ministry of Finance | 2026-10-24 | ✅ Opened |
-| 2 | [DRV – Student employee privilege](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Arbeitgeber-und-Steuerberater/summa-summarum/Lexikon/W/werkstudentenprivileg.html) | Deutsche Rentenversicherung | 2026-10-24 | ✅ Opened |
-| 3 | [elster.de](https://www.elster.de/) | German tax administration (ELSTER) | 2026-10-24 | ✅ Opened |
-| 4 | [Federal Ministry of Finance – Double taxation agreements](https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/staatenbezogene_info.html) | Federal Ministry of Finance | 2026-10-24 | ✅ Opened |
-| 5 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 6 | [Steuerverwaltung Niedersachsen – Finanzämter](https://lstn.niedersachsen.de/steuer/finanzaemter/) | Lower Saxony tax administration | 2026-10-24 | ✅ Opened |
+| 1 | [Federal Ministry of Finance – Monthly report Feb 2026](https://www.bundesfinanzministerium.de/Monatsberichte/Ausgabe/2026/02/Inhalte/Kapitel-2-Analysen/2-5-wichtigste-steuerliche-aenderungen-2026.html) | Federal Ministry of Finance | 2026-10-25 | ✅ Opened |
+| 2 | [DRV – Student employee privilege](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Arbeitgeber-und-Steuerberater/summa-summarum/Lexikon/W/werkstudentenprivileg.html) | Deutsche Rentenversicherung | 2026-10-25 | ✅ Opened |
+| 3 | [elster.de](https://www.elster.de/) | German tax administration (ELSTER) | 2026-10-25 | ✅ Opened |
+| 4 | [Federal Ministry of Finance – Double taxation agreements](https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/staatenbezogene_info.html) | Federal Ministry of Finance | 2026-10-25 | ✅ Opened |
+| 5 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 6 | [Steuerverwaltung Niedersachsen – Finanzämter](https://lstn.niedersachsen.de/steuer/finanzaemter/) | Lower Saxony tax administration | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

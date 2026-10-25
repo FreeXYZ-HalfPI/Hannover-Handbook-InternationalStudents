@@ -50,16 +50,16 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Studentenwerk Hannover – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 3 | [hannover.gov.de – Registering a flat](https://hannover.gov.de/buergerservice/dienstleistungen/anmeldung-einer-wohnung-zuzug-nach-hannover-900000016-0.html?myMedium=1) | City of Hannover | 2026-10-24 | ✅ Opened |
-| 4 | [PDF](https://hannover.gov.de/medien/dokumente/wohnungsgeberbestaetigung.pdf) | City of Hannover | 2026-10-24 | ✅ Opened |
-| 5 | [hannover.de – Bürgeramt Aegi](https://www.hannover.de/Leben-in-der-Region-Hannover/B%C3%BCrger-Service/B%C3%BCrger-Service-in-der-Landeshauptstadt-Hannover/B%C3%BCrger%C3%A4mter-der-Landeshauptstadt/B%C3%BCrger%C3%A4mter-in-Hannover/B%C3%BCrgeramt-Aegi-ehemals-Mitte) | City and Region of Hannover | 2026-10-24 | ✅ Opened |
-| 6 | [termin.hannover.gov.de/buergeramt](https://termin.hannover.gov.de/buergeramt) | City of Hannover | 2026-10-24 | ✅ Opened |
-| 7 | [LUH – Appointment request Bürgeramt](https://www.uni-hannover.de/en/formularsammlung/formularsammlung-hi/date-request-registration-with-the-city-of-hannover-buergeramt) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 8 | [hannover.gov.de – Electronic registration](https://hannover.gov.de/buergerservice/online/angebot/elektronische-wohnsitzanmeldung-1131-30810.html) | City of Hannover | 2026-10-24 | ✅ Opened |
-| 9 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 10 | [hannover.gov.de – Meldebescheinigung](https://hannover.gov.de/buergerservice/dienstleistungen/meldebescheinigung-900000026-0.html?myMedium=1) | City of Hannover | 2026-10-24 | ✅ Opened |
+| 1 | [Studentenwerk Hannover – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 3 | [hannover.gov.de – Registering a flat](https://hannover.gov.de/buergerservice/dienstleistungen/anmeldung-einer-wohnung-zuzug-nach-hannover-900000016-0.html?myMedium=1) | City of Hannover | 2026-10-25 | ✅ Opened |
+| 4 | [PDF](https://hannover.gov.de/medien/dokumente/wohnungsgeberbestaetigung.pdf) | City of Hannover | 2026-10-25 | ✅ Opened |
+| 5 | [hannover.de – Bürgeramt Aegi](https://www.hannover.de/Leben-in-der-Region-Hannover/B%C3%BCrger-Service/B%C3%BCrger-Service-in-der-Landeshauptstadt-Hannover/B%C3%BCrger%C3%A4mter-der-Landeshauptstadt/B%C3%BCrger%C3%A4mter-in-Hannover/B%C3%BCrgeramt-Aegi-ehemals-Mitte) | City and Region of Hannover | 2026-10-25 | ✅ Opened |
+| 6 | [termin.hannover.gov.de/buergeramt](https://termin.hannover.gov.de/buergeramt) | City of Hannover | 2026-10-25 | ✅ Opened |
+| 7 | [LUH – Appointment request Bürgeramt](https://www.uni-hannover.de/en/formularsammlung/formularsammlung-hi/date-request-registration-with-the-city-of-hannover-buergeramt) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 8 | [hannover.gov.de – Electronic registration](https://hannover.gov.de/buergerservice/online/angebot/elektronische-wohnsitzanmeldung-1131-30810.html) | City of Hannover | 2026-10-25 | ✅ Opened |
+| 9 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 10 | [hannover.gov.de – Meldebescheinigung](https://hannover.gov.de/buergerservice/dienstleistungen/meldebescheinigung-900000026-0.html?myMedium=1) | City of Hannover | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

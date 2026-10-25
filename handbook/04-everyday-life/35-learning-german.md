@@ -40,17 +40,17 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Language requirements](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/voraussetzungen-zum-studium/sprachnachweise) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 2 | [LLC – German](https://www.llc.uni-hannover.de/en/language-courses/german) | Leibniz Language Centre | 2026-10-24 | ✅ Opened |
-| 3 | [LLC – Tandem](https://www.llc.uni-hannover.de/en/language-courses/tandem-learning/tandem-learning-offers) | Leibniz Language Centre | 2026-10-24 | ✅ Opened |
-| 4 | [LLC](https://www.llc.uni-hannover.de/en/) | Leibniz Language Centre | 2026-10-24 | ✅ Opened |
-| 5 | [LUH – Study-Buddy](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote/study-buddy) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 6 | [vhs-hannover.de](https://www.vhs-hannover.de/) | Volkshochschule Hannover | 2026-10-24 | ✅ Opened |
-| 7 | [DW – Learn German](https://learngerman.dw.com/en/overview) | learngerman.dw.com | 2026-10-24 | ✅ Opened |
-| 8 | [Goethe-Institut – Practise German](https://www.goethe.de/en/spr/ueb.html) | goethe.de | 2026-10-24 | ⚠️ Blocks automated checks — open in a browser |
-| 9 | [TestDaF](https://www.testdaf.de/en/) | testdaf.de | 2026-10-24 | ⚠️ Blocks automated checks — open in a browser |
-| 10 | [LLC](https://www.llc.uni-hannover.de/en/leibniz-language-centre/guidelines-for-courses-and-fee-regulation) | Leibniz Language Centre | 2026-10-24 | ✅ Opened |
-| 11 | [LLC – Contact](https://www.llc.uni-hannover.de/en/leibniz-language-centre/contactdirectionsoffice-hours) | Leibniz Language Centre | 2026-10-24 | ✅ Opened |
+| 1 | [LUH – Language requirements](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/voraussetzungen-zum-studium/sprachnachweise) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 2 | [LLC – German](https://www.llc.uni-hannover.de/en/language-courses/german) | Leibniz Language Centre | 2026-10-25 | ✅ Opened |
+| 3 | [LLC – Tandem](https://www.llc.uni-hannover.de/en/language-courses/tandem-learning/tandem-learning-offers) | Leibniz Language Centre | 2026-10-25 | ✅ Opened |
+| 4 | [LLC](https://www.llc.uni-hannover.de/en/) | Leibniz Language Centre | 2026-10-25 | ✅ Opened |
+| 5 | [LUH – Study-Buddy](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote/study-buddy) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 6 | [vhs-hannover.de](https://www.vhs-hannover.de/) | Volkshochschule Hannover | 2026-10-25 | ✅ Opened |
+| 7 | [DW – Learn German](https://learngerman.dw.com/en/overview) | learngerman.dw.com | 2026-10-25 | ✅ Opened |
+| 8 | [Goethe-Institut – Practise German](https://www.goethe.de/en/spr/ueb.html) | goethe.de | 2026-10-25 | ⚠️ Blocks automated checks — open in a browser |
+| 9 | [TestDaF](https://www.testdaf.de/en/) | testdaf.de | 2026-10-25 | ⚠️ Blocks automated checks — open in a browser |
+| 10 | [LLC](https://www.llc.uni-hannover.de/en/leibniz-language-centre/guidelines-for-courses-and-fee-regulation) | Leibniz Language Centre | 2026-10-25 | ✅ Opened |
+| 11 | [LLC – Contact](https://www.llc.uni-hannover.de/en/leibniz-language-centre/contactdirectionsoffice-hours) | Leibniz Language Centre | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

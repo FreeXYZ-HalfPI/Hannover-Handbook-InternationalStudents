@@ -47,7 +47,7 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [GitHub issues](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/issues) | github.com | 2026-10-24 | ✅ Opened |
+| 1 | [GitHub issues](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/issues) | github.com | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

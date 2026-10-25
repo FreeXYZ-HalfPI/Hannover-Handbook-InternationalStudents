@@ -38,10 +38,10 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – ZQS](https://www.uni-hannover.de/en/universitaet/organisation/einrichtungen/zentrale-einrichtungen/zqs) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 2 | [ZQS – Key competencies](https://www.zqs.uni-hannover.de/en/kc) | ZQS, Leibniz University Hannover | 2026-10-24 | ✅ Opened |
-| 3 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 4 | [ZQS – Team and contact](https://www.zqs.uni-hannover.de/en/about-us/team-and-contact/) | ZQS, Leibniz University Hannover | 2026-10-24 | ✅ Opened |
+| 1 | [LUH – ZQS](https://www.uni-hannover.de/en/universitaet/organisation/einrichtungen/zentrale-einrichtungen/zqs) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 2 | [ZQS – Key competencies](https://www.zqs.uni-hannover.de/en/kc) | ZQS, Leibniz University Hannover | 2026-10-25 | ✅ Opened |
+| 3 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 4 | [ZQS – Team and contact](https://www.zqs.uni-hannover.de/en/about-us/team-and-contact/) | ZQS, Leibniz University Hannover | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

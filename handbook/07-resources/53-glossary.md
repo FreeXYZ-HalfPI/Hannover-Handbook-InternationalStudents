@@ -131,8 +131,8 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Hochschullexikon – studieren in Niedersachsen](https://www.studieren-in-niedersachsen.de/hochschullexikon.html) | studieren-in-niedersachsen.de | 2026-10-24 | ✅ Opened |
-| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
+| 1 | [Hochschullexikon – studieren in Niedersachsen](https://www.studieren-in-niedersachsen.de/hochschullexikon.html) | studieren-in-niedersachsen.de | 2026-10-25 | ✅ Opened |
+| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
 
 ## 7. Student experiences (unofficial)
 

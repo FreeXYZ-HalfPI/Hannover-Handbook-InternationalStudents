@@ -43,13 +43,13 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 2 | [Studentenwerk – Canteen FAQ](https://www.studentenwerk-hannover.de/en/food/canteen-faq) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 3 | [Studentenwerk – Canteens](https://www.studentenwerk-hannover.de/en/food/canteens-cafeterias) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 4 | [Opening times at a glance](https://www.studentenwerk-hannover.de/en/food/opening-times-at-a-glance) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 5 | [LUH – Financial aid for international students](https://www.uni-hannover.de/en/studium/finanzierung-foerderung/finanzielle-beihilfen-fuer-internationale-studierende) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 6 | [Studentenwerk](https://www.studentenwerk-hannover.de/unternehmen/news/detail/niedersachsen-menue-studi-preis-im-speiseplan) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
-| 7 | [Studentenwerk – 5 Mensa tips](https://www.studentenwerk-hannover.de/unternehmen/news/detail/5-mensa-tipps) | Studentenwerk Hannover | 2026-10-24 | ✅ Opened |
+| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 2 | [Studentenwerk – Canteen FAQ](https://www.studentenwerk-hannover.de/en/food/canteen-faq) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 3 | [Studentenwerk – Canteens](https://www.studentenwerk-hannover.de/en/food/canteens-cafeterias) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 4 | [Opening times at a glance](https://www.studentenwerk-hannover.de/en/food/opening-times-at-a-glance) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 5 | [LUH – Financial aid for international students](https://www.uni-hannover.de/en/studium/finanzierung-foerderung/finanzielle-beihilfen-fuer-internationale-studierende) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 6 | [Studentenwerk](https://www.studentenwerk-hannover.de/unternehmen/news/detail/niedersachsen-menue-studi-preis-im-speiseplan) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
+| 7 | [Studentenwerk – 5 Mensa tips](https://www.studentenwerk-hannover.de/unternehmen/news/detail/5-mensa-tipps) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

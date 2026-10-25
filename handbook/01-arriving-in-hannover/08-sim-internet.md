@@ -33,7 +33,7 @@ A German phone number and internet are needed in the first days for appointments
 
 - **University internet:** Leibniz Universität IT Services (LUIS) — [luis.uni-hannover.de](https://www.luis.uni-hannover.de/)
 - **Mobile operator:** your choice; this handbook does not recommend any operator.
-- **Regulator:** Bundesnetzagentur — [bundesnetzagentur.de](https://www.bundesnetzagentur.de/)
+- **Regulator:** Bundesnetzagentur — [Bundesnetzagentur – consumer information](https://www.bundesnetzagentur.de/DE/Vportal/TK/InternetTelefon/Vertrag/start.html)
 
 ## 6. Sources and official links
 
@@ -41,13 +41,13 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Your Europe – Roaming](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm) | European Union | 2026-10-24 | ✅ Opened |
-| 2 | [§ 172 TKG](https://www.gesetze-im-internet.de/tkg_2021/__172.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 3 | [Bundesnetzagentur – ID procedures for prepaid](https://www.bundesnetzagentur.de/tkg-identverfahren.html) | Federal Network Agency | 2026-10-24 | ✅ Opened |
-| 4 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 5 | [LUH – Housing](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/housing) | Leibniz University Hannover | 2026-10-24 | ❌ No response on access date |
-| 6 | [luis.uni-hannover.de](https://www.luis.uni-hannover.de/) | Leibniz University Hannover | 2026-10-24 | ✅ Opened |
-| 7 | [bundesnetzagentur.de](https://www.bundesnetzagentur.de/) | Federal Network Agency | 2026-10-24 | ✅ Opened |
+| 1 | [Your Europe – Roaming](https://europa.eu/youreurope/citizens/consumers/internet-telecoms/mobile-roaming-costs/index_en.htm) | European Union | 2026-10-25 | ✅ Opened |
+| 2 | [§ 172 TKG](https://www.gesetze-im-internet.de/tkg_2021/__172.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 3 | [Bundesnetzagentur – ID procedures for prepaid](https://www.bundesnetzagentur.de/tkg-identverfahren.html) | Federal Network Agency | 2026-10-25 | ✅ Opened |
+| 4 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 5 | [LUH – Housing](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/housing) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 6 | [luis.uni-hannover.de](https://www.luis.uni-hannover.de/) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
+| 7 | [Bundesnetzagentur – consumer information](https://www.bundesnetzagentur.de/DE/Vportal/TK/InternetTelefon/Vertrag/start.html) | Federal Network Agency | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

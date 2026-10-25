@@ -51,17 +51,17 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Make it in Germany – Family reunification](https://www.make-it-in-germany.com/en/visa-residence/family-reunification) | Federal Government – Make it in Germany | 2026-10-24 | ✅ Opened |
-| 2 | [Make it in Germany – Spouses joining non-EU citizens](https://www.make-it-in-germany.com/en/visa-recognition/family-reunification/spouses-joining-non-eu-citizens) | Federal Government – Make it in Germany | 2026-10-24 | ✅ Opened |
-| 3 | [§ 30 (1) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__30.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 4 | [Make it in Germany – Family reunification](https://www.make-it-in-germany.com/en/visa-recognition/family-reunification) | Federal Government – Make it in Germany | 2026-10-24 | ✅ Opened |
-| 5 | [Federal Foreign Office – German missions abroad](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/deutsche-auslandsvertretungen/03-webseitenav) | Federal Foreign Office | 2026-10-24 | ✅ Opened |
-| 6 | [Make it in Germany – Childcare](https://www.make-it-in-germany.com/en/living-in-germany/family-reunification/child-care) | Federal Government – Make it in Germany | 2026-10-24 | ✅ Opened |
-| 7 | [Make it in Germany – School system](https://www.make-it-in-germany.com/en/living-in-germany/family-reunification/school-system) | Federal Government – Make it in Germany | 2026-10-24 | ✅ Opened |
-| 8 | [Federal Employment Agency – Child benefit](https://www.arbeitsagentur.de/en/familie-und-kinder/kindergeld) | Federal Employment Agency | 2026-10-24 | ✅ Opened |
-| 9 | [LUH – Studying with a child](https://www.chancenvielfalt.uni-hannover.de/familienservice/studieren-mit-kind) | Leibniz University Hannover | 2026-10-24 | ✅ Opened |
-| 10 | [German Embassy San José – Student visa information (PDF)](https://san-jose.diplo.de/resource/blob/1540562/fddac503242f24102b78bf7523dd7aba/merkblatt-studium-data.pdf) | Federal Foreign Office (German mission) | 2026-10-24 | ✅ Opened |
-| 11 | [chancenvielfalt.uni-hannover.de](https://www.chancenvielfalt.uni-hannover.de/) | Leibniz University Hannover | 2026-10-24 | ✅ Opened |
+| 1 | [Make it in Germany – Family reunification](https://www.make-it-in-germany.com/en/visa-residence/family-reunification) | Federal Government – Make it in Germany | 2026-10-25 | ✅ Opened |
+| 2 | [Make it in Germany – Spouses joining non-EU citizens](https://www.make-it-in-germany.com/en/visa-recognition/family-reunification/spouses-joining-non-eu-citizens) | Federal Government – Make it in Germany | 2026-10-25 | ✅ Opened |
+| 3 | [§ 30 (1) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__30.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 4 | [Make it in Germany – Family reunification](https://www.make-it-in-germany.com/en/visa-recognition/family-reunification) | Federal Government – Make it in Germany | 2026-10-25 | ✅ Opened |
+| 5 | [Federal Foreign Office – German missions abroad](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/deutsche-auslandsvertretungen/03-webseitenav) | Federal Foreign Office | 2026-10-25 | ✅ Opened |
+| 6 | [Make it in Germany – Childcare](https://www.make-it-in-germany.com/en/living-in-germany/family-reunification/child-care) | Federal Government – Make it in Germany | 2026-10-25 | ✅ Opened |
+| 7 | [Make it in Germany – School system](https://www.make-it-in-germany.com/en/living-in-germany/family-reunification/school-system) | Federal Government – Make it in Germany | 2026-10-25 | ✅ Opened |
+| 8 | [Federal Employment Agency – Child benefit](https://www.arbeitsagentur.de/en/familie-und-kinder/kindergeld) | Federal Employment Agency | 2026-10-25 | ✅ Opened |
+| 9 | [LUH – Studying with a child](https://www.chancenvielfalt.uni-hannover.de/familienservice/studieren-mit-kind) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
+| 10 | [German Embassy San José – Student visa information (PDF)](https://san-jose.diplo.de/resource/blob/1540562/fddac503242f24102b78bf7523dd7aba/merkblatt-studium-data.pdf) | Federal Foreign Office (German mission) | 2026-10-25 | ✅ Opened |
+| 11 | [chancenvielfalt.uni-hannover.de](https://www.chancenvielfalt.uni-hannover.de/) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

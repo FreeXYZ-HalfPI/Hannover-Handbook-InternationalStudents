@@ -44,13 +44,13 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [§ 17 BMG](https://www.gesetze-im-internet.de/bmg/__17.html) | Federal Ministry of Justice (law text) | 2026-10-24 | ✅ Opened |
-| 2 | [hannover.gov.de – Deregistration](https://hannover.gov.de/buergerservice/dienstleistungen/abmeldung-einer-wohnung-wegzug-aus-hannover-900000020-0.html?myMedium=1) | City of Hannover | 2026-10-24 | ✅ Opened |
-| 3 | [Rundfunkbeitrag – Deregister](https://www.rundfunkbeitrag.de/buergerinnen-und-buerger/formulare/abmelden) | ARD ZDF Deutschlandradio Beitragsservice | 2026-10-24 | ✅ Opened |
-| 4 | [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/wichtige-kundenrechte-fuer-telefon-handy-und-internetvertraege-65879) | Verbraucherzentrale | 2026-10-24 | ✅ Opened |
-| 5 | [Deutsche Rentenversicherung – Refund of contributions (German)](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Beitragserstattung/beitragserstattung_node.html) | Deutsche Rentenversicherung | 2026-10-24 | ✅ Opened |
-| 6 | [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/) | ARD ZDF Deutschlandradio Beitragsservice | 2026-10-24 | ✅ Opened |
-| 7 | [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/) | Deutsche Rentenversicherung | 2026-10-24 | ✅ Opened |
+| 1 | [§ 17 BMG](https://www.gesetze-im-internet.de/bmg/__17.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 2 | [hannover.gov.de – Deregistration](https://hannover.gov.de/buergerservice/dienstleistungen/abmeldung-einer-wohnung-wegzug-aus-hannover-900000020-0.html?myMedium=1) | City of Hannover | 2026-10-25 | ✅ Opened |
+| 3 | [Rundfunkbeitrag – Deregister](https://www.rundfunkbeitrag.de/buergerinnen-und-buerger/formulare/abmelden) | ARD ZDF Deutschlandradio Beitragsservice | 2026-10-25 | ✅ Opened |
+| 4 | [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/wichtige-kundenrechte-fuer-telefon-handy-und-internetvertraege-65879) | Verbraucherzentrale | 2026-10-25 | ✅ Opened |
+| 5 | [Deutsche Rentenversicherung – Refund of contributions (German)](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Beitragserstattung/beitragserstattung_node.html) | Deutsche Rentenversicherung | 2026-10-25 | ✅ Opened |
+| 6 | [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/) | ARD ZDF Deutschlandradio Beitragsservice | 2026-10-25 | ✅ Opened |
+| 7 | [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de/) | Deutsche Rentenversicherung | 2026-10-25 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 
