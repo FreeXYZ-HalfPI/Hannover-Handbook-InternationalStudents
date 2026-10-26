@@ -7,6 +7,8 @@ Thank you for helping international students in Hannover!
 - **New page:** copy [TEMPLATE.md](TEMPLATE.md) into the right section folder and add it to that section's `README.md` and to [handbook/README.md](handbook/README.md).
 - **Country-specific information** (visa waiting times, document legalisation, home-country scholarships, banking): add it to the matching page in [Section 8](handbook/08-by-nationality/README.md), with a date and source.
 
+Step-by-step help with Issues and Pull Requests: [68. GitHub guide](handbook/07-resources/68-github-guide.md).
+
 ## Writing rules
 
 1. **Fixed structure:** every topic page has these sections: 1. Purpose · 2. Who needs this? · 3. Steps · 4. Documents and costs (with a "Required / possible" column) · 5. Responsible office (official name, address, contact) · 6. Sources and official links · 7. Student experiences (unofficial). Example: [TEMPLATE.md](TEMPLATE.md).
@@ -28,6 +30,7 @@ Thank you for helping international students in Hannover!
 ```bash
 bash tools/check_links.sh          # status of every external link -> link-report.tsv
 python3 tools/build_sources.py     # regenerate section 6 (sources) on every page
+python3 tools/build_search.py      # rebuild the search index (search/search-index.js) for both handbooks
 python3 tools/build_pdf.py         # build pdf/Hannover-Handbook-International-Students.pdf
 ```
 

@@ -39,16 +39,16 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [ptb](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-10-25 | ✅ Opened |
-| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [Erstival](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/erstival) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 4 | [Orientation Days](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/preparation-courses-and-introductory-sessions/orientation-days) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 5 | [Making contacts](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/kontakte-knuepfen) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 6 | [Start Smart](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/start-smart) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 7 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-25 | ✅ Opened |
-| 8 | [LUH – ZQS](https://www.uni-hannover.de/en/universitaet/organisation/einrichtungen/zentrale-einrichtungen/zqs) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 9 | [Instagram @uni_hannover](https://www.instagram.com/uni_hannover/) | instagram.com | 2026-10-25 | ✅ Opened |
-| 10 | [LinkedIn](https://www.linkedin.com/school/leibniz-universit-t-hannover-germany) | linkedin.com | 2026-10-25 | ⚠️ Blocks automated checks — open in a browser |
+| 1 | [ptb](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-10-26 | ✅ Opened |
+| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [Erstival](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/erstival) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [Orientation Days](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/preparation-courses-and-introductory-sessions/orientation-days) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [Making contacts](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/kontakte-knuepfen) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [Start Smart](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/start-smart) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 7 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-26 | ✅ Opened |
+| 8 | [LUH – ZQS](https://www.uni-hannover.de/en/universitaet/organisation/einrichtungen/zentrale-einrichtungen/zqs) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 9 | [Instagram @uni_hannover](https://www.instagram.com/uni_hannover/) | instagram.com | 2026-10-26 | ✅ Opened |
+| 10 | [LinkedIn](https://www.linkedin.com/school/leibniz-universit-t-hannover-germany) | linkedin.com | 2026-10-26 | ⚠️ Blocks automated checks — open in a browser |
 
 ## 7. Student experiences (unofficial)
 

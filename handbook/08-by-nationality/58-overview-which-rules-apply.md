@@ -53,12 +53,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 2 | [§ 41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 3 | [§ 16b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 4 | [Federal Foreign Office – Visa requirements overview](https://www.auswaertiges-amt.de/en/visa-service/-/231148) | Federal Foreign Office | 2026-10-25 | ✅ Opened |
-| 5 | [LUH](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/internationale-erstsemesterstudierende) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 6 | [digital.diplo.de](https://digital.diplo.de/navigator/en/visa) | Federal Foreign Office (German mission) | 2026-10-25 | ✅ Opened |
+| 1 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [§ 41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 3 | [§ 16b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 4 | [Federal Foreign Office – Visa requirements overview](https://www.auswaertiges-amt.de/en/visa-service/-/231148) | Federal Foreign Office | 2026-10-26 | ✅ Opened |
+| 5 | [LUH](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/internationale-erstsemesterstudierende) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [digital.diplo.de](https://digital.diplo.de/navigator/en/visa) | Federal Foreign Office (German mission) | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

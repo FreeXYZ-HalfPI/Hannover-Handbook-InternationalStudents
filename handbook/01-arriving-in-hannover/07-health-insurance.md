@@ -1,7 +1,7 @@
 # 7. Health Insurance — Krankenversicherung
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-10-26 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -19,9 +19,11 @@ You cannot enrol at the university without health insurance, and proof of insura
 
 1.  Choose a statutory health insurer (gesetzliche Krankenkasse). Studentenwerk names these insurers with offices in Hannover: AOK, BARMER, DAK, KKH and TK ([Studentenwerk](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany)). All statutory insurers cover essentially the same benefits by law; they differ mainly in the additional contribution and service (e.g. English-language support).
 2.  Ask the insurer to send the **electronic insurance notification (M10)** directly to the university ([Studentenwerk](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany); [LUH – Enrolment](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/nach-der-bewerbung/einschreibung)).
-3.  **Private insurance or exemption:** if you choose private insurance, you must apply to a statutory insurer for exemption within three months of enrolment, and the exemption is **irrevocable for your whole studies** ([§ 8 SGB V](https://www.gesetze-im-internet.de/sgb_5/__8.html)). The private policy must meet the requirements of § 11 (1)–(3) SGB V for the residence permit ([LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt)). ℹ️ Over 30? Statutory student rates end; compare voluntary statutory and private options carefully.
+3.  **Private insurance or exemption:** if you choose private insurance, you must apply to a statutory insurer for exemption within three months of enrolment, and the exemption is **irrevocable for your whole studies** ([§ 8 SGB V](https://www.gesetze-im-internet.de/sgb_5/__8.html)). The private policy must meet the requirements of § 11 (1)–(3) SGB V for the residence permit ([LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt)).
 4.  Enrolled students are automatically covered by **statutory accident insurance** for university activities ([LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt)).
 5.  After joining, always carry your insurance card and show it at the doctor and pharmacy. → [33. Doctors and pharmacies](../04-everyday-life/33-doctor-pharmacy.md)
+6.  **Turning 30:** compulsory student insurance runs **at most until your 30th birthday**; it continues longer only if the type of studies or family or personal reasons justify it ([§ 5 (1) no. 9 SGB V](https://www.gesetze-im-internet.de/sgb_5/__5.html)). Ask your insurer a few months before your 30th birthday what your options are afterwards and what they cost — students ask this question again and again.
+7.  **Read cheap private policies carefully:** before signing, check the limit for dental treatment, the deductible (your own share) and cover for non-urgent treatment. → [33. Doctors and pharmacies](../04-everyday-life/33-doctor-pharmacy.md)
 
 ## 4. Documents and costs
 
@@ -46,20 +48,23 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Studentenwerk Hannover – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
-| 2 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [DVKA – Social security agreements](https://www.dvka.de/en/) | DVKA (GKV-Spitzenverband) | 2026-10-25 | ✅ Opened |
-| 4 | [gesetzlichekrankenkassen.de](https://www.gesetzlichekrankenkassen.de/kassenbeitraege/studenten) | gesetzlichekrankenkassen.de — unofficial / secondary source | 2026-10-25 | ✅ Opened |
-| 5 | [LUH – Enrolment](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/nach-der-bewerbung/einschreibung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 6 | [§ 8 SGB V](https://www.gesetze-im-internet.de/sgb_5/__8.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 7 | [TK](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/studenten-und-fachschueler/was-muessen-studierende-beachten-2065514) | Techniker Krankenkasse | 2026-10-25 | ✅ Opened |
-| 8 | [AOK](https://www.aok.de/pp/rechengroessen/kostenueberblick-studentischen-krankenversicherung/) | AOK | 2026-10-25 | ✅ Opened |
-| 9 | [BARMER](https://www.barmer.de/unsere-leistungen/beitraege-tarife/krankenversicherung-studierende) | BARMER | 2026-10-25 | ✅ Opened |
-| 10 | [LUH – Health insurance](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/krankenversicherung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 1 | [Studentenwerk Hannover – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [DVKA – Social security agreements](https://www.dvka.de/en/) | DVKA (GKV-Spitzenverband) | 2026-10-26 | ✅ Opened |
+| 4 | [gesetzlichekrankenkassen.de](https://www.gesetzlichekrankenkassen.de/kassenbeitraege/studenten) | gesetzlichekrankenkassen.de — unofficial / secondary source | 2026-10-26 | ✅ Opened |
+| 5 | [LUH – Enrolment](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/nach-der-bewerbung/einschreibung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [§ 8 SGB V](https://www.gesetze-im-internet.de/sgb_5/__8.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 7 | [§ 5 (1) no. 9 SGB V](https://www.gesetze-im-internet.de/sgb_5/__5.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 8 | [TK](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/studenten-und-fachschueler/was-muessen-studierende-beachten-2065514) | Techniker Krankenkasse | 2026-10-26 | ✅ Opened |
+| 9 | [AOK](https://www.aok.de/pp/rechengroessen/kostenueberblick-studentischen-krankenversicherung/) | AOK | 2026-10-26 | ✅ Opened |
+| 10 | [BARMER](https://www.barmer.de/unsere-leistungen/beitraege-tarife/krankenversicherung-studierende) | BARMER | 2026-10-26 | ✅ Opened |
+| 11 | [LUH – Health insurance](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/krankenversicherung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 
 > [!NOTE]
 > This section is for personal experiences; it is not a general rule or legal advice. Share yours (with a date) on [page 57](../07-resources/57-contribute-experiences.md) or by opening a GitHub issue.
 
-- No experiences added yet.
+- **Cheap private insurance:** students who arrived with low-cost private insurance reported that dental costs were refunded only up to a small yearly limit and that specialist visits without a referral were sometimes not covered. You pay the bills yourself and send them in for reimbursement.
+- **Supplementary dental insurance** only covers problems that start **after** the policy begins — take it out before your first dental check-up. Implants and bridges are usually not covered by statutory insurance.
+- **Sick days at work:** your employer pays your wages for sick days (with a doctor's certificate), not your health insurer — whether statutory or private. → [33](../04-everyday-life/33-doctor-pharmacy.md)

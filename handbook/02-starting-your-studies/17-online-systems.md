@@ -44,14 +44,14 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 2 | [activation guide](https://www.uni-hannover.de/en/studium/im-studium/online-dienste/idm#c60368) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [luis.uni-hannover.de](https://www.luis.uni-hannover.de/) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 4 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 5 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-25 | ✅ Opened |
-| 6 | [LUH – Mobile app](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/mobile-app-zum-studienstart) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 7 | [Online services](https://www.uni-hannover.de/en/studium/im-studium/online-dienste) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 8 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [activation guide](https://www.uni-hannover.de/en/studium/im-studium/online-dienste/idm#c60368) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [luis.uni-hannover.de](https://www.luis.uni-hannover.de/) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [LUH – Mobile app](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/mobile-app-zum-studienstart) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 7 | [Online services](https://www.uni-hannover.de/en/studium/im-studium/online-dienste) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 8 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

@@ -41,14 +41,14 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [starting-business.de](https://starting-business.de/) | hannoverimpuls / LUH | 2026-10-25 | ✅ Opened |
-| 2 | [starting-business.de – Advice](https://starting-business.de/beratung) | hannoverimpuls / LUH | 2026-10-25 | ✅ Opened |
-| 3 | [LUH – Business start-ups](https://www.uni-hannover.de/forschung/transfer/existenzgruendung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 4 | [LUH – SG 44](https://www.uni-hannover.de/universitaet/organisation/dezernate/dezernat-4/sg-44-geistiges-eigentum-schutzrechte-gruendung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 5 | [Self-employment / Starting a business – Graduate Academy](https://www.graduiertenakademie.uni-hannover.de/en/career/career-areas/self-employment-starting-a-business) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 6 | [Gründerplattform](https://gruenderplattform.de/) | gruenderplattform.de | 2026-10-25 | ✅ Opened |
-| 7 | [§ 21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 8 | [Make it in Germany – Self-employment](https://www.make-it-in-germany.com/en/visa-residence/types/self-employment) | Federal Government – Make it in Germany | 2026-10-25 | ✅ Opened |
+| 1 | [starting-business.de](https://starting-business.de/) | hannoverimpuls / LUH | 2026-10-26 | ✅ Opened |
+| 2 | [starting-business.de – Advice](https://starting-business.de/beratung) | hannoverimpuls / LUH | 2026-10-26 | ✅ Opened |
+| 3 | [LUH – Business start-ups](https://www.uni-hannover.de/forschung/transfer/existenzgruendung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [LUH – SG 44](https://www.uni-hannover.de/universitaet/organisation/dezernate/dezernat-4/sg-44-geistiges-eigentum-schutzrechte-gruendung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [Self-employment / Starting a business – Graduate Academy](https://www.graduiertenakademie.uni-hannover.de/en/career/career-areas/self-employment-starting-a-business) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [Gründerplattform](https://gruenderplattform.de/) | gruenderplattform.de | 2026-10-26 | ✅ Opened |
+| 7 | [§ 21 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__21.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 8 | [Make it in Germany – Self-employment](https://www.make-it-in-germany.com/en/visa-residence/types/self-employment) | Federal Government – Make it in Germany | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

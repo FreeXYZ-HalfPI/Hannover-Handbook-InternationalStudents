@@ -51,12 +51,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Enrolment](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/nach-der-bewerbung/einschreibung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 2 | [LUH – Language requirements](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/voraussetzungen-zum-studium/sprachnachweise) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [photo.idm.uni-hannover.de](https://photo.idm.uni-hannover.de/students/) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 4 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 5 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 6 | [ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 1 | [LUH – Enrolment](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/nach-der-bewerbung/einschreibung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [LUH – Language requirements](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/voraussetzungen-zum-studium/sprachnachweise) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [photo.idm.uni-hannover.de](https://photo.idm.uni-hannover.de/students/) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

@@ -55,12 +55,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Leave of absence](https://www.uni-hannover.de/studium/im-studium/studienorganisation/studierendenstatus/beurlaubung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 2 | [LUH Enrolment Regulations – § 9 (PDF)](https://www.uni-hannover.de/fileadmin/luh/content/i-amt/antraege/gesetze/Immatrikulationsordnung_der_Gottfried_Wilhelm_Leibniz_Universitaet_Hannover.pdf) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [LUH – Change of programme](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/studiengangs-und-fachwechsel) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 4 | [§ 16b (2) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 5 | [LUH – De-registration](https://www.uni-hannover.de/studium/im-studium/studienorganisation/studierendenstatus/exmatrikulation) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 6 | [Studien(fehl)start](https://www.uni-hannover.de/studium/im-studium/start-ins-studium/studienfehlstart) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 1 | [LUH – Leave of absence](https://www.uni-hannover.de/studium/im-studium/studienorganisation/studierendenstatus/beurlaubung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [LUH Enrolment Regulations – § 9 (PDF)](https://www.uni-hannover.de/fileadmin/luh/content/i-amt/antraege/gesetze/Immatrikulationsordnung_der_Gottfried_Wilhelm_Leibniz_Universitaet_Hannover.pdf) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [LUH – Change of programme](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/studiengangs-und-fachwechsel) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [§ 16b (2) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 5 | [LUH – De-registration](https://www.uni-hannover.de/studium/im-studium/studienorganisation/studierendenstatus/exmatrikulation) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [Studien(fehl)start](https://www.uni-hannover.de/studium/im-studium/start-ins-studium/studienfehlstart) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

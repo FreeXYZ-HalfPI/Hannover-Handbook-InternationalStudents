@@ -1,7 +1,7 @@
 # 53. German–English Glossary of Administrative and University Terms
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-10-26 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -117,6 +117,27 @@ German administrative and university terms you will see in letters, forms and we
 
 More terms: [Hochschullexikon – studieren in Niedersachsen](https://www.studieren-in-niedersachsen.de/hochschullexikon.html) (German; recommended in the [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist)).
 
+**Rights, documents and legal help**
+
+| German | English | Page |
+|----|----|----|
+| Basiskonto | Basic payment account every legal EU resident is entitled to | [6. Bank account](../01-arriving-in-hannover/06-bank-account.md) |
+| Untermiete | Sublet from a tenant (needs the landlord's permission) | [4. Accommodation](../01-arriving-in-hannover/04-housing.md) |
+| Widerrufsrecht | 14-day right of withdrawal from a contract | [67. Consumer rights](67-consumer-rights-legal-help.md) |
+| Kündigungsfrist | Notice period for ending a contract | [67. Consumer rights](67-consumer-rights-legal-help.md) |
+| Inkasso | Debt-collection agency | [67. Consumer rights](67-consumer-rights-legal-help.md) |
+| Mahnbescheid | Court payment order (object within two weeks) | [67. Consumer rights](67-consumer-rights-legal-help.md) |
+| Anzeige | Police report / criminal complaint | [67. Consumer rights](67-consumer-rights-legal-help.md) |
+| Beglaubigung / beglaubigte Kopie | Certification / certified copy | [66. Documents](66-documents-translations-certified-copies.md) |
+| Apostille / Legalisation | Confirmation that a foreign public document is genuine | [66. Documents](66-documents-translations-certified-copies.md) |
+| beeidigte(r) Übersetzer(in) | Sworn (certified) translator | [66. Documents](66-documents-translations-certified-copies.md) |
+| Zeugnisbewertung (ZAB) | Evaluation of a foreign degree | [66. Documents](66-documents-translations-certified-copies.md) |
+| Arbeitsunfähigkeitsbescheinigung (AU) | Sick note for your employer | [33. Doctors](../04-everyday-life/33-doctor-pharmacy.md) |
+| Überweisung | Referral to a specialist (also: bank transfer) | [33. Doctors](../04-everyday-life/33-doctor-pharmacy.md) |
+| Bonusheft | Dental bonus booklet | [33. Doctors](../04-everyday-life/33-doctor-pharmacy.md) |
+| Notaufnahme | Hospital emergency department | [33. Doctors](../04-everyday-life/33-doctor-pharmacy.md) |
+| Warntag | Nationwide test of the warning system | [37. Emergency](../04-everyday-life/37-emergency.md) |
+
 ## 4. Documents and costs
 
 - None.
@@ -131,8 +152,8 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Hochschullexikon – studieren in Niedersachsen](https://www.studieren-in-niedersachsen.de/hochschullexikon.html) | studieren-in-niedersachsen.de | 2026-10-25 | ✅ Opened |
-| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 1 | [Hochschullexikon – studieren in Niedersachsen](https://www.studieren-in-niedersachsen.de/hochschullexikon.html) | studieren-in-niedersachsen.de | 2026-10-26 | ✅ Opened |
+| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

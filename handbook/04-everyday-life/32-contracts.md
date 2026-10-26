@@ -40,12 +40,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Housing](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/housing) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 2 | [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/wichtige-kundenrechte-fuer-telefon-handy-und-internetvertraege-65879) | Verbraucherzentrale | 2026-10-25 | ✅ Opened |
-| 3 | [Bundesnetzagentur – consumer information](https://www.bundesnetzagentur.de/DE/Vportal/TK/InternetTelefon/Vertrag/start.html) | Federal Network Agency | 2026-10-25 | ✅ Opened |
-| 4 | [§ 355 BGB](https://www.gesetze-im-internet.de/bgb/__355.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 5 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 6 | [Verbraucherzentrale – Hannover office](https://www.verbraucherzentrale-niedersachsen.de/beratungsstellen/beratungsstelle-hannover-121455?page=1) | Verbraucherzentrale Niedersachsen | 2026-10-25 | ✅ Opened |
+| 1 | [LUH – Housing](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/housing) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/digitale-welt/mobilfunk-und-festnetz/wichtige-kundenrechte-fuer-telefon-handy-und-internetvertraege-65879) | Verbraucherzentrale | 2026-10-26 | ✅ Opened |
+| 3 | [Bundesnetzagentur – consumer information](https://www.bundesnetzagentur.de/DE/Vportal/TK/InternetTelefon/Vertrag/start.html) | Federal Network Agency | 2026-10-26 | ✅ Opened |
+| 4 | [§ 355 BGB](https://www.gesetze-im-internet.de/bgb/__355.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 5 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [Verbraucherzentrale – Hannover office](https://www.verbraucherzentrale-niedersachsen.de/beratungsstellen/beratungsstelle-hannover-121455?page=1) | Verbraucherzentrale Niedersachsen | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

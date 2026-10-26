@@ -48,14 +48,14 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Make it in Germany – Prospects after graduation](https://www.make-it-in-germany.com/en/study-vocational-training/studying-in-germany/prospects-after) | Federal Government – Make it in Germany | 2026-10-25 | ✅ Opened |
-| 2 | [§ 26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 3 | [§ 20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 4 | [§ 18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 5 | [Make it in Germany – EU Blue Card (PDF)](https://www.make-it-in-germany.com/pdf-blaue-karte-eu) | Federal Government – Make it in Germany | 2026-10-25 | ✅ Opened |
-| 6 | [§ 18c (2) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 7 | [Federal Ministry of the Interior – Naturalisation](https://www.bmi.bund.de/EN/topics/migration/naturalisation/naturalisation-node.html) | Federal Ministry of the Interior | 2026-10-25 | ⚠️ Blocks automated checks — open in a browser |
-| 8 | [§ 45 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 1 | [Make it in Germany – Prospects after graduation](https://www.make-it-in-germany.com/en/study-vocational-training/studying-in-germany/prospects-after) | Federal Government – Make it in Germany | 2026-10-26 | ✅ Opened |
+| 2 | [§ 26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 3 | [§ 20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 4 | [§ 18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 5 | [Make it in Germany – EU Blue Card (PDF)](https://www.make-it-in-germany.com/pdf-blaue-karte-eu) | Federal Government – Make it in Germany | 2026-10-26 | ✅ Opened |
+| 6 | [§ 18c (2) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 7 | [Federal Ministry of the Interior – Naturalisation](https://www.bmi.bund.de/EN/topics/migration/naturalisation/naturalisation-node.html) | Federal Ministry of the Interior | 2026-10-26 | ❌ No response on access date |
+| 8 | [§ 45 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

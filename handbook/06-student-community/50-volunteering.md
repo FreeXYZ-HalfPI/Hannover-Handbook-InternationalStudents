@@ -40,12 +40,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Study-Buddy](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote/study-buddy) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 2 | [Student associations](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/studentische-vereinigungen) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [ChancenVielfalt](https://www.chancenvielfalt.uni-hannover.de/de/beratung) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 4 | [ZQS – Key competencies](https://www.zqs.uni-hannover.de/en/kc) | ZQS, Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 5 | [hannonetz.de](https://www.hannonetz.de/) | City of Hannover | 2026-10-25 | ✅ Opened |
-| 6 | [hannover.de – Volunteer phone line](https://www.hannover.de/Leben-in-der-Region-Hannover/Politik/B%C3%BCrgerbeteiligung-Engagement/Ehrenamt/Wertsch%C3%A4tzung-und-Anerkennung/Freiwilligentelefon) | City and Region of Hannover | 2026-10-25 | ✅ Opened |
+| 1 | [Study-Buddy](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote/study-buddy) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [Student associations](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/studentische-vereinigungen) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [ChancenVielfalt](https://www.chancenvielfalt.uni-hannover.de/de/beratung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [ZQS – Key competencies](https://www.zqs.uni-hannover.de/en/kc) | ZQS, Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [hannonetz.de](https://www.hannonetz.de/) | City of Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [hannover.de – Volunteer phone line](https://www.hannover.de/Leben-in-der-Region-Hannover/Politik/B%C3%BCrgerbeteiligung-Engagement/Ehrenamt/Wertsch%C3%A4tzung-und-Anerkennung/Freiwilligentelefon) | City and Region of Hannover | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

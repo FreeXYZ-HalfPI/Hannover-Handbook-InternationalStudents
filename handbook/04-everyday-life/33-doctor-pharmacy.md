@@ -1,7 +1,7 @@
 # 33. Doctors, Pharmacies and Health Care
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-10-26 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -22,6 +22,25 @@ In Germany you usually see a **general practitioner (Hausarzt)** first, who refe
 7.  🌍 **Bringing medicines from home:** some medicines that are legal in your country are controlled in Germany. Carry a prescription or doctor's letter (in English or German); for narcotics you need a certificate under the Schengen rules or a doctor's certificate ([BfArM – Travelling with narcotic drugs](https://www.bfarm.de/EN/Federal-Opium-Agency/Narcotic-drugs/Travelling-with-narcotic-drugs/_node.html)).
 8.  **Dentist:** check-ups are covered by statutory insurance; many treatments require a co-payment. ℹ️ Ask for a cost estimate (Heil- und Kostenplan) first.
 9.  **Mental health:** free ptb counselling at the university → [29. Counselling](../03-university-services/29-counselling.md)
+10. **Sick note (Arbeitsunfähigkeitsbescheinigung):** see or call a doctor on the day you fall ill. The start of the illness can be backdated only **exceptionally and usually by at most three days** ([G-BA – Decision on the AU guideline 2015 (PDF)](https://www.g-ba.de/downloads/40-268-3628/2015-12-17_AU-RL_AU-Bescheinigung_Nahtlosigkeit_TrG.pdf)). For missing an exam, your programme's rules for a medical certificate (Attest) apply. → [18. Exams](../02-starting-your-studies/18-exams.md)
+11. **Hospital emergency department (Notaufnahme)** is for serious and urgent cases; for ordinary illness outside surgery hours call **116117**, which sends you to an on-call practice ([116117.de](https://www.116117.de/)).
+12. **Finding a doctor who speaks English or your language:** open [arztsuche.116117.de](https://arztsuche.116117.de/), enter the speciality (e.g. `Hausarzt` for a GP) and your postcode, then under **Filter → Fremdsprachen** tick your language. On 25.10.2026 there were more than 120 English-speaking practices within 25 km of Hannover. ℹ️ Dentists are listed separately by the Lower Saxony dental association ([KZVN – Dentist search](https://www.kzvn.de/patienten/zahnarztsuche/)), which had no language filter — ask when booking.
+
+### Unwritten rules
+
+13. **GP first.** For most problems go to your Hausarzt first; they refer you (Überweisung) to a specialist, and specialist appointments are easier to get with a referral.
+14. **Everything works by appointment.** Call or book online; many practices also have an open consultation hour (offene Sprechstunde) without appointment.
+15. **Cancel appointments you can't attend.** Some practices charge for missed appointments. ⚠️ Ask each practice about its rules.
+16. **Show your insurance card** at your first visit each quarter.
+17. **Keep a list of your medicines and medical history** (in English is fine) on your phone. Pharmacies don't accept prescriptions from other countries; show your old prescription to a German GP to get a German one, and bring enough of your regular medicine for the first months.
+
+### Dentist with statutory insurance
+
+18. **Free check-up every six months:** statutory insurance pays **one check-up per half-year** for adults; tartar removal once a year and a gum check (PSI) every two years. **Professional tooth cleaning (PZR)** is usually private — some insurers pay part of it ([Verbraucherzentrale – Which dental check-ups does insurance pay?](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/welche-zahnvorsorge-zahlt-die-krankenkasse-12913)).
+19. **Get a bonus booklet (Bonusheft) from day one.** For crowns, bridges and dentures your insurer pays **60%** of the standard treatment; **70%** if you had at least one check-up every year for the last **five years**, and **75%** after **ten years** of regular check-ups ([§ 55 SGB V](https://www.gesetze-im-internet.de/sgb_5/__55.html)). Have every check-up stamped.
+20. **Fillings:** insurance pays the standard material; if you choose a more expensive one you pay the difference ([Verbraucherzentrale – Dental services covered by statutory insurance](https://www.verbraucherzentrale.de/kassenleistungen-der-zahnmedizin)).
+21. **Private dental bills:** the fee factor ranges from 1 to 3.5; **2.3** is the standard, and anything higher must be **justified** by difficulty or time ([§ 5 GOZ](https://www.gesetze-im-internet.de/goz_1987/__5.html)). Ask for a written cost estimate before expensive treatment and check it with your insurer — some treatments must be approved **before** they start.
+22. **Unfinished treatment from home:** if you have an implant or treatment started abroad, bring the records and X-rays; some German surgeons will not continue another dentist's work. ℹ️
 
 ## 4. Documents and costs
 
@@ -43,14 +62,24 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [116117.de](https://www.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-10-25 | ✅ Opened |
-| 2 | [aponet – On-duty pharmacy search](https://www.aponet.de/notdienstsuche) | ABDA (pharmacists) | 2026-10-25 | ✅ Opened |
-| 3 | [Federal Ministry of Health – Co-payment rules (PDF)](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/A/Arzneimittelversorgung/Zuzahlungsregelungen_GKV.pdf) | Federal Ministry of Health | 2026-10-25 | ✅ Opened |
-| 4 | [BfArM – Travelling with narcotic drugs](https://www.bfarm.de/EN/Federal-Opium-Agency/Narcotic-drugs/Travelling-with-narcotic-drugs/_node.html) | Federal Institute for Drugs and Medical Devices | 2026-10-25 | ✅ Opened |
+| 1 | [116117.de](https://www.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-10-26 | ✅ Opened |
+| 2 | [aponet – On-duty pharmacy search](https://www.aponet.de/notdienstsuche) | ABDA (pharmacists) | 2026-10-26 | ✅ Opened |
+| 3 | [Federal Ministry of Health – Co-payment rules (PDF)](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/A/Arzneimittelversorgung/Zuzahlungsregelungen_GKV.pdf) | Federal Ministry of Health | 2026-10-26 | ✅ Opened |
+| 4 | [BfArM – Travelling with narcotic drugs](https://www.bfarm.de/EN/Federal-Opium-Agency/Narcotic-drugs/Travelling-with-narcotic-drugs/_node.html) | Federal Institute for Drugs and Medical Devices | 2026-10-26 | ✅ Opened |
+| 5 | [G-BA – Decision on the AU guideline 2015 (PDF)](https://www.g-ba.de/downloads/40-268-3628/2015-12-17_AU-RL_AU-Bescheinigung_Nahtlosigkeit_TrG.pdf) | g-ba.de | 2026-10-26 | ✅ Opened |
+| 6 | [arztsuche.116117.de](https://arztsuche.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-10-26 | ✅ Opened |
+| 7 | [KZVN – Dentist search](https://www.kzvn.de/patienten/zahnarztsuche/) | kzvn.de | 2026-10-26 | ⚠️ Blocks automated checks — open in a browser |
+| 8 | [Verbraucherzentrale – Which dental check-ups does insurance pay?](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/welche-zahnvorsorge-zahlt-die-krankenkasse-12913) | Verbraucherzentrale | 2026-10-26 | ✅ Opened |
+| 9 | [§ 55 SGB V](https://www.gesetze-im-internet.de/sgb_5/__55.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 10 | [Verbraucherzentrale – Dental services covered by statutory insurance](https://www.verbraucherzentrale.de/kassenleistungen-der-zahnmedizin) | Verbraucherzentrale | 2026-10-26 | ✅ Opened |
+| 11 | [§ 5 GOZ](https://www.gesetze-im-internet.de/goz_1987/__5.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 
 > [!NOTE]
 > This section is for personal experiences; it is not a general rule or legal advice. Share yours (with a date) on [page 57](../07-resources/57-contribute-experiences.md) or by opening a GitHub issue.
 
-- No experiences added yet.
+- **Prescriptions from home** were not accepted by pharmacies; students showed their old prescription to a German GP and got a German one.
+- **No GP yet:** several students were seen during a nearby practice's open consultation hour. Many booked specialist appointments via Doctolib or 116117; an urgency code on the referral got appointments faster.
+- **Emergency department:** long waits in the Notaufnahme are normal — patients are seen by urgency, not arrival time.
+- **Privacy:** share lists of recommended doctors by private message, not in public groups.

@@ -1,7 +1,7 @@
 # Living in Hannover — A Practical Handbook for International Students
 
 > [!TIP]
-> **A step-by-step guide for international students of Leibniz University Hannover (LUH) — from every country.** · Whole handbook last reviewed: 2026-10-24
+> **A step-by-step guide for international students of Leibniz University Hannover (LUH) — from every country.** · Whole handbook last reviewed: 2026-10-26
 
 ## What is this handbook?
 
@@ -18,7 +18,10 @@ Most pages apply to **every** international student. Where rules differ by natio
 - **Is your family coming too?** → [11. Family](01-arriving-in-hannover/11-family-reunification.md)
 - **Looking for a phone number or address?** → [55. Official links and contacts](07-resources/55-contacts.md)
 - **Don't understand a German term?** → [53. German–English glossary](07-resources/53-glossary.md)
+- **Looking for something specific?** → [🔎 Search both handbooks](../search/index.html) (open the file in your browser) or run `python3 tools/search.py "your words"`
 - **Quick question?** → [56. FAQ](07-resources/56-faq.md)
+- **What's due this month?** → [65. Annual student calendar](07-resources/65-annual-calendar.md)
+- **Signed something you regret, or need free legal help?** → [67. Consumer rights and free legal help](07-resources/67-consumer-rights-legal-help.md)
 - **Finishing your studies?** → [46. After graduation](05-work-finance-career/46-after-graduation.md), [47. Leaving Germany](05-work-finance-career/47-leaving-germany.md)
 - **In an emergency?** → [37. Emergency numbers](04-everyday-life/37-emergency.md) (ambulance 112, police 110)
 
@@ -124,6 +127,10 @@ The last review date of each page is in the green box at the top.
 - [55. Official links and contacts](07-resources/55-contacts.md)
 - [56. FAQ](07-resources/56-faq.md)
 - [57. Suggestions and student experiences](07-resources/57-contribute-experiences.md)
+- [65. Annual student calendar](07-resources/65-annual-calendar.md)
+- [66. Passport, documents, certified translations and certified copies](07-resources/66-documents-translations-certified-copies.md)
+- [67. Consumer rights, scams and free legal help](07-resources/67-consumer-rights-legal-help.md)
+- [68. GitHub guide — how to contribute](07-resources/68-github-guide.md)
 
 ### [Section 8 — Information by Nationality and Specific Needs](08-by-nationality/README.md) 🌍
 

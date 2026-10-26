@@ -40,6 +40,7 @@ th, td { border: 1px solid #d1d5db; padding: 4pt 6pt; vertical-align: top; text-
 th { background: #ecfdf5; font-weight: 700; }
 tr { break-inside: avoid; }
 td.nw { white-space: nowrap; }
+img { max-width: 100%; height: auto; display: block; margin: 6pt auto; }
 .box { border-radius: 4pt; padding: 6pt 10pt; margin: 6pt 0; border-left: 4pt solid; break-inside: avoid; }
 .box.tip { background: #ecfdf5; border-color: #10b981; }
 .box.note { background: #eff6ff; border-color: #3b82f6; }
@@ -67,7 +68,7 @@ COVER = """
 def pages():
     """Root index, then each section's README followed by its numbered pages."""
     yield "root", HANDBOOK / "README.md"
-    for section in sorted(p for p in HANDBOOK.iterdir() if p.is_dir()):
+    for section in sorted(p for p in HANDBOOK.iterdir() if p.is_dir() and (p / "README.md").exists()):
         yield "sec", section / "README.md"
         for page in sorted(section.glob("[0-9][0-9]-*.md")):
             yield "topic", page
@@ -90,6 +91,11 @@ def render(kind, path):
         target = (path.parent / m.group(1)).resolve()
         return f'href="#{anchor(target)}"' if target.is_relative_to(HANDBOOK) and target.exists() else m.group(0)
     html = re.sub(r'href="([^":#]+\.md)"', link, html)
+    # Images are referenced relative to the page; the book is assembled elsewhere.
+    def img(m):
+        target = (path.parent / m.group(1)).resolve()
+        return f'src="{target.as_uri()}"' if target.exists() else m.group(0)
+    html = re.sub(r'src="([^":#]+)"', img, html)
     html = re.sub(r"<td>(\d{4}-\d{2}-\d{2})</td>", r'<td class="nw">\1</td>', html)
     return f'<section class="{kind}" id="{anchor(path)}">{html}</section>'
 

@@ -50,13 +50,13 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [§ 8 BAföG – eligible foreign nationals](https://www.gesetze-im-internet.de/baf_g/__8.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [LUH – Financial aid for international students](https://www.uni-hannover.de/en/studium/finanzierung-foerderung/finanzielle-beihilfen-fuer-internationale-studierende) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 4 | [LUH – Deutschlandstipendium news](https://www.uni-hannover.de/universitaet/aktuelles/online-aktuell/details/news/bewerbungsphase-fuer-deutschlandstipendien-laeuft-1) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 5 | [LUH – Deutschlandstipendium](https://www.uni-hannover.de/en/studium/finanzierung-foerderung/deutschlandstipendium) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 6 | [DAAD – Scholarship database](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/) | DAAD | 2026-10-25 | ✅ Opened |
-| 7 | [Stipendium Plus – the foundations](https://www.stipendiumplus.de/) | stipendiumplus.de | 2026-10-25 | ✅ Opened |
+| 1 | [§ 8 BAföG – eligible foreign nationals](https://www.gesetze-im-internet.de/baf_g/__8.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [LUH – Financial aid for international students](https://www.uni-hannover.de/en/studium/finanzierung-foerderung/finanzielle-beihilfen-fuer-internationale-studierende) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [LUH – Deutschlandstipendium news](https://www.uni-hannover.de/universitaet/aktuelles/online-aktuell/details/news/bewerbungsphase-fuer-deutschlandstipendien-laeuft-1) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [LUH – Deutschlandstipendium](https://www.uni-hannover.de/en/studium/finanzierung-foerderung/deutschlandstipendium) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [DAAD – Scholarship database](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/) | DAAD | 2026-10-26 | ✅ Opened |
+| 7 | [Stipendium Plus – the foundations](https://www.stipendiumplus.de/) | stipendiumplus.de | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

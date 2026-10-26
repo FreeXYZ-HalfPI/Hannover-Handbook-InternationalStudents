@@ -43,12 +43,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Bodies & committees](https://www.uni-hannover.de/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/organe-gremien) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 2 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [Student body election rules (PDF)](https://www.uni-hannover.de/fileadmin/luh/content/wahlamt/dokumente/Wahl-_und_andere_Ordnungen/VKBl_Nr._08_2025_-_Wahlordnung_der_Studierendenschaft.pdf) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 4 | [Fachschaften](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/organe-gremien/fachschaften) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 5 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-25 | ✅ Opened |
-| 6 | [AStA – Statutes and regulations](https://www.asta-hannover.de/hochschulpolitik/satzungen-und-ordnungen/) | AStA Hannover | 2026-10-25 | ✅ Opened |
+| 1 | [LUH – Bodies & committees](https://www.uni-hannover.de/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/organe-gremien) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [Student body election rules (PDF)](https://www.uni-hannover.de/fileadmin/luh/content/wahlamt/dokumente/Wahl-_und_andere_Ordnungen/VKBl_Nr._08_2025_-_Wahlordnung_der_Studierendenschaft.pdf) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [Fachschaften](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/organe-gremien/fachschaften) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [AStA – Statutes and regulations](https://www.asta-hannover.de/hochschulpolitik/satzungen-und-ordnungen/) | AStA Hannover | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

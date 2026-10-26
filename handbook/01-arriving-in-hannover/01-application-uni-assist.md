@@ -48,20 +48,20 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Language requirements](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/voraussetzungen-zum-studium/sprachnachweise) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 2 | [LUH – Degree programmes](https://www.uni-hannover.de/en/studium/studienangebot) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [LUH – Overview of application deadlines (PDF)](https://www.uni-hannover.de/fileadmin/Studienberatung/Neu_ab_Relaunch/02_Studium_Vor_dem_Studium/02_Bewerbung_und_Zulassung/02_Studienplatzbewerbung/03_MA-Bewerbung_D_EU/Master_Bewerbungsfriste-alleSem-engl.pdf) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 4 | [LUH – Application & admission](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 5 | [uni-assist – VPD](https://www.uni-assist.de/en/how-to-apply/plan-your-application/vpd/) | uni-assist | 2026-10-25 | ✅ Opened |
-| 6 | [uni-assist – FAQs](https://www.uni-assist.de/en/faqs/plan-your-application/) | uni-assist | 2026-10-25 | ✅ Opened |
-| 7 | [uni-assist – Country information](https://www.uni-assist.de/en/tools/info-country-by-country/) | uni-assist | 2026-10-25 | ✅ Opened |
-| 8 | [anabin](https://anabin.kmk.org/) | KMK | 2026-10-25 | ✅ Opened |
-| 9 | [Niedersächsisches Studienkolleg](https://www.stk.uni-hannover.de/) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 10 | [Recognition in Germany – Assessment of higher education qualifications](https://www.anerkennung-in-deutschland.de/html/en/pro/assessment-higher-education-qualifications.php) | Federal Government – Recognition in Germany | 2026-10-25 | ✅ Opened |
-| 11 | [ZAB – Fees](https://zab.kmk.org/en/statement-comparability/fees) | KMK / ZAB | 2026-10-25 | ✅ Opened |
-| 12 | [uni-assist – Handling fees](https://www.uni-assist.de/en/how-to-apply/pay-all-fees/handling-fees/) | uni-assist | 2026-10-25 | ✅ Opened |
-| 13 | [uni-assist.de](https://www.uni-assist.de/) | uni-assist | 2026-10-25 | ✅ Opened |
-| 14 | [zab.kmk.org](https://zab.kmk.org/) | KMK / ZAB | 2026-10-25 | ✅ Opened |
+| 1 | [LUH – Language requirements](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/voraussetzungen-zum-studium/sprachnachweise) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [LUH – Degree programmes](https://www.uni-hannover.de/en/studium/studienangebot) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [LUH – Overview of application deadlines (PDF)](https://www.uni-hannover.de/fileadmin/Studienberatung/Neu_ab_Relaunch/02_Studium_Vor_dem_Studium/02_Bewerbung_und_Zulassung/02_Studienplatzbewerbung/03_MA-Bewerbung_D_EU/Master_Bewerbungsfriste-alleSem-engl.pdf) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [LUH – Application & admission](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [uni-assist – VPD](https://www.uni-assist.de/en/how-to-apply/plan-your-application/vpd/) | uni-assist | 2026-10-26 | ✅ Opened |
+| 6 | [uni-assist – FAQs](https://www.uni-assist.de/en/faqs/plan-your-application/) | uni-assist | 2026-10-26 | ✅ Opened |
+| 7 | [uni-assist – Country information](https://www.uni-assist.de/en/tools/info-country-by-country/) | uni-assist | 2026-10-26 | ✅ Opened |
+| 8 | [anabin](https://anabin.kmk.org/) | KMK | 2026-10-26 | ✅ Opened |
+| 9 | [Niedersächsisches Studienkolleg](https://www.stk.uni-hannover.de/) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 10 | [Recognition in Germany – Assessment of higher education qualifications](https://www.anerkennung-in-deutschland.de/html/en/pro/assessment-higher-education-qualifications.php) | Federal Government – Recognition in Germany | 2026-10-26 | ✅ Opened |
+| 11 | [ZAB – Fees](https://zab.kmk.org/en/statement-comparability/fees) | KMK / ZAB | 2026-10-26 | ✅ Opened |
+| 12 | [uni-assist – Handling fees](https://www.uni-assist.de/en/how-to-apply/pay-all-fees/handling-fees/) | uni-assist | 2026-10-26 | ✅ Opened |
+| 13 | [uni-assist.de](https://www.uni-assist.de/) | uni-assist | 2026-10-26 | ✅ Opened |
+| 14 | [zab.kmk.org](https://zab.kmk.org/) | KMK / ZAB | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

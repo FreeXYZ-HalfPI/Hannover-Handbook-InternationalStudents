@@ -40,13 +40,13 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [ChancenVielfalt – Counselling](https://www.chancenvielfalt.uni-hannover.de/de/beratung) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 2 | [Protection against discrimination](https://www.chancenvielfalt.uni-hannover.de/beratung/diskriminierungsschutz) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 3 | [Studying with a child](https://www.chancenvielfalt.uni-hannover.de/familienservice/studieren-mit-kind) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 4 | [Referral advice](https://www.chancenvielfalt.uni-hannover.de/beratung/verweisberatung) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 5 | [Inclusive studies](https://www.uni-hannover.de/studium/beratung-hilfe/inklusiv-studieren) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 6 | [DSW – Studying with disabilities](https://www.studierendenwerke.de/en/topics/studying-with-disabilities) | studierendenwerke.de | 2026-10-25 | ✅ Opened |
-| 7 | [Federal Anti-Discrimination Agency](https://www.antidiskriminierungsstelle.de/EN/homepage/homepage-node.html) | Federal Anti-Discrimination Agency | 2026-10-25 | ✅ Opened |
+| 1 | [ChancenVielfalt – Counselling](https://www.chancenvielfalt.uni-hannover.de/de/beratung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [Protection against discrimination](https://www.chancenvielfalt.uni-hannover.de/beratung/diskriminierungsschutz) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [Studying with a child](https://www.chancenvielfalt.uni-hannover.de/familienservice/studieren-mit-kind) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [Referral advice](https://www.chancenvielfalt.uni-hannover.de/beratung/verweisberatung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [Inclusive studies](https://www.uni-hannover.de/studium/beratung-hilfe/inklusiv-studieren) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [DSW – Studying with disabilities](https://www.studierendenwerke.de/en/topics/studying-with-disabilities) | studierendenwerke.de | 2026-10-26 | ✅ Opened |
+| 7 | [Federal Anti-Discrimination Agency](https://www.antidiskriminierungsstelle.de/EN/homepage/homepage-node.html) | Federal Anti-Discrimination Agency | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

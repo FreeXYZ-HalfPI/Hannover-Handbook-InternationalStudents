@@ -1,7 +1,7 @@
 # 3. Arriving in Hannover and Getting Around in the First Days
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-10-26 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -21,6 +21,7 @@ How to get from the airport or station to your accommodation and the university,
 6.  Find buildings with the **[Standortfinder](https://standortfinder.uni-hannover.de/)** ([LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist)).
 7.  **No room yet?** Studentenwerk lists temporary options such as Jugendherberge Hannover (youth hostel), Naturfreundehaus and Bed'nBudget ([Studentenwerk – Housing search](https://www.studentenwerk-hannover.de/en/wohnen/wohnungssuche)). → [4. Finding accommodation](04-housing.md)
 8.  **First-week checklist:** register your address, open a bank account, finish enrolment and health insurance. → [54. Checklist](../07-resources/54-checklist.md)
+9.  **Cash at the airport:** if you arrive from a country outside the EU carrying **€10,000 or more** in cash (or equivalent), you must **declare it in writing** to customs. There is no upper limit, and the declaration is free ([Zoll – Cash](https://www.zoll.de/EN/Private-individuals/Travel/Entering-Germany/Restrictions/Cash/cash_node.html)). ℹ️ Keep the customs receipt — banks usually ask where large cash deposits come from. → [6. Bank account](06-bank-account.md)
 
 ## 4. Documents and costs
 
@@ -29,6 +30,7 @@ How to get from the airport or station to your accommodation and the university,
 | GVH single ticket | Possible | Only before the semester ticket is valid; airport in zone B | [ÜSTRA](https://www.uestra.de/en/tickets-prices/tickets-and-subscriptions/) |
 | Deutschlandsemesterticket | Required (part of the semester fee) | €226.80 of the winter 2026/27 semester fee | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) |
 | Temporary accommodation | Possible | Hostel etc. | [Studentenwerk](https://www.studentenwerk-hannover.de/en/wohnen/wohnungssuche) |
+| Cash declaration to customs | Possible | Only for €10,000 or more when entering from outside the EU; free | [Zoll](https://www.zoll.de/EN/Private-individuals/Travel/Entering-Germany/Restrictions/Cash/cash_node.html) |
 
 ## 5. Responsible office
 
@@ -41,17 +43,18 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Hannover Airport – Transport & Directions](https://www.hannover-airport.de/en/traffic-connection/transport-directions/) | Hannover Airport | 2026-10-25 | ✅ Opened |
-| 2 | [ÜSTRA – Tickets and subscriptions](https://www.uestra.de/en/tickets-prices/tickets-and-subscriptions/) | ÜSTRA / GVH | 2026-10-25 | ✅ Opened |
-| 3 | [Deutsche Bahn](https://int.bahn.de/en) | int.bahn.de | 2026-10-25 | ✅ Opened |
-| 4 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-25 | ✅ Opened |
-| 5 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 6 | [LUH – How to get here](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/wegweiser/anfahrtsbeschreibung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 7 | [Standortfinder](https://standortfinder.uni-hannover.de/) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 8 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 9 | [Studentenwerk – Housing search](https://www.studentenwerk-hannover.de/en/wohnen/wohnungssuche) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
-| 10 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 11 | [uestra.de](https://www.uestra.de/) | ÜSTRA / GVH | 2026-10-25 | ✅ Opened |
+| 1 | [Hannover Airport – Transport & Directions](https://www.hannover-airport.de/en/traffic-connection/transport-directions/) | Hannover Airport | 2026-10-26 | ✅ Opened |
+| 2 | [ÜSTRA – Tickets and subscriptions](https://www.uestra.de/en/tickets-prices/tickets-and-subscriptions/) | ÜSTRA / GVH | 2026-10-26 | ✅ Opened |
+| 3 | [Deutsche Bahn](https://int.bahn.de/en) | int.bahn.de | 2026-10-26 | ✅ Opened |
+| 4 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [LUH – How to get here](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/wegweiser/anfahrtsbeschreibung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 7 | [Standortfinder](https://standortfinder.uni-hannover.de/) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 8 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 9 | [Studentenwerk – Housing search](https://www.studentenwerk-hannover.de/en/wohnen/wohnungssuche) | Studentenwerk Hannover | 2026-10-26 | ✅ Opened |
+| 10 | [Zoll – Cash](https://www.zoll.de/EN/Private-individuals/Travel/Entering-Germany/Restrictions/Cash/cash_node.html) | German Customs | 2026-10-26 | ✅ Opened |
+| 11 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 12 | [uestra.de](https://www.uestra.de/) | ÜSTRA / GVH | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

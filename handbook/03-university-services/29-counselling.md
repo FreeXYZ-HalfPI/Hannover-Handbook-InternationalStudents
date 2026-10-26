@@ -4,7 +4,7 @@
 > **In an emergency** (danger to life or suicidal thoughts) call **112** immediately. The crisis telephone line (TelefonSeelsorge) is free and available 24/7: **0800 111 0 111**, **0800 111 0 222** or **116 123** ([TelefonSeelsorge](https://www.telefonseelsorge.de/telefon/)). → [37. Emergency numbers](../04-everyday-life/37-emergency.md)
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 3 — University Services](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-10-26 · **Section:** [Section 3 — University Services](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -46,20 +46,22 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [TelefonSeelsorge](https://www.telefonseelsorge.de/telefon/) | TelefonSeelsorge | 2026-10-25 | ✅ Opened |
-| 2 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [ptb.uni-hannover.de](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-10-25 | ✅ Opened |
-| 4 | [TiHo – ptb](https://www.tiho-hannover.de/en/studies-education/general-information-for-students/counselling-and-support-services/psychological-therapeutic-counselling) | tiho-hannover.de | 2026-10-25 | ✅ Opened |
-| 5 | [116117 – Appointment service](https://www.116117.de/de/terminservice.php) | Kassenärztliche Bundesvereinigung | 2026-10-25 | ⚠️ Blocks automated checks — open in a browser |
-| 6 | [Psychotherapeutenkammer Niedersachsen – Therapist search](https://www.pknds.de/) | pknds.de | 2026-10-25 | ✅ Opened |
-| 7 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 8 | [LUH – Financial aid for international students](https://www.uni-hannover.de/en/studium/finanzierung-foerderung/finanzielle-beihilfen-fuer-internationale-studierende) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 9 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-25 | ✅ Opened |
-| 10 | [MHH – ptb](https://www.mhh.de/en/medical-studies/-z/ptb) | mhh.de | 2026-10-25 | ✅ Opened |
+| 1 | [TelefonSeelsorge](https://www.telefonseelsorge.de/telefon/) | TelefonSeelsorge | 2026-10-26 | ✅ Opened |
+| 2 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [ptb.uni-hannover.de](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-10-26 | ✅ Opened |
+| 4 | [TiHo – ptb](https://www.tiho-hannover.de/en/studies-education/general-information-for-students/counselling-and-support-services/psychological-therapeutic-counselling) | tiho-hannover.de | 2026-10-26 | ✅ Opened |
+| 5 | [116117 – Appointment service](https://www.116117.de/de/terminservice.php) | Kassenärztliche Bundesvereinigung | 2026-10-26 | ⚠️ Blocks automated checks — open in a browser |
+| 6 | [Psychotherapeutenkammer Niedersachsen – Therapist search](https://www.pknds.de/) | pknds.de | 2026-10-26 | ✅ Opened |
+| 7 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 8 | [LUH – Financial aid for international students](https://www.uni-hannover.de/en/studium/finanzierung-foerderung/finanzielle-beihilfen-fuer-internationale-studierende) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 9 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-26 | ✅ Opened |
+| 10 | [MHH – ptb](https://www.mhh.de/en/medical-studies/-z/ptb) | mhh.de | 2026-10-26 | ⚠️ Not checked (502) |
 
 ## 7. Student experiences (unofficial)
 
 > [!NOTE]
 > This section is for personal experiences; it is not a general rule or legal advice. Share yours (with a date) on [page 57](../07-resources/57-contribute-experiences.md) or by opening a GitHub issue.
 
-- No experiences added yet.
+- **Group support in times of crisis (2025–2026):** when war or communication blackouts hit students' home countries, ptb organised anonymous online workshops at students' request, and the International Office provided rooms for support meetings. If you are not doing well, don't stay alone — contact ptb or TelefonSeelsorge. → [37. Emergency numbers](../04-everyday-life/37-emergency.md)
+- **ptb group course "stress management"** (in German, summer semester 2026) was open to students of all Hannover universities, with prior registration.
+- **Tell people:** in difficult periods, let your professor or employer know that your concentration is affected — they may not know what is happening in your home country.

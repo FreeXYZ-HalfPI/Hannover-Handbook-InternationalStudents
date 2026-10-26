@@ -1,7 +1,7 @@
 # 13. Semester Fee and Your Student Card (LeibnizCard)
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 2 — Starting Your Studies](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-10-26 · **Section:** [Section 2 — Starting Your Studies](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -61,17 +61,18 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [LUH – Study costs](https://www.uni-hannover.de/studium/finanzierung-foerderung/studienkosten) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 4 | [photo.idm.uni-hannover.de](https://photo.idm.uni-hannover.de/en/students/) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 5 | [QIS portal](https://qis.verwaltung.uni-hannover.de/) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 6 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-25 | ✅ Opened |
-| 7 | [ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 1 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [LUH – Study costs](https://www.uni-hannover.de/studium/finanzierung-foerderung/studienkosten) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [photo.idm.uni-hannover.de](https://photo.idm.uni-hannover.de/en/students/) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [QIS portal](https://qis.verwaltung.uni-hannover.de/) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-26 | ✅ Opened |
+| 7 | [ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 
 > [!NOTE]
 > This section is for personal experiences; it is not a general rule or legal advice. Share yours (with a date) on [page 57](../07-resources/57-contribute-experiences.md) or by opening a GitHub issue.
 
-- No experiences added yet.
+- **Deadlines students were reminded of:** summer 2025 by 01.02.2025; winter 2025/26 by 19.07.2025; summer 2026 by 31.01.2026; winter 2026/27 by 18.07.2026. A payment can take up to a week to show as "Cleared" — don't pay on the last day. → [65. Annual student calendar](../07-resources/65-annual-calendar.md)
+- **Refunds:** when the semester-ticket price was lowered (January 2025, €41), students had to request the difference themselves in Campusmanagement. Keep your bank details up to date under "Fee management".

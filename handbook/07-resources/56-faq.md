@@ -1,7 +1,7 @@
 # 56. Frequently Asked Questions from New Students
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-10-26 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -50,6 +50,31 @@ Short answers to the questions newcomers ask most, with links to the full pages.
 **🌍 My country is under sanctions — can I still pay my fees and open accounts?** Usually yes, but transfers may be slow or blocked. → [62. Sanctions and payment restrictions](../08-by-nationality/62-sanctions-payment-restrictions.md)
 
 **🌍 I am a refugee / from Ukraine — can I study?** Yes; there are special advice services and rules. → [63. Refugees and people with protection status](../08-by-nationality/63-refugees-protection-status.md)
+**The room ad says "no Anmeldung possible" — should I take it?** Only for the first few weeks. The landlord must legally confirm your move-in within two weeks, and without registration your bank account and residence permit are delayed ([§ 19 BMG](https://www.gesetze-im-internet.de/bmg/__19.html)). → [4. Accommodation](../01-arriving-in-hannover/04-housing.md)
+
+**How much cash can I bring to Germany?** There is no limit, but €10,000 or more must be declared in writing to customs when you enter from outside the EU ([Zoll](https://www.zoll.de/EN/Private-individuals/Travel/Entering-Germany/Restrictions/Cash/cash_node.html)). → [3. Arriving in Hannover](../01-arriving-in-hannover/03-arrival-transport.md)
+
+**QIS showed an error when I registered for an exam.** E-mail your faculty's examinations contact immediately and include your phone number; late registration is not accepted. → [18. Exams](../02-starting-your-studies/18-exams.md)
+
+**Where can I see all important deadlines of the year?** → [65. Annual student calendar](65-annual-calendar.md)
+
+**The bank won't open an account for me.** Try another branch or bank. Everyone legally resident in the EU has the right to a basic account, and the bank must respond within ten business days ([§ 31 ZKG](https://www.gesetze-im-internet.de/zkg/__31.html)). → [6. Bank account](../01-arriving-in-hannover/06-bank-account.md)
+
+**I signed a contract online or at my door and regret it.** You usually have a 14-day right of withdrawal and don't need to give a reason ([§ 355 BGB](https://www.gesetze-im-internet.de/bgb/__355.html)). → [67. Consumer rights and free legal help](67-consumer-rights-legal-help.md)
+
+**Where can I get free legal advice?** The Law Faculty's Legal Clinic advises LUH students free of charge ([Legal Clinic](https://www.jura.uni-hannover.de/de/legalclinic)). → [67](67-consumer-rights-legal-help.md)
+
+**Where can I get certified copies of my university documents?** At the university's Beglaubigungsstelle — free, by appointment ([LUH – Certification office](https://www.uni-hannover.de/universitaet/campus-stadt/beglaubigungsstelle)). → [66. Documents, translations and certified copies](66-documents-translations-certified-copies.md)
+
+**My passport is about to expire.** Renew it at your country's embassy or consulate before applying to extend your residence permit. → [66](66-documents-translations-certified-copies.md)
+
+**I want to invite my parents to visit.** The host signs a Verpflichtungserklärung at the Ausländerbehörde; fee €29 ([City of Hannover](https://hannover.gov.de/buergerservice/dienstleistungen/verpflichtungserklaerung-abgeben-1322-0.html?myMedium=1)). → [11. Family](../01-arriving-in-hannover/11-family-reunification.md)
+
+**I'm turning 30 — what happens to my student health insurance?** Compulsory student insurance ends at the latest at 30 ([§ 5 SGB V](https://www.gesetze-im-internet.de/sgb_5/__5.html)). Ask your insurer early. → [7. Health insurance](../01-arriving-in-hannover/07-health-insurance.md)
+
+**I saw the doctor late — can the sick note be backdated?** Only exceptionally, usually by up to three days. → [33. Doctors](../04-everyday-life/33-doctor-pharmacy.md)
+
+**How do I find a doctor who speaks English?** Use the language filter of the official 116117 doctor search. → [33. Doctors](../04-everyday-life/33-doctor-pharmacy.md)
 
 ## 4. Documents and costs
 
@@ -65,23 +90,31 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Studentenwerk](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
-| 2 | [hannover.gov.de](https://hannover.gov.de/buergerservice/dienstleistungen/anmeldung-einer-wohnung-zuzug-nach-hannover-900000016-0.html?myMedium=1) | City of Hannover | 2026-10-25 | ✅ Opened |
-| 3 | [§ 41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 4 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 5 | [German missions in Italy](https://italien.diplo.de/it-de/service/visa-aktuell/2586756-2586756) | Federal Foreign Office (German mission) | 2026-10-25 | ✅ Opened |
-| 6 | [LUH](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 7 | [LUH – Study costs](https://www.uni-hannover.de/studium/finanzierung-foerderung/studienkosten) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 8 | [BARMER](https://www.barmer.de/unsere-leistungen/beitraege-tarife/krankenversicherung-studierende) | BARMER | 2026-10-25 | ✅ Opened |
-| 9 | [§ 16b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 10 | [§ 81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 11 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 12 | [AStA](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-25 | ✅ Opened |
-| 13 | [ptb](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-10-25 | ✅ Opened |
-| 14 | [§ 29 FeV](https://www.gesetze-im-internet.de/fev_2010/__29.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 15 | [Make it in Germany](https://www.make-it-in-germany.com/en/visa-recognition/family-reunification/spouses-joining-non-eu-citizens) | Federal Government – Make it in Germany | 2026-10-25 | ✅ Opened |
-| 16 | [§ 20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 17 | [Federal Foreign Office](https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/schengen-207786) | Federal Foreign Office | 2026-10-25 | ✅ Opened |
+| 1 | [Studentenwerk](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [hannover.gov.de](https://hannover.gov.de/buergerservice/dienstleistungen/anmeldung-einer-wohnung-zuzug-nach-hannover-900000016-0.html?myMedium=1) | City of Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [§ 41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 4 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [German missions in Italy](https://italien.diplo.de/it-de/service/visa-aktuell/2586756-2586756) | Federal Foreign Office (German mission) | 2026-10-26 | ✅ Opened |
+| 6 | [LUH](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 7 | [LUH – Study costs](https://www.uni-hannover.de/studium/finanzierung-foerderung/studienkosten) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 8 | [BARMER](https://www.barmer.de/unsere-leistungen/beitraege-tarife/krankenversicherung-studierende) | BARMER | 2026-10-26 | ✅ Opened |
+| 9 | [§ 16b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 10 | [§ 81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 11 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 12 | [AStA](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-26 | ✅ Opened |
+| 13 | [ptb](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-10-26 | ✅ Opened |
+| 14 | [§ 29 FeV](https://www.gesetze-im-internet.de/fev_2010/__29.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 15 | [Make it in Germany](https://www.make-it-in-germany.com/en/visa-recognition/family-reunification/spouses-joining-non-eu-citizens) | Federal Government – Make it in Germany | 2026-10-26 | ✅ Opened |
+| 16 | [§ 20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 17 | [Federal Foreign Office](https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/schengen-207786) | Federal Foreign Office | 2026-10-26 | ✅ Opened |
+| 18 | [§ 19 BMG](https://www.gesetze-im-internet.de/bmg/__19.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 19 | [Zoll](https://www.zoll.de/EN/Private-individuals/Travel/Entering-Germany/Restrictions/Cash/cash_node.html) | German Customs | 2026-10-26 | ✅ Opened |
+| 20 | [§ 31 ZKG](https://www.gesetze-im-internet.de/zkg/__31.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 21 | [§ 355 BGB](https://www.gesetze-im-internet.de/bgb/__355.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 22 | [Legal Clinic](https://www.jura.uni-hannover.de/de/legalclinic) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 23 | [LUH – Certification office](https://www.uni-hannover.de/universitaet/campus-stadt/beglaubigungsstelle) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 24 | [City of Hannover](https://hannover.gov.de/buergerservice/dienstleistungen/verpflichtungserklaerung-abgeben-1322-0.html?myMedium=1) | City of Hannover | 2026-10-26 | ✅ Opened |
+| 25 | [§ 5 SGB V](https://www.gesetze-im-internet.de/sgb_5/__5.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

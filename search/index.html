@@ -1,0 +1,395 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Handbook Searcher</title>
+<meta name="description" content="Search both Hannover student handbooks — the English handbook for international students and the Persian ISL handbook — in one place.">
+<style>
+:root {
+  --bg: #f7f8fa; --panel: #ffffff; --text: #1f2937; --muted: #6b7280; --line: #e5e7eb;
+  --accent: #0f5132; --accent-soft: #e7f3ec; --isl: #1e3a8a; --isl-soft: #e8edfb;
+  --mark: #fde68a; --mark-text: #111827; --link: #1d4ed8; --shadow: 0 1px 2px rgba(0,0,0,.05), 0 2px 8px rgba(0,0,0,.04);
+  --tip: #ecfdf5; --tip-line: #10b981; --note: #eff6ff; --note-line: #3b82f6; --warn: #fffbeb; --warn-line: #f59e0b;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f1115; --panel: #171a21; --text: #e5e7eb; --muted: #9ca3af; --line: #2a2f3a;
+    --accent: #6fcf97; --accent-soft: #15291f; --isl: #93b4ff; --isl-soft: #18213a;
+    --mark: #8a6d0b; --mark-text: #fff; --link: #8ab4ff; --shadow: none;
+    --tip: #10241b; --tip-line: #34d399; --note: #111d33; --note-line: #60a5fa; --warn: #2a2110; --warn-line: #fbbf24;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f1115; --panel: #171a21; --text: #e5e7eb; --muted: #9ca3af; --line: #2a2f3a;
+  --accent: #6fcf97; --accent-soft: #15291f; --isl: #93b4ff; --isl-soft: #18213a;
+  --mark: #8a6d0b; --mark-text: #fff; --link: #8ab4ff; --shadow: none;
+  --tip: #10241b; --tip-line: #34d399; --note: #111d33; --note-line: #60a5fa; --warn: #2a2110; --warn-line: #fbbf24;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.55 system-ui, -apple-system, "Segoe UI", "Noto Sans", "Vazirmatn", Tahoma, sans-serif; }
+a { color: var(--link); }
+.wrap { max-width: 860px; margin: 0 auto; padding: 28px 16px 64px; }
+header h1 { margin: 0; font-size: 1.6rem; letter-spacing: -.01em; }
+header p { margin: 4px 0 0; color: var(--muted); }
+header .fa { font-family: "Vazirmatn", Tahoma, sans-serif; text-align: start; margin-top: 0; }
+.searchbar { position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 16px 0 10px; }
+.box { display: flex; align-items: center; gap: 8px; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 4px 6px 4px 14px; box-shadow: var(--shadow); }
+.box:focus-within { border-color: var(--accent); }
+.box svg { flex: none; color: var(--muted); }
+#q { flex: 1; min-width: 0; border: 0; outline: 0; background: transparent; color: var(--text); font: inherit; font-size: 1.1rem; padding: 10px 0; }
+#clear { border: 0; background: transparent; color: var(--muted); font-size: 1.3rem; cursor: pointer; padding: 4px 10px; visibility: hidden; }
+.filters { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; align-items: center; }
+.chip { border: 1px solid var(--line); background: var(--panel); color: var(--text); border-radius: 999px; padding: 4px 12px; font: inherit; font-size: .88rem; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--bg); }
+.status { color: var(--muted); font-size: .9rem; margin-left: auto; }
+.examples { margin: 18px 0 0; color: var(--muted); font-size: .92rem; }
+.examples button { border: 0; background: none; color: var(--link); cursor: pointer; font: inherit; padding: 2px 4px; text-decoration: underline dotted; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; margin: 12px 0; padding: 14px 16px; box-shadow: var(--shadow); }
+.card .meta { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: .8rem; color: var(--muted); }
+.badge { border-radius: 6px; padding: 1px 8px; font-weight: 600; background: var(--accent-soft); color: var(--accent); }
+.badge.isl { background: var(--isl-soft); color: var(--isl); }
+.card h2 { font-size: 1.08rem; margin: 6px 0 2px; }
+.card h2 a { color: var(--text); text-decoration: none; }
+.card h2 a:hover { text-decoration: underline; }
+.hit { border-top: 1px solid var(--line); margin-top: 10px; padding-top: 8px; }
+.hit:first-of-type { border-top: 0; margin-top: 4px; padding-top: 0; }
+.hit-head { display: flex; gap: 8px; align-items: baseline; justify-content: space-between; }
+.hit-head button { border: 0; background: none; padding: 0; font: inherit; font-weight: 600; color: var(--text); cursor: pointer; text-align: start; }
+.hit-head button::before { content: "▸ "; color: var(--muted); }
+.hit-head button[aria-expanded="true"]::before { content: "▾ "; }
+.hit-head a { font-size: .8rem; white-space: nowrap; }
+.snippet { color: var(--muted); font-size: .93rem; margin: 2px 0 0; overflow-wrap: anywhere; }
+mark { background: var(--mark); color: var(--mark-text); border-radius: 3px; padding: 0 1px; }
+.content { margin-top: 8px; font-size: .95rem; overflow-wrap: anywhere; }
+.content table { border-collapse: collapse; width: 100%; font-size: .86rem; display: block; overflow-x: auto; }
+.content th, .content td { border: 1px solid var(--line); padding: 4px 8px; vertical-align: top; text-align: start; }
+.content ul, .content ol { padding-inline-start: 22px; margin: 6px 0; }
+.content li { margin: 3px 0; }
+.content li.sub { margin-inline-start: 22px; list-style: circle; }
+.content pre { background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; overflow-x: auto; direction: ltr; text-align: left; }
+.content code { font-size: .88em; }
+.content img { max-width: 100%; height: auto; background: #fff; border-radius: 8px; }
+.content h4 { margin: 10px 0 4px; }
+.alert { border-inline-start: 4px solid var(--note-line); background: var(--note); border-radius: 6px; padding: 6px 10px; margin: 8px 0; }
+.alert.tip { border-color: var(--tip-line); background: var(--tip); }
+.alert.warning, .alert.caution, .alert.important { border-color: var(--warn-line); background: var(--warn); }
+.empty { text-align: center; color: var(--muted); padding: 40px 0; }
+footer { margin-top: 40px; color: var(--muted); font-size: .85rem; }
+[dir="rtl"] { font-family: "Vazirmatn", Tahoma, system-ui, sans-serif; }
+@media (max-width: 560px) { header h1 { font-size: 1.35rem; } .status { width: 100%; margin-left: 0; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🔎 Handbook Searcher</h1>
+    <p>Search both Hannover handbooks at once — English, German or Persian words all work.</p>
+    <p class="fa" dir="rtl" lang="fa">جست‌وجو در هر دو کتابچه، به انگلیسی، آلمانی یا فارسی</p>
+  </header>
+
+  <div class="searchbar">
+    <div class="box">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" dir="auto" autocomplete="off" spellcheck="false"
+             placeholder="e.g. residence permit, Sperrkonto, بیمه درمانی …" aria-label="Search the handbooks">
+      <button id="clear" type="button" aria-label="Clear search">×</button>
+    </div>
+    <div class="filters" role="group" aria-label="Which handbook">
+      <button class="chip" data-hb="" aria-pressed="true">Both handbooks</button>
+      <span id="hb-chips"></span>
+      <span class="status" id="status" aria-live="polite"></span>
+    </div>
+  </div>
+
+  <main id="results"></main>
+
+  <footer id="footer"></footer>
+</div>
+
+<script src="search-index.js"></script>
+<script>
+(() => {
+  "use strict";
+  const DATA = window.HANDBOOK_SEARCH;
+  const $ = (id) => document.getElementById(id);
+  const results = $("results"), input = $("q"), status = $("status");
+
+  if (!DATA) {
+    results.innerHTML = '<p class="empty">The search index is missing. Run <code>python3 tools/build_search.py</code> and reload.</p>';
+    return;
+  }
+
+  // Same steps as normalize() in tools/build_search.py.
+  const FA_DIGITS = "۰۱۲۳۴۵۶۷۸۹", AR_DIGITS = "٠١٢٣٤٥٦٧٨٩";
+  const LETTERS = { "ي": "ی", "ى": "ی", "ك": "ک", "ة": "ه", "‌": "", "‍": "", "ـ": "" };
+  function norm(s) {
+    s = s.replace(/[يىكة‌‍ـ]/g, (c) => LETTERS[c])
+         .replace(/[۰-۹]/g, (c) => FA_DIGITS.indexOf(c))
+         .replace(/[٠-٩]/g, (c) => AR_DIGITS.indexOf(c));
+    s = s.normalize("NFKD").replace(/\p{Mn}/gu, "").toLowerCase().replace(/ß/g, "ss");
+    return s.replace(/[^\p{L}\p{N}_]+/gu, " ").trim();
+  }
+
+  // Plain searchable text of a markdown chunk: link targets and markup removed.
+  const toText = (md) => md.replace(/!?\[([^\]]*)\]\([^)]*\)/g, "$1").replace(/\[!(TIP|NOTE|WARNING|IMPORTANT|CAUTION)\]/g, "")
+                            .replace(/[*_`>#|]/g, " ").replace(/-{3,}/g, " ");
+
+  const HB = DATA.handbooks, PAGES = DATA.pages;
+  const SYN = new Map(), PHRASES = [];
+  for (const group of DATA.synonyms) {
+    const g = [...new Set(group.map(norm).filter(Boolean))];
+    for (const w of g) { SYN.set(w, g); if (w.includes(" ")) PHRASES.push(w); }
+  }
+  PHRASES.sort((a, b) => b.length - a.length);
+  const ITEMS = DATA.items.map(([p, heading, anchor, md]) => {
+    const page = PAGES[p], text = toText(md);
+    return { p, page, heading, anchor, md, text,
+             nTitle: norm(`${page.n} ${page.t}`), nHead: norm(heading), nBody: norm(text) };
+  });
+
+  // ---- query parsing and scoring (mirrors tools/search.py) ----
+  function parse(q) {
+    let rest = ` ${norm(q)} `;
+    const found = [];
+    for (const ph of PHRASES) if (rest.includes(` ${ph} `)) { found.push(ph); rest = rest.replace(` ${ph} `, " "); }
+    const words = rest.split(" ").filter(Boolean);
+    const kept = words.length + found.length > 1 ? words.filter((w) => w.length > 1 || /\d/.test(w)) : words;
+    const escRe = (w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    return [...found, ...kept].map((w) => {
+      const alts = [w, ...(SYN.get(w) || []).filter((s) => s !== w)];
+      return { word: w, alts, starts: alts.map((a) => new RegExp(`(^| )${escRe(a)}`, "g")) };
+    });
+  }
+  function count(hay, needle, cap) {
+    let n = 0, i = hay.indexOf(needle);
+    while (i !== -1 && n < cap) { n++; i = hay.indexOf(needle, i + needle.length); }
+    return n;
+  }
+  function score(item, groups, phrase, requireAll) {
+    let total = 0, matched = 0;
+    for (const g of groups) {
+      let best = 0;
+      g.alts.forEach((alt, k) => {
+        // The typed word may match inside words (German compounds); synonyms only at a word start.
+        const re = g.starts[k], atStart = (s) => { re.lastIndex = 0; return re.test(s); };
+        let s;
+        if (k === 0) {
+          s = (item.nTitle.includes(alt) ? 8 : 0) + (item.nHead.includes(alt) ? 5 : 0) + count(item.nBody, alt, 5);
+          if (s && (atStart(item.nTitle) || atStart(item.nHead) || atStart(item.nBody))) s *= 1.25;
+        } else {
+          s = ((atStart(item.nTitle) ? 8 : 0) + (atStart(item.nHead) ? 5 : 0) + Math.min((item.nBody.match(re) || []).length, 5)) * 0.7;
+        }
+        best = Math.max(best, s);
+      });
+      if (best) { matched++; total += best; } else if (requireAll) return 0;
+    }
+    if (!matched) return 0;
+    if (groups.length > 1 && (item.nBody.includes(phrase) || item.nHead.includes(phrase) || item.nTitle.includes(phrase))) total += 12;
+    return total * (matched / groups.length);
+  }
+
+  // ---- markdown → HTML for the expanded section ----
+  const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  function resolve(url, page) {
+    if (/^(https?:|mailto:|#)/.test(url)) return url;
+    try { return new URL(url, HB[page.h].url + page.p).href; } catch { return url; }
+  }
+  function inline(s, page) {
+    s = esc(s);
+    s = s.replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g, (_, alt, u) => `<img alt="${alt}" src="${resolve(u.replace(/&amp;/g, "&"), page)}?raw=true" loading="lazy">`);
+    s = s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (_, t, u) => `<a href="${resolve(u.replace(/&amp;/g, "&"), page)}" target="_blank" rel="noopener">${t}</a>`);
+    s = s.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>").replace(/`([^`]+)`/g, "<code>$1</code>")
+         .replace(/(^|[\s(])\*([^*\s][^*]*)\*/g, "$1<em>$2</em>").replace(/\\([|#*_])/g, "$1");
+    return s;
+  }
+  function render(md, page) {
+    const lines = md.split("\n"), out = [];
+    let i = 0;
+    while (i < lines.length) {
+      const line = lines[i];
+      if (/^```/.test(line)) {
+        const code = []; i++;
+        while (i < lines.length && !/^```/.test(lines[i])) code.push(lines[i++]);
+        i++; out.push(`<pre><code>${esc(code.join("\n"))}</code></pre>`); continue;
+      }
+      if (/^\s*\|/.test(line)) {
+        const rows = [];
+        while (i < lines.length && /^\s*\|/.test(lines[i])) rows.push(lines[i++]);
+        const cells = (r) => r.trim().replace(/^\||\|$/g, "").split(/(?<!\\)\|/).map((c) => c.trim());
+        const body = rows.filter((r) => !/^\s*\|[\s|:-]+\|\s*$/.test(r));
+        const [head, ...rest] = body;
+        out.push("<table><thead><tr>" + cells(head).map((c) => `<th>${inline(c, page)}</th>`).join("") + "</tr></thead><tbody>" +
+                 rest.map((r) => "<tr>" + cells(r).map((c) => `<td>${inline(c, page)}</td>`).join("") + "</tr>").join("") + "</tbody></table>");
+        continue;
+      }
+      if (/^>/.test(line)) {
+        const q = [];
+        while (i < lines.length && /^>/.test(lines[i])) q.push(lines[i++].replace(/^>\s?/, ""));
+        const kind = (q[0].match(/^\[!(\w+)\]/) || [])[1];
+        if (kind) q.shift();
+        out.push(`<div class="alert ${kind ? kind.toLowerCase() : ""}">${q.filter(Boolean).map((l) => inline(l, page)).join("<br>")}</div>`);
+        continue;
+      }
+      if (/^\s*([-*]|\d+\.)\s+/.test(line)) {
+        const ordered = /^\s*\d+\./.test(line), items = [];
+        while (i < lines.length && (/^\s*([-*]|\d+\.)\s+/.test(lines[i]) || (/^\s{2,}\S/.test(lines[i]) && items.length))) {
+          const l = lines[i++], m = l.match(/^(\s*)([-*]|\d+\.)\s+(.*)$/);
+          if (m) items.push({ sub: m[1].length > 0, text: m[3], n: parseInt(m[2], 10) });
+          else items[items.length - 1].text += " " + l.trim();
+        }
+        const start = ordered && items[0].n > 1 ? ` start="${items[0].n}"` : "";
+        out.push(`<${ordered ? "ol" : "ul"}${start}>` + items.map((it) => `<li${it.sub ? ' class="sub"' : ""}>${inline(it.text, page)}</li>`).join("") + `</${ordered ? "ol" : "ul"}>`);
+        continue;
+      }
+      if (/^#{4,}\s/.test(line)) { out.push(`<h4>${inline(line.replace(/^#+\s*/, ""), page)}</h4>`); i++; continue; }
+      if (!line.trim()) { i++; continue; }
+      const para = [];
+      while (i < lines.length && lines[i].trim() && !/^(\s*\||>|```|\s*([-*]|\d+\.)\s|#)/.test(lines[i])) para.push(lines[i++]);
+      if (!para.length) para.push(lines[i++]);
+      out.push(`<p>${inline(para.join(" "), page)}</p>`);
+    }
+    return out.join("");
+  }
+
+  // ---- snippets with highlighting ----
+  function highlight(text, words, synonyms) {
+    const plain = text.replace(/\s+/g, " ").trim();
+    const normChars = [], map = [];
+    for (let i = 0; i < plain.length; i++) {
+      if (/[\u200c\u200dـ\p{Mn}]/u.test(plain[i])) continue;
+      const n = norm(plain[i]) || " ";
+      for (const c of n) { normChars.push(c); map.push(i); }
+    }
+    const hay = normChars.join(""), ranges = [];
+    for (const w of [...words, ...synonyms]) {
+      const wordStartOnly = !words.includes(w);
+      let i = hay.indexOf(w);
+      while (i !== -1) {
+        if (!wordStartOnly || i === 0 || hay[i - 1] === " ") ranges.push([map[i], map[i + w.length - 1] + 1]);
+        i = hay.indexOf(w, i + w.length);
+      }
+    }
+    ranges.sort((a, b) => a[0] - b[0]);
+    const first = ranges.length ? ranges[0][0] : 0;
+    let from = Math.max(0, first - 70);
+    if (from > 0) { const sp = plain.indexOf(" ", from); if (sp !== -1 && sp < first) from = sp + 1; }
+    let to = Math.min(plain.length, from + 230);
+    if (to < plain.length) { const sp = plain.lastIndexOf(" ", to); if (sp > first) to = sp; }
+    let out = "", pos = from;
+    for (const [a, b] of ranges) {
+      if (b <= pos || a >= to) continue;
+      out += esc(plain.slice(pos, Math.max(a, pos))) + "<mark>" + esc(plain.slice(Math.max(a, pos), Math.min(b, to))) + "</mark>";
+      pos = Math.min(b, to);
+    }
+    out += esc(plain.slice(pos, to));
+    return (from > 0 ? "… " : "") + out + (to < plain.length ? " …" : "");
+  }
+
+  // ---- UI ----
+  let hbFilter = "";
+  $("hb-chips").innerHTML = HB.map((h, i) => `<button class="chip" data-hb="${i}" aria-pressed="false">${esc(h.short)}</button>`).join(" ");
+  document.querySelectorAll(".chip").forEach((chip) => chip.addEventListener("click", () => {
+    hbFilter = chip.dataset.hb;
+    document.querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", String(c === chip)));
+    run();
+  }));
+
+  const EXAMPLES = ["residence permit extension", "Sperrkonto", "Anmeldung", "health insurance over 30", "exam registration deadline",
+                    "free legal advice", "English-speaking doctor", "student job hours", "بیمه درمانی", "اجازه اقامت", "خوابگاه"];
+  function welcome() {
+    const counts = HB.map((h, i) => `${PAGES.filter((p) => p.h === i).length} pages in the ${esc(h.name)}`).join(" and ");
+    results.innerHTML = `<p class="examples">Searching ${counts}. Try:` +
+      EXAMPLES.map((e) => ` <button type="button" dir="auto">${esc(e)}</button>`).join("") + "</p>";
+    results.querySelectorAll(".examples button").forEach((b) => b.addEventListener("click", () => { input.value = b.textContent; run(); input.focus(); }));
+  }
+
+  function run() {
+    const q = input.value.trim();
+    $("clear").style.visibility = q ? "visible" : "hidden";
+    const hash = q ? "#q=" + encodeURIComponent(q) + (hbFilter ? "&hb=" + hbFilter : "") : " ";
+    history.replaceState(null, "", hash === " " ? location.pathname + location.search : hash);
+    if (!q) { status.textContent = ""; welcome(); return; }
+    const groups = parse(q);
+    if (!groups.length) { status.textContent = ""; results.innerHTML = ""; return; }
+    const phrase = groups.map((g) => g.word).join(" ");
+    const pool = hbFilter === "" ? ITEMS : ITEMS.filter((it) => String(it.page.h) === hbFilter);
+    let partial = false;
+    let scored = pool.map((it) => [it, score(it, groups, phrase, true)]).filter(([, s]) => s > 0);
+    if (!scored.length && groups.length > 1) {
+      partial = true;
+      scored = pool.map((it) => [it, score(it, groups, phrase, false)]).filter(([, s]) => s > 0);
+    }
+    // Group section hits by page; best section first.
+    const byPage = new Map();
+    for (const [it, s] of scored) {
+      if (!byPage.has(it.p)) byPage.set(it.p, []);
+      byPage.get(it.p).push([it, s]);
+    }
+    const pages = [...byPage.entries()].map(([p, hits]) => {
+      hits.sort((a, b) => b[1] - a[1]);
+      return { p, hits, score: hits[0][1] + 0.15 * hits.slice(1).reduce((a, h) => a + h[1], 0) };
+    }).sort((a, b) => b.score - a.score);
+
+    const words = groups.map((g) => g.word);
+    const synonyms = [...new Set(groups.flatMap((g) => g.alts.slice(1)))].filter((s) => !words.includes(s));
+    const nSections = scored.length;
+    status.textContent = pages.length ? `${pages.length} page${pages.length > 1 ? "s" : ""} · ${nSections} section${nSections > 1 ? "s" : ""}` : "";
+    if (!pages.length) {
+      results.innerHTML = `<p class="empty">Nothing found for “${esc(q)}”. Try fewer or other words — German terms often work best (e.g. <em>Anmeldung</em>, <em>Sperrkonto</em>).</p>`;
+      return;
+    }
+    const html = [];
+    if (partial) html.push('<p class="examples">No page contains all the words — showing pages with some of them.</p>');
+    for (const { p, hits } of pages.slice(0, 40)) {
+      const page = PAGES[p], hb = HB[page.h];
+      const pageUrl = hb.url + page.p;
+      html.push(`<article class="card" dir="${hb.dir}" lang="${hb.lang}">
+        <div class="meta"><span class="badge ${hb.id === "isl" ? "isl" : ""}">${esc(hb.short)}</span><span>${esc(page.s)}</span></div>
+        <h2><a href="${pageUrl}" target="_blank" rel="noopener">${esc(page.t)}</a></h2>
+        ${hits.slice(0, 3).map(([it]) => `<div class="hit" data-i="${ITEMS.indexOf(it)}">
+          <div class="hit-head"><button type="button" aria-expanded="false">${esc(it.heading || page.t)}</button>
+          <a href="${pageUrl}#${encodeURIComponent(it.anchor)}" target="_blank" rel="noopener">${hb.lang === "fa" ? "باز کردن ↗" : "Open ↗"}</a></div>
+          <p class="snippet">${highlight(it.text, words, synonyms)}</p></div>`).join("")}
+      </article>`);
+    }
+    results.innerHTML = html.join("");
+    results.querySelectorAll(".hit-head button").forEach((btn) => btn.addEventListener("click", () => {
+      const hit = btn.closest(".hit"), open = btn.getAttribute("aria-expanded") === "true";
+      btn.setAttribute("aria-expanded", String(!open));
+      const existing = hit.querySelector(".content");
+      if (existing) { existing.hidden = open; hit.querySelector(".snippet").hidden = !open; return; }
+      const it = ITEMS[+hit.dataset.i];
+      const div = document.createElement("div");
+      div.className = "content";
+      div.innerHTML = render(it.md, it.page);
+      hit.appendChild(div);
+      hit.querySelector(".snippet").hidden = true;
+    }));
+  }
+
+  let timer;
+  input.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(run, 120); });
+  $("clear").addEventListener("click", () => { input.value = ""; run(); input.focus(); });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "/" && document.activeElement !== input) { e.preventDefault(); input.focus(); }
+  });
+
+  function fromHash() {
+    const params = new URLSearchParams(location.hash.slice(1));
+    hbFilter = params.get("hb") && HB[+params.get("hb")] ? params.get("hb") : "";
+    document.querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", String(c.dataset.hb === hbFilter)));
+    input.value = params.get("q") || "";
+    run();
+  }
+  // replaceState in run() does not fire hashchange, so this only reacts to links and the address bar.
+  window.addEventListener("hashchange", fromHash);
+  fromHash();
+  if (!input.value) input.focus();
+
+  $("footer").innerHTML = `Index built ${esc(DATA.built)} from ${HB.map((h) => `<a href="${h.url.replace(/blob\/main\/$/, "")}" target="_blank" rel="noopener">${esc(h.name)}</a>`).join(" and ")}. ` +
+    "Rebuild after editing pages: <code>python3 tools/build_search.py</code>. Press <kbd>/</kbd> to search. General guidance only — not legal advice.";
+})();
+</script>
+</body>
+</html>

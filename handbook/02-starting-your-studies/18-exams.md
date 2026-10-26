@@ -1,7 +1,7 @@
 # 18. Exams, Academic Rules and Study Support
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 2 — Starting Your Studies](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-10-26 · **Section:** [Section 2 — Starting Your Studies](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -21,6 +21,7 @@ In Germany you must **register for exams yourself, within a fixed period**. Miss
 5.  **Time management and exam anxiety:** "Lernwerkstatt" workshops at ZQS ([LUH – ZQS](https://www.uni-hannover.de/en/universitaet/organisation/einrichtungen/zentrale-einrichtungen/zqs)) and free psychological counselling at ptb ([ptb](https://www.ptb.uni-hannover.de/en/)). → [25. ZQS](../03-university-services/25-zqs.md), [29. Counselling](../03-university-services/29-counselling.md)
 6.  **Disadvantage compensation (Nachteilsausgleich):** students with a disability or chronic illness can apply for adjusted exam conditions (e.g. extra time). → [27. ChancenVielfalt](../03-university-services/27-chancenvielfalt.md)
 7.  Get the **transcripts** needed for extending your residence permit from the examinations office ([Studentenwerk](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany)).
+8.  **Know the registration periods in advance:** in recent years QIS exam registration usually ran **15–31 May** (summer semester) and **mid to 30 November** (winter semester); the second exam period has its own registration. Check the exact dates every semester in QIS and on your faculty's site. → [65. Annual student calendar](../07-resources/65-annual-calendar.md)
 
 ## 4. Documents and costs
 
@@ -43,17 +44,18 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 2 | [Studentenwerk – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-25 | ✅ Opened |
-| 3 | [Exam information & subject advice](https://www.uni-hannover.de/en/studium/im-studium/pruefungsinfos-fachberatung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 4 | [LUH – ZQS](https://www.uni-hannover.de/en/universitaet/organisation/einrichtungen/zentrale-einrichtungen/zqs) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 5 | [ptb](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-10-25 | ✅ Opened |
-| 6 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 7 | [SG 62](https://www.uni-hannover.de/en/universitaet/organisation/dezernate/dezernat-6/sg-62-examinations-office) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [Studentenwerk – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [Exam information & subject advice](https://www.uni-hannover.de/en/studium/im-studium/pruefungsinfos-fachberatung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [LUH – ZQS](https://www.uni-hannover.de/en/universitaet/organisation/einrichtungen/zentrale-einrichtungen/zqs) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [ptb](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-10-26 | ✅ Opened |
+| 6 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 7 | [SG 62](https://www.uni-hannover.de/en/universitaet/organisation/dezernate/dezernat-6/sg-62-examinations-office) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 
 > [!NOTE]
 > This section is for personal experiences; it is not a general rule or legal advice. Share yours (with a date) on [page 57](../07-resources/57-contribute-experiences.md) or by opening a GitHub issue.
 
-- No experiences added yet.
+- **Errors during registration (university e-mail, May 2026):** if QIS shows an error, e-mail your faculty's examinations contact **straight away** (even at the weekend) and include your phone number — that way the problem is recorded within the deadline. Late registration is not accepted, so don't leave it to the last days.
+- **Deadline reminders** were the most frequent study-related notice in student group chats.

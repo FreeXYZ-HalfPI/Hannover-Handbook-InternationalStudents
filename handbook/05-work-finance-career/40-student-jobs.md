@@ -55,16 +55,16 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Make it in Germany – Working while studying](https://www.make-it-in-germany.com/en/study-vocational-training/studying-in-germany/work) | Federal Government – Make it in Germany | 2026-10-25 | ✅ Opened |
-| 2 | [§ 16b (3) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 3 | [BA – Technical instructions (PDF)](https://www.arbeitsagentur.de/datei/dok_ba033210.pdf) | Federal Employment Agency | 2026-10-25 | ✅ Opened |
-| 4 | [university job page](https://www.uni-hannover.de/en/universitaet/stellenangebote-arbeit-an-der-uni) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 5 | [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Arbeitgeber-und-Steuerberater/summa-summarum/Lexikon/W/werkstudentenprivileg.html) | Deutsche Rentenversicherung | 2026-10-25 | ✅ Opened |
-| 6 | [iww.de](https://www.iww.de/pp/recht/geringfuegige-beschaeftigung-minijob-2026-hoeherer-verdienst-neue-regeln-und-was-sonst-zu-beachten-ist-f171358) | iww.de — unofficial / secondary source | 2026-10-25 | ✅ Opened |
-| 7 | [Federal Government – Minimum wage](https://www.bundesregierung.de/breg-de/aktuelles/mindestlohn-steigt-2365658) | Federal Government | 2026-10-25 | ✅ Opened |
-| 8 | [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2024/240312-versicherungsnummernachweis) | Deutsche Rentenversicherung | 2026-10-25 | ✅ Opened |
-| 9 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-25 | ✅ Opened |
-| 10 | [Faire Mobilität](https://www.faire-mobilitaet.de/en) | faire-mobilitaet.de | 2026-10-25 | ✅ Opened |
+| 1 | [Make it in Germany – Working while studying](https://www.make-it-in-germany.com/en/study-vocational-training/studying-in-germany/work) | Federal Government – Make it in Germany | 2026-10-26 | ✅ Opened |
+| 2 | [§ 16b (3) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 3 | [BA – Technical instructions (PDF)](https://www.arbeitsagentur.de/datei/dok_ba033210.pdf) | Federal Employment Agency | 2026-10-26 | ✅ Opened |
+| 4 | [university job page](https://www.uni-hannover.de/en/universitaet/stellenangebote-arbeit-an-der-uni) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Arbeitgeber-und-Steuerberater/summa-summarum/Lexikon/W/werkstudentenprivileg.html) | Deutsche Rentenversicherung | 2026-10-26 | ✅ Opened |
+| 6 | [iww.de](https://www.iww.de/pp/recht/geringfuegige-beschaeftigung-minijob-2026-hoeherer-verdienst-neue-regeln-und-was-sonst-zu-beachten-ist-f171358) | iww.de — unofficial / secondary source | 2026-10-26 | ✅ Opened |
+| 7 | [Federal Government – Minimum wage](https://www.bundesregierung.de/breg-de/aktuelles/mindestlohn-steigt-2365658) | Federal Government | 2026-10-26 | ✅ Opened |
+| 8 | [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2024/240312-versicherungsnummernachweis) | Deutsche Rentenversicherung | 2026-10-26 | ✅ Opened |
+| 9 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-26 | ✅ Opened |
+| 10 | [Faire Mobilität](https://www.faire-mobilitaet.de/en) | faire-mobilitaet.de | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

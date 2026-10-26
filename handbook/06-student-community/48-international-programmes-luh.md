@@ -42,14 +42,14 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Study-Buddy](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote/study-buddy) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 2 | [LUH – Senior Student Partnership](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote/senior-student-partnership) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [LUH – Care services](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 4 | [LUH – Events and excursions](https://www.uni-hannover.de/en/universitaet/internationales/internationales-an-der-luh/veranstaltungen) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 5 | [LUH – International Day](https://www.uni-hannover.de/en/universitaet/internationales/aktuelle-termine/internationaler-tag) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 6 | [EasyStartLUH](https://go.lu-h.de/EasyStartLUH) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 7 | [LUH – After your studies](https://www.uni-hannover.de/en/studium/nach-dem-studium/after-your-studies) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 8 | [LUH – International students](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
+| 1 | [LUH – Study-Buddy](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote/study-buddy) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [LUH – Senior Student Partnership](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote/senior-student-partnership) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [LUH – Care services](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [LUH – Events and excursions](https://www.uni-hannover.de/en/universitaet/internationales/internationales-an-der-luh/veranstaltungen) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [LUH – International Day](https://www.uni-hannover.de/en/universitaet/internationales/aktuelle-termine/internationaler-tag) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [EasyStartLUH](https://go.lu-h.de/EasyStartLUH) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 7 | [LUH – After your studies](https://www.uni-hannover.de/en/studium/nach-dem-studium/after-your-studies) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 8 | [LUH – International students](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

@@ -44,14 +44,14 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Campus & city](https://www.uni-hannover.de/universitaet/campus-stadt/) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 2 | [Faculty of Natural Sciences – Campus areas](https://www.naturwissenschaften.uni-hannover.de/fakultaet/campusbereiche) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 3 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 4 | [info.cafm.uni-hannover.de](https://info.cafm.uni-hannover.de/building/1101) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 5 | [LUH – Enrolment](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/nach-der-bewerbung/einschreibung) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 6 | [Standortfinder](https://standortfinder.uni-hannover.de/map.php) | Leibniz University Hannover | 2026-10-25 | ✅ Opened |
-| 7 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 8 | [TIB Reader Registration](https://reg.lbs.tib.eu/registration/tib/edit.php?lang=en) | TIB – Leibniz Information Centre | 2026-10-25 | ✅ Opened |
+| 1 | [LUH – Campus & city](https://www.uni-hannover.de/universitaet/campus-stadt/) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [Faculty of Natural Sciences – Campus areas](https://www.naturwissenschaften.uni-hannover.de/fakultaet/campusbereiche) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [info.cafm.uni-hannover.de](https://info.cafm.uni-hannover.de/building/1101) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [LUH – Enrolment](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/nach-der-bewerbung/einschreibung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [Standortfinder](https://standortfinder.uni-hannover.de/map.php) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 7 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 8 | [TIB Reader Registration](https://reg.lbs.tib.eu/registration/tib/edit.php?lang=en) | TIB – Leibniz Information Centre | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

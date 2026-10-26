@@ -42,15 +42,15 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – International first-semester students](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/internationale-erstsemesterstudierende) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 2 | [LUH – International Office](https://www.uni-hannover.de/en/universitaet/organisation/praesidialstab-und-stabsstellen/internationales) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [Start Smart](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/start-smart) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 4 | [STEPin](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/preparation-courses-and-introductory-sessions/stepin) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 5 | [LUH – International students](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 6 | [LUH – Financial aid for international students](https://www.uni-hannover.de/en/studium/finanzierung-foerderung/finanzielle-beihilfen-fuer-internationale-studierende) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 7 | [LUH – Information for refugees](https://www.uni-hannover.de/en/studium/beratung-hilfe/gefluechtete) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 8 | [LUH – Events](https://www.uni-hannover.de/en/universitaet/aktuelles/veranstaltungen) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 9 | [Instagram](https://www.instagram.com/internationalofficeluh/) | instagram.com | 2026-10-25 | ✅ Opened |
+| 1 | [LUH – International first-semester students](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/internationale-erstsemesterstudierende) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [LUH – International Office](https://www.uni-hannover.de/en/universitaet/organisation/praesidialstab-und-stabsstellen/internationales) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [Start Smart](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/start-smart) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 4 | [STEPin](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/preparation-courses-and-introductory-sessions/stepin) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [LUH – International students](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 6 | [LUH – Financial aid for international students](https://www.uni-hannover.de/en/studium/finanzierung-foerderung/finanzielle-beihilfen-fuer-internationale-studierende) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 7 | [LUH – Information for refugees](https://www.uni-hannover.de/en/studium/beratung-hilfe/gefluechtete) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 8 | [LUH – Events](https://www.uni-hannover.de/en/universitaet/aktuelles/veranstaltungen) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 9 | [Instagram](https://www.instagram.com/internationalofficeluh/) | instagram.com | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

@@ -35,9 +35,9 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 2 | [list of Fachschaften and Fachräte](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/organe-gremien/fachschaften) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [AStA – International students](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-25 | ✅ Opened |
+| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 2 | [list of Fachschaften and Fachräte](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/organe-gremien/fachschaften) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [AStA – International students](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

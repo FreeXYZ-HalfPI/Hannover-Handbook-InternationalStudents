@@ -49,10 +49,10 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [§ 41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 2 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 3 | [German missions in Italy](https://italien.diplo.de/it-de/service/visa-aktuell/2586756-2586756) | Federal Foreign Office (German mission) | 2026-10-25 | ✅ Opened |
-| 4 | [§ 45 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45.html) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
+| 1 | [§ 41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 2 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 3 | [German missions in Italy](https://italien.diplo.de/it-de/service/visa-aktuell/2586756-2586756) | Federal Foreign Office (German mission) | 2026-10-26 | ✅ Opened |
+| 4 | [§ 45 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

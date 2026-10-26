@@ -56,11 +56,11 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Federal Foreign Office – Missions of other states in Germany](https://www.auswaertiges-amt.de/de/reiseundsicherheit/vertretungen-anderer-staaten) | Federal Foreign Office | 2026-10-25 | ✅ Opened |
-| 2 | [Your Europe – Consular protection](https://europa.eu/youreurope/citizens/travel/consular-protection/index_en.htm) | European Union | 2026-10-25 | ✅ Opened |
-| 3 | [Basic Law – Article 4](https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html#p0026) | Federal Ministry of Justice (law text) | 2026-10-25 | ✅ Opened |
-| 4 | [LUH – Student associations](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/studentische-vereinigungen) | Leibniz University Hannover | 2026-10-25 | ❌ No response on access date |
-| 5 | [hannover.de – Living in the Hannover region](https://www.hannover.de/Leben-in-der-Region-Hannover) | City and Region of Hannover | 2026-10-25 | ✅ Opened |
+| 1 | [Federal Foreign Office – Missions of other states in Germany](https://www.auswaertiges-amt.de/de/reiseundsicherheit/vertretungen-anderer-staaten) | Federal Foreign Office | 2026-10-26 | ✅ Opened |
+| 2 | [Your Europe – Consular protection](https://europa.eu/youreurope/citizens/travel/consular-protection/index_en.htm) | European Union | 2026-10-26 | ✅ Opened |
+| 3 | [Basic Law – Article 4](https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html#p0026) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 4 | [LUH – Student associations](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/studentische-vereinigungen) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 5 | [hannover.de – Living in the Hannover region](https://www.hannover.de/Leben-in-der-Region-Hannover) | City and Region of Hannover | 2026-10-26 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

@@ -4,7 +4,7 @@
 
 A practical, step-by-step handbook in English for **international students from every country** at Leibniz University Hannover (LUH): from applying while still at home, to arriving in Hannover, studying, working, and staying after graduation. Open to everyone's contributions.
 
-📖 **Start reading:** [handbook/README.md](handbook/README.md) · 🌍 **Rules for your nationality:** [Section 8](handbook/08-by-nationality/README.md) · 📄 **PDF:** [pdf/Hannover-Handbook-International-Students.pdf](pdf/Hannover-Handbook-International-Students.pdf)
+📖 **Start reading:** [handbook/README.md](handbook/README.md) · 🌍 **Rules for your nationality:** [Section 8](handbook/08-by-nationality/README.md) · 📄 **PDF:** [pdf/Hannover-Handbook-International-Students.pdf](pdf/Hannover-Handbook-International-Students.pdf) · 🔎 **Search both handbooks:** [search/index.html](search/index.html) (download the repository and open it in your browser) or `python3 tools/search.py your words`
 
 ---
 
@@ -43,11 +43,16 @@ Everyone can help: correct a figure or deadline, report a broken link, add a per
 | `tools/check_links.sh` | Checks every external link in `handbook/` and writes `link-report.tsv` |
 | `tools/build_sources.py` | Regenerates each page's sources table (section 6) from its links and `link-report.tsv` |
 | `tools/build_pdf.py` | Builds the PDF (needs pandoc ≥ 3.1 and Chrome/Chromium) |
+| `search/index.html` | **Handbook Searcher** — searches both handbooks (English and Persian) in your browser, offline; open the file or serve the folder |
+| `tools/build_search.py` | Rebuilds `search/search-index.js` from both handbooks (the sibling repository is included when it is checked out next to this one) |
+| `tools/search.py` | The same search in the terminal: `python3 tools/search.py residence permit` |
+| `handbook/images/` | Diagrams used in the handbook (SVG) |
 | `TEMPLATE.md` | Template for new pages |
 
 ```bash
 bash tools/check_links.sh
 python3 tools/build_sources.py
+python3 tools/build_search.py
 python3 tools/build_pdf.py
 ```
 
