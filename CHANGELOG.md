@@ -1,0 +1,25 @@
+# Changelog
+
+To stay informed: check this page, click **Watch** on GitHub (or Watch → Custom → Releases) to get e-mail notifications, or follow the [ISL Telegram channel](https://t.me/hannover_iranian_students). Every single change: [commit history](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/commits/main).
+
+> [!CAUTION]
+> This handbook is guidance based on students' experience and may be out of date. ISL accepts no responsibility for its currency.
+
+## 2026-10-27
+
+- **Large disclaimer** at the top of every page, with the page's last update date.
+- **Medical disclaimer** on pages 7 (health insurance), 29 (counselling), 33 (doctors and pharmacies) and 37 (emergency).
+- This changelog.
+
+## 2026-10-26
+
+- Ported the ISL handbook's October updates (19 pages) and added pages 65 (annual calendar), 66 (passport, documents, translations and certified copies), 67 (consumer rights and free legal help) and 68 (GitHub guide).
+- **Handbook Searcher** (`search/index.html`, `tools/search.py`): searches this handbook and the Persian ISL handbook together.
+
+## 2026-10-25
+
+- Re-checked all links; fixed the dead Bundesnetzagentur link.
+
+## 2026-10-24
+
+- First version: 64 pages for international students of every nationality, PDF and tools.

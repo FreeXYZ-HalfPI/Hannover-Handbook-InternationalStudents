@@ -131,7 +131,9 @@ def sections(path):
 
     The sources table (section 6) is left out: it only repeats the links.
     """
-    lines = path.read_text(encoding="utf-8").splitlines()
+    # The disclaimer box (tools/disclaimer.py) is the same on every page.
+    text = re.sub(r"<!-- disclaimer:start -->.*?<!-- disclaimer:end -->", "", path.read_text(encoding="utf-8"), flags=re.S)
+    lines = text.splitlines()
     seen, chunks, title = {}, [], path.stem
     heading, anchor, body, fence = None, "", [], False
     for line in lines:

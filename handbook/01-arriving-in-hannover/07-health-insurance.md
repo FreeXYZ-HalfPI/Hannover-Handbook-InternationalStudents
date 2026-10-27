@@ -1,5 +1,21 @@
 # 7. Health Insurance — Krankenversicherung
 
+<!-- disclaimer:start -->
+> [!CAUTION]
+> ### ⚠️ This handbook is guidance based on students' experience — not law and not official advice
+>
+> **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
+>
+> ### 🗓️ This page was last updated: ⁦2026-10-26⁩
+>
+> Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
+
+> [!WARNING]
+> ### 🩺 Medical disclaimer
+>
+> This page is **not medical advice, diagnosis or treatment** and does not replace an examination or advice from a doctor, psychotherapist or pharmacist. Make decisions about illness, medicines and treatment only with them. **In an emergency call 112 immediately**; outside surgery hours call 116117. Names of doctors or clinics (where given) come from public registers and are not a recommendation, endorsement or guarantee by ISL.
+<!-- disclaimer:end -->
+
 > [!TIP]
 > **Last reviewed:** 2026-10-26 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 

@@ -10,21 +10,21 @@
   --bg: #f7f8fa; --panel: #ffffff; --text: #1f2937; --muted: #6b7280; --line: #e5e7eb;
   --accent: #0f5132; --accent-soft: #e7f3ec; --isl: #1e3a8a; --isl-soft: #e8edfb;
   --mark: #fde68a; --mark-text: #111827; --link: #1d4ed8; --shadow: 0 1px 2px rgba(0,0,0,.05), 0 2px 8px rgba(0,0,0,.04);
-  --tip: #ecfdf5; --tip-line: #10b981; --note: #eff6ff; --note-line: #3b82f6; --warn: #fffbeb; --warn-line: #f59e0b;
+  --danger: #fef2f2; --danger-line: #dc2626; --danger-text: #991b1b; --tip: #ecfdf5; --tip-line: #10b981; --note: #eff6ff; --note-line: #3b82f6; --warn: #fffbeb; --warn-line: #f59e0b;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #0f1115; --panel: #171a21; --text: #e5e7eb; --muted: #9ca3af; --line: #2a2f3a;
     --accent: #6fcf97; --accent-soft: #15291f; --isl: #93b4ff; --isl-soft: #18213a;
     --mark: #8a6d0b; --mark-text: #fff; --link: #8ab4ff; --shadow: none;
-    --tip: #10241b; --tip-line: #34d399; --note: #111d33; --note-line: #60a5fa; --warn: #2a2110; --warn-line: #fbbf24;
+    --danger: #2a1215; --danger-line: #f87171; --danger-text: #fca5a5; --tip: #10241b; --tip-line: #34d399; --note: #111d33; --note-line: #60a5fa; --warn: #2a2110; --warn-line: #fbbf24;
   }
 }
 :root[data-theme="dark"] {
   --bg: #0f1115; --panel: #171a21; --text: #e5e7eb; --muted: #9ca3af; --line: #2a2f3a;
   --accent: #6fcf97; --accent-soft: #15291f; --isl: #93b4ff; --isl-soft: #18213a;
   --mark: #8a6d0b; --mark-text: #fff; --link: #8ab4ff; --shadow: none;
-  --tip: #10241b; --tip-line: #34d399; --note: #111d33; --note-line: #60a5fa; --warn: #2a2110; --warn-line: #fbbf24;
+  --danger: #2a1215; --danger-line: #f87171; --danger-text: #fca5a5; --tip: #10241b; --tip-line: #34d399; --note: #111d33; --note-line: #60a5fa; --warn: #2a2110; --warn-line: #fbbf24;
 }
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.55 system-ui, -apple-system, "Segoe UI", "Noto Sans", "Vazirmatn", Tahoma, sans-serif; }
@@ -74,6 +74,9 @@ mark { background: var(--mark); color: var(--mark-text); border-radius: 3px; pad
 .alert { border-inline-start: 4px solid var(--note-line); background: var(--note); border-radius: 6px; padding: 6px 10px; margin: 8px 0; }
 .alert.tip { border-color: var(--tip-line); background: var(--tip); }
 .alert.warning, .alert.caution, .alert.important { border-color: var(--warn-line); background: var(--warn); }
+.disclaimer { margin: 16px 0 0; padding: 12px 14px; border: 2px solid var(--danger-line); border-inline-start-width: 6px; background: var(--danger); border-radius: 10px; font-size: .9rem; }
+.disclaimer p { margin: 4px 0; }
+.disclaimer .big { font-weight: 700; font-size: 1.05rem; color: var(--danger-text); }
 .empty { text-align: center; color: var(--muted); padding: 40px 0; }
 footer { margin-top: 40px; color: var(--muted); font-size: .85rem; }
 [dir="rtl"] { font-family: "Vazirmatn", Tahoma, system-ui, sans-serif; }
@@ -87,6 +90,14 @@ footer { margin-top: 40px; color: var(--muted); font-size: .85rem; }
     <p>Search both Hannover handbooks at once — English, German or Persian words all work.</p>
     <p class="fa" dir="rtl" lang="fa">جست‌وجو در هر دو کتابچه، به انگلیسی، آلمانی یا فارسی</p>
   </header>
+
+  <aside class="disclaimer" role="note">
+    <p class="big">⚠️ Guidance based on students' experience — not law, not official, legal or medical advice.</p>
+    <p>Rules, amounts and deadlines can change at any time. ISL and the authors accept <strong>no responsibility</strong> for the accuracy or currency of this content — always check with the responsible official office. In a medical emergency call <strong>112</strong>.</p>
+    <p class="big" dir="rtl" lang="fa">⚠️ این مطالب فقط راهنما و حاصل تجربه دانشجویان است — نه قانون و نه مشاوره رسمی، حقوقی یا پزشکی.</p>
+    <p dir="rtl" lang="fa">قوانین، مبالغ و مهلت‌ها ممکن است هر زمان تغییر کنند. انجمن ISL و نویسندگان <strong>هیچ مسئولیتی</strong> در قبال درستی یا به‌روز بودن مطالب ندارند؛ همیشه از نهاد رسمی مسئول بپرسید. در وضعیت اضطراری پزشکی با <strong>112</strong> تماس بگیرید.</p>
+    <p class="big" id="updated"></p>
+  </aside>
 
   <div class="searchbar">
     <div class="box">
@@ -387,6 +398,7 @@ footer { margin-top: 40px; color: var(--muted); font-size: .85rem; }
   fromHash();
   if (!input.value) input.focus();
 
+  $("updated").innerHTML = `🗓️ Last updated: <bdi dir="ltr">${esc(DATA.built)}</bdi> · <span dir="rtl" lang="fa">آخرین به‌روزرسانی: <bdi dir="ltr">${esc(DATA.built)}</bdi></span>`;
   $("footer").innerHTML = `Index built ${esc(DATA.built)} from ${HB.map((h) => `<a href="${h.url.replace(/blob\/main\/$/, "")}" target="_blank" rel="noopener">${esc(h.name)}</a>`).join(" and ")}. ` +
     "Rebuild after editing pages: <code>python3 tools/build_search.py</code>. Press <kbd>/</kbd> to search. General guidance only — not legal advice.";
 })();

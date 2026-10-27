@@ -1,5 +1,16 @@
 # 40. Student Jobs — Werkstudent, HiWi and Minijob
 
+<!-- disclaimer:start -->
+> [!CAUTION]
+> ### ⚠️ This handbook is guidance based on students' experience — not law and not official advice
+>
+> **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
+>
+> ### 🗓️ This page was last updated: ⁦2026-10-24⁩
+>
+> Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
+<!-- disclaimer:end -->
+
 > [!WARNING]
 > This page is general information, not legal or tax advice. Work rules for non-EU students depend on your residence permit; check with the Ausländerbehörde before starting a job.
 

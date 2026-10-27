@@ -6,6 +6,22 @@ A practical, step-by-step handbook in English for **international students from 
 
 📖 **Start reading:** [handbook/README.md](handbook/README.md) · 🌍 **Rules for your nationality:** [Section 8](handbook/08-by-nationality/README.md) · 📄 **PDF:** [pdf/Hannover-Handbook-International-Students.pdf](pdf/Hannover-Handbook-International-Students.pdf) · 🔎 **Search both handbooks:** [search/index.html](search/index.html) (download the repository and open it in your browser) or `python3 tools/search.py your words`
 
+
+> [!CAUTION]
+> ### ⚠️ Guidance based on students' experience — not law, not official, legal or medical advice
+>
+> **Rules, amounts and deadlines can change at any time.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors accept **no responsibility** for the accuracy or currency of this handbook. Always check with the responsible official office.
+>
+> ### ⚠️ <span dir="rtl">این کتابچه فقط راهنما و حاصل تجربه دانشجویان است — نه قانون و نه مشاوره رسمی، حقوقی یا پزشکی</span>
+>
+> <span dir="rtl">**قوانین، مبالغ و مهلت‌ها ممکن است هر زمان تغییر کنند.** انجمن دانشجویان ایرانی دانشگاه لایبنیتس هانوفر (ISL) و نویسندگان **هیچ مسئولیتی** در قبال درستی یا به‌روز بودن مطالب ندارند. همیشه از نهاد رسمی مسئول بپرسید.</span>
+>
+> ### 🗓️ Last updated: 2026-10-27
+>
+> ### <span dir="rtl">🗓️ آخرین به‌روزرسانی: ⁦2026-10-27⁩</span>
+>
+> Follow changes · پیگیری تغییرات: [CHANGELOG.md](CHANGELOG.md) · **Watch** this repository on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
+
 ---
 
 ## What is this handbook?
