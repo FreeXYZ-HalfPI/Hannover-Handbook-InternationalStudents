@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyleft 🄯 2026 ISL and contributors
 # Check every external link in handbook/ and print: STATUS<TAB>FINAL_URL<TAB>URL<TAB>PAGES
 # Status 000 = no connection. Some sites (make-it-in-germany.com, linkedin.com)
 # block automated requests; open those in a browser.

@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyleft 🄯 2026 ISL and contributors
 """Search both handbooks from the terminal.
 
 Usage: python3 tools/search.py [--isl | --intl] [-n N] WORDS...

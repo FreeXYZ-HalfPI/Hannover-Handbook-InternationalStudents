@@ -9,6 +9,8 @@
 > ### 🗓️ This page was last updated: ⁦2026-10-26⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
+>
+> Copyleft 🄯 ISL and contributors — free to use, share and change, as long as it stays under the same license ([GNU GPL v3 or later](../../LICENSE))
 
 > [!WARNING]
 > ### 🩺 Medical disclaimer

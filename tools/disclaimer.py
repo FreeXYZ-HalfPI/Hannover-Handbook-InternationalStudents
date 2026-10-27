@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyleft 🄯 2026 ISL and contributors
 """Insert or refresh the disclaimer box at the top of every handbook page.
 
 Usage: python3 tools/disclaimer.py
@@ -33,6 +35,7 @@ TEXT = {
         "date_page": "🗓️ آخرین به‌روزرسانی این صفحه: {date}",
         "date_index": "🗓️ آخرین به‌روزرسانی: {date}",
         "follow": "از تغییرات بعدی باخبر شوید: [فهرست تغییرات (CHANGELOG)]({changelog}) · در GitHub روی **Watch** بزنید · [کانال تلگرام ISL](https://t.me/hannover_iranian_students)",
+        "copyleft": "کپی‌لفت 🄯 ISL و مشارکت‌کنندگان — آزاد برای استفاده، پخش و تغییر، به شرط انتشار با همین مجوز ([GNU GPL نسخه ۳ یا بالاتر]({license}))",
         "med_title": "🩺 سلب مسئولیت پزشکی",
         "med_body": ("این صفحه **توصیه پزشکی، تشخیص یا درمان نیست** و جای معاینه و مشاوره پزشک، روان‌درمانگر یا داروساز را نمی‌گیرد. "
                      "درباره بیماری، دارو و درمان فقط با پزشک یا داروساز تصمیم بگیرید. "
@@ -48,6 +51,7 @@ TEXT = {
         "date_page": "🗓️ This page was last updated: {date}",
         "date_index": "🗓️ Last updated: {date}",
         "follow": "Stay informed about changes: [changelog]({changelog}) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)",
+        "copyleft": "Copyleft 🄯 ISL and contributors — free to use, share and change, as long as it stays under the same license ([GNU GPL v3 or later]({license}))",
         "med_title": "🩺 Medical disclaimer",
         "med_body": ("This page is **not medical advice, diagnosis or treatment** and does not replace an examination or advice "
                      "from a doctor, psychotherapist or pharmacist. Make decisions about illness, medicines and treatment only with them. "
@@ -62,7 +66,8 @@ def box(lang, date, changelog, medical, index):
     # Isolate the date as left-to-right, or Persian text around it reverses it to 25-10-2026.
     when = (t["date_index"] if index else t["date_page"]).format(date=f"\u2066{date}\u2069")
     lines = [START, "> [!CAUTION]", f"> ### {t['title']}", ">", f"> {t['body']}", ">",
-             f"> ### {when}", ">", f"> {t['follow'].format(changelog=changelog)}"]
+             f"> ### {when}", ">", f"> {t['follow'].format(changelog=changelog)}", ">",
+             f"> {t['copyleft'].format(license=changelog.replace('CHANGELOG.md', 'LICENSE'))}"]
     if medical:
         lines += ["", "> [!WARNING]", f"> ### {t['med_title']}", ">", f"> {t['med_body']}"]
     return "\n".join(lines + [END]) + "\n\n"

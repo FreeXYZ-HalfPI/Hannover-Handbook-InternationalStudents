@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyleft 🄯 2026 ISL and contributors
 """Regenerate section 6 (sources table) and section 7 (experiences) of every topic page.
 
 Usage: bash tools/check_links.sh && python3 tools/build_sources.py [YYYY-MM-DD]

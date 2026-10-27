@@ -76,8 +76,20 @@ python3 tools/build_pdf.py
 
 This handbook is an English, nationality-neutral adaptation of the Persian-language [Hannover Handbook — ISL](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-ISL) by the Iranian Students Association of Leibniz University Hannover (ISL). Content specific to Iran and Iranian students was removed, all other pages were translated and updated, and a new section on nationality-specific needs was added.
 
-## License
+## License — Copyleft 🄯
 
-Copyright © 2026 Iranian Students Association of Leibniz University Hannover (ISL) and contributors.
+**Copyleft 🄯 2026 Iranian Student Association of Leibniz University Hannover (ISL) — Iranische Studierendenvereinigung der Leibniz Universität Hannover (ISL) — and contributors.**
 
-This handbook is free: you can redistribute it and/or modify it under the terms of the **GNU General Public License, version 3** or (at your option) any later version — see [LICENSE](LICENSE). Every copy or adaptation must stay under the same license (copyleft). Facts and links come from the official sources cited on each page; those sources keep their own terms.
+Everything in this repository — the handbook text, translations, diagrams, the PDF, the search tool and all code — is **copyleft**, released under the **GNU General Public License, version 3 or (at your option) any later version** (`GPL-3.0-or-later`) — see [LICENSE](LICENSE). In plain words:
+
+- ✅ **You may** use, read, print, copy, share, translate, change and republish it — for free, for any purpose.
+- 🔁 **On one condition:** whatever you share or build from it must stay copyleft too — released under the same license, with this notice kept, and with its source (the editable Markdown and code) available to everyone. Nobody may make it closed or proprietary.
+- 🤝 **Contributions** to this repository are accepted under the same license.
+
+Facts and links come from the official sources cited on each page; those sources keep their own terms.
+
+<div dir="rtl">
+
+**به زبان ساده:** همه محتوا و کد این مخزن **کپی‌لفت** است و زیر مجوز **GNU GPL نسخه ۳ یا بالاتر** منتشر شده است. هر کسی آزاد است آن را رایگان و برای هر هدفی بخواند، چاپ کند، کپی کند، پخش کند، ترجمه کند و تغییر دهد؛ **به این شرط** که هر نسخه یا اثری که از آن می‌سازد هم با همین مجوز، همراه همین یادداشت و با متن قابل ویرایش در دسترس همه منتشر شود. هیچ‌کس نمی‌تواند آن را انحصاری یا بسته کند. مشارکت در این مخزن هم با همین مجوز پذیرفته می‌شود.
+
+</div>

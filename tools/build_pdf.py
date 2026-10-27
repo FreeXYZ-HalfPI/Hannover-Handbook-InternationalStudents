@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyleft 🄯 2026 ISL and contributors
 """Build the handbook PDF from the Markdown files in handbook/.
 
 Usage: python3 tools/build_pdf.py [OUTPUT.pdf]
@@ -63,7 +65,7 @@ COVER = """
   <div class="org">For students from every country — arrival, studies, everyday life, work and beyond</div>
   <div class="meta">PDF edition — built on {built}<br>
   Live version: github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents<br>
-  General guidance only — not legal, tax or medical advice. License: GNU GPL v3.</div>
+  General guidance only — not legal, tax or medical advice. Copyleft 🄯 2026 ISL and contributors — free to use, share and change under the same license (GNU GPL v3 or later).</div>
 </div>
 """
 

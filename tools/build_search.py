@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyleft 🄯 2026 ISL and contributors
 """Build the search index used by search/index.html and tools/search.py.
 
 Usage: python3 tools/build_search.py [PATH_TO_OTHER_HANDBOOK_REPO ...]
