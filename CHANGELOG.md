@@ -5,11 +5,15 @@ To stay informed: check this page, click **Watch** on GitHub (or Watch → Custo
 > [!CAUTION]
 > This handbook is guidance based on students' experience and may be out of date. ISL accepts no responsibility for its currency.
 
-## 2026-10-27
+## v1.0.0 — 2026-10-27 — first release
 
+- **Copyleft:** all text, diagrams, the PDF and code under the GNU GPL v3 or later; "Copyright" replaced by "Copyleft 🄯".
+- Repository description and topics on GitHub.
 - **Large disclaimer** at the top of every page, with the page's last update date.
 - **Medical disclaimer** on pages 7 (health insurance), 29 (counselling), 33 (doctors and pharmacies) and 37 (emergency).
 - This changelog.
+
+Download the PDF of this version: [Releases](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/releases/latest)
 
 ## 2026-10-26
 

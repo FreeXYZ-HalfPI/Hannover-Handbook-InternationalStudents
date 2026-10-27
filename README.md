@@ -4,7 +4,7 @@
 
 A practical, step-by-step handbook in English for **international students from every country** at Leibniz University Hannover (LUH): from applying while still at home, to arriving in Hannover, studying, working, and staying after graduation. Open to everyone's contributions.
 
-📖 **Start reading:** [handbook/README.md](handbook/README.md) · 🌍 **Rules for your nationality:** [Section 8](handbook/08-by-nationality/README.md) · 📄 **PDF:** [pdf/Hannover-Handbook-International-Students.pdf](pdf/Hannover-Handbook-International-Students.pdf) · 🔎 **Search both handbooks:** [search/index.html](search/index.html) (download the repository and open it in your browser) or `python3 tools/search.py your words`
+📖 **Start reading:** [handbook/README.md](handbook/README.md) · 🌍 **Rules for your nationality:** [Section 8](handbook/08-by-nationality/README.md) · 🏷️ **Latest release (PDF):** [v1.0.0](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/releases/latest) · 📄 **PDF:** [pdf/Hannover-Handbook-International-Students.pdf](pdf/Hannover-Handbook-International-Students.pdf) · 🔎 **Search both handbooks:** [search/index.html](search/index.html) (download the repository and open it in your browser) or `python3 tools/search.py your words`
 
 
 > [!CAUTION]
