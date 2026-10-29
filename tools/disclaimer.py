@@ -8,6 +8,8 @@ Each page gets a large red box saying the handbook is guidance based on
 students' experience, that rules can change, and that ISL takes no
 responsibility for the content being up to date, followed by the page's last
 update date in large type. Pages about health also get a medical disclaimer.
+Each box ends with one-click links that open a GitHub issue (error, idea or
+experience) with the page's path already in the title, or the page's editor.
 Run it after changing a page's "last reviewed" date; the box sits between
 <!-- disclaimer:start --> and <!-- disclaimer:end --> and is rewritten each time.
 The same file is used in both handbook repositories; the language follows the
@@ -15,6 +17,7 @@ page (Persian or English).
 """
 import re
 from pathlib import Path
+from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
 HANDBOOK = ROOT / "handbook"
@@ -36,6 +39,7 @@ TEXT = {
         "date_index": "🗓️ آخرین به‌روزرسانی: {date}",
         "follow": "از تغییرات بعدی باخبر شوید: [فهرست تغییرات (CHANGELOG)]({changelog}) · در GitHub روی **Watch** بزنید · [کانال تلگرام ISL](https://t.me/hannover_iranian_students)",
         "copyleft": "کپی‌لفت 🄯 ISL و مشارکت‌کنندگان — آزاد برای استفاده، پخش و تغییر، به شرط انتشار با همین مجوز ([GNU GPL نسخه ۳ یا بالاتر]({license}))",
+        "feedback": "💬 درباره این صفحه: [🐞 گزارش خطا یا پیوند خراب]({error}) · [💡 پیشنهاد یا ایده]({idea}) · [✍️ ثبت تجربه]({experience}) · [✏️ ویرایش مستقیم]({edit})",
         "med_title": "🩺 سلب مسئولیت پزشکی",
         "med_body": ("این صفحه **توصیه پزشکی، تشخیص یا درمان نیست** و جای معاینه و مشاوره پزشک، روان‌درمانگر یا داروساز را نمی‌گیرد. "
                      "درباره بیماری، دارو و درمان فقط با پزشک یا داروساز تصمیم بگیرید. "
@@ -52,6 +56,7 @@ TEXT = {
         "date_index": "🗓️ Last updated: {date}",
         "follow": "Stay informed about changes: [changelog]({changelog}) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)",
         "copyleft": "Copyleft 🄯 ISL and contributors — free to use, share and change, as long as it stays under the same license ([GNU GPL v3 or later]({license}))",
+        "feedback": "💬 About this page: [🐞 Report an error or broken link]({error}) · [💡 Suggest an idea]({idea}) · [✍️ Share an experience]({experience}) · [✏️ Edit it yourself]({edit})",
         "med_title": "🩺 Medical disclaimer",
         "med_body": ("This page is **not medical advice, diagnosis or treatment** and does not replace an examination or advice "
                      "from a doctor, psychotherapist or pharmacist. Make decisions about illness, medicines and treatment only with them. "
@@ -60,14 +65,27 @@ TEXT = {
     },
 }
 
+# The Persian handbook writes its review dates in Persian.
+LANG = "fa" if "تاریخ آخرین بررسی" in (HANDBOOK / "README.md").read_text(encoding="utf-8") else "en"
+GITHUB = "https://github.com/FreeXYZ-HalfPI/" + ("Hannover-Handbook-ISL" if LANG == "fa" else "Hannover-Handbook-InternationalStudents")
 
-def box(lang, date, changelog, medical, index):
+
+def feedback_links(page):
+    """Issue links that open the right template with the page path in the title."""
+    def issue(template):
+        return f"{GITHUB}/issues/new?template={template}&title={quote(f'[{page}] ')}"
+    return {"error": issue("broken-link-or-error.md"), "idea": issue("idea.md"),
+            "experience": issue("experience.md"), "edit": f"{GITHUB}/edit/main/{page}"}
+
+
+def box(lang, date, changelog, medical, index, page):
     t = TEXT[lang]
     # Isolate the date as left-to-right, or Persian text around it reverses it to 25-10-2026.
     when = (t["date_index"] if index else t["date_page"]).format(date=f"\u2066{date}\u2069")
     lines = [START, "> [!CAUTION]", f"> ### {t['title']}", ">", f"> {t['body']}", ">",
              f"> ### {when}", ">", f"> {t['follow'].format(changelog=changelog)}", ">",
-             f"> {t['copyleft'].format(license=changelog.replace('CHANGELOG.md', 'LICENSE'))}"]
+             f"> {t['copyleft'].format(license=changelog.replace('CHANGELOG.md', 'LICENSE'))}", ">",
+             f"> {t['feedback'].format(**feedback_links(page))}"]
     if medical:
         lines += ["", "> [!WARNING]", f"> ### {t['med_title']}", ">", f"> {t['med_body']}"]
     return "\n".join(lines + [END]) + "\n\n"
@@ -78,15 +96,12 @@ def page_date(text):
     return m.group(1) if m else None
 
 
-# The Persian handbook writes its review dates in Persian.
-LANG = "fa" if "تاریخ آخرین بررسی" in (HANDBOOK / "README.md").read_text(encoding="utf-8") else "en"
-
 
 def apply(path, date, medical=False, index=False):
     text = BLOCK.sub("", path.read_text(encoding="utf-8"))
     changelog = Path("../" * len(path.parent.relative_to(ROOT).parts)) / "CHANGELOG.md"
     head, _, rest = text.partition("\n")
-    new = head + "\n\n" + box(LANG, date, changelog.as_posix(), medical, index) + rest.lstrip("\n")
+    new = head + "\n\n" + box(LANG, date, changelog.as_posix(), medical, index, path.relative_to(ROOT).as_posix()) + rest.lstrip("\n")
     if new != path.read_text(encoding="utf-8"):
         path.write_text(new, encoding="utf-8")
         return True

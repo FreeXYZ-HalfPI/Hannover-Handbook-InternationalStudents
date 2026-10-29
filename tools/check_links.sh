@@ -7,7 +7,9 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-grep -rhoE '\]\(https?://[^) ]+\)' handbook | sed -E 's/^\]\((.*)\)$/\1/' | sort -u > /tmp/handbook-urls.$$
+# The feedback buttons that tools/disclaimer.py adds to every page (new issue, edit) are skipped.
+grep -rhoE '\]\(https?://[^) ]+\)' handbook | sed -E 's/^\]\((.*)\)$/\1/' \
+  | grep -vE '^https://github\.com/FreeXYZ-HalfPI/[^/]+/(issues/new\?|edit/main/)' | sort -u > /tmp/handbook-urls.$$
 
 check() {
   local u="$1" out pages

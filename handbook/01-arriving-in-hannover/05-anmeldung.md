@@ -11,6 +11,8 @@
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
 > Copyleft 🄯 ISL and contributors — free to use, share and change, as long as it stays under the same license ([GNU GPL v3 or later](../../LICENSE))
+>
+> 💬 About this page: [🐞 Report an error or broken link](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/issues/new?template=broken-link-or-error.md&title=%5Bhandbook/01-arriving-in-hannover/05-anmeldung.md%5D%20) · [💡 Suggest an idea](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/issues/new?template=idea.md&title=%5Bhandbook/01-arriving-in-hannover/05-anmeldung.md%5D%20) · [✍️ Share an experience](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/issues/new?template=experience.md&title=%5Bhandbook/01-arriving-in-hannover/05-anmeldung.md%5D%20) · [✏️ Edit it yourself](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/edit/main/handbook/01-arriving-in-hannover/05-anmeldung.md)
 <!-- disclaimer:end -->
 
 > [!TIP]

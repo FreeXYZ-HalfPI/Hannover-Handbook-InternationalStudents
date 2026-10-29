@@ -401,6 +401,7 @@ footer { margin-top: 40px; color: var(--muted); font-size: .85rem; }
 
   $("updated").innerHTML = `🗓️ Last updated: <bdi dir="ltr">${esc(DATA.built)}</bdi> · <span dir="rtl" lang="fa">آخرین به‌روزرسانی: <bdi dir="ltr">${esc(DATA.built)}</bdi></span>`;
   $("footer").innerHTML = `Index built ${esc(DATA.built)} from ${HB.map((h) => `<a href="${h.url.replace(/blob\/main\/$/, "")}" target="_blank" rel="noopener">${esc(h.name)}</a>`).join(" and ")}. ` +
+    `Missing something or found a mistake? Tell us: ${HB.map((h) => `<a href="${h.url.replace(/blob\/main\/$/, "issues/new/choose")}" target="_blank" rel="noopener">${esc(h.name)}</a>`).join(" · ")}. ` +
     "Rebuild after editing pages: <code>python3 tools/build_search.py</code>. Press <kbd>/</kbd> to search. General guidance only — not legal advice. " +
     "Copyleft 🄯 2026 ISL and contributors — free to use, share and change under the same license (<a href=\"https://www.gnu.org/licenses/gpl-3.0.html\" target=\"_blank\" rel=\"noopener\">GNU GPL v3 or later</a>).";
 })();
