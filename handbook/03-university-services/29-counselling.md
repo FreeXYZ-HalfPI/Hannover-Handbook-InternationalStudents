@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-10-26⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -66,16 +66,16 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [TelefonSeelsorge](https://www.telefonseelsorge.de/telefon/) | TelefonSeelsorge | 2026-10-26 | ✅ Opened |
-| 2 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 3 | [ptb.uni-hannover.de](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-10-26 | ✅ Opened |
-| 4 | [TiHo – ptb](https://www.tiho-hannover.de/en/studies-education/general-information-for-students/counselling-and-support-services/psychological-therapeutic-counselling) | tiho-hannover.de | 2026-10-26 | ✅ Opened |
-| 5 | [116117 – Appointment service](https://www.116117.de/de/terminservice.php) | Kassenärztliche Bundesvereinigung | 2026-10-26 | ⚠️ Blocks automated checks — open in a browser |
-| 6 | [Psychotherapeutenkammer Niedersachsen – Therapist search](https://www.pknds.de/) | pknds.de | 2026-10-26 | ✅ Opened |
-| 7 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 8 | [LUH – Financial aid for international students](https://www.uni-hannover.de/en/studium/finanzierung-foerderung/finanzielle-beihilfen-fuer-internationale-studierende) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 9 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-10-26 | ✅ Opened |
-| 10 | [MHH – ptb](https://www.mhh.de/en/medical-studies/-z/ptb) | mhh.de | 2026-10-26 | ⚠️ Not checked (502) |
+| 1 | [TelefonSeelsorge](https://www.telefonseelsorge.de/telefon/) | TelefonSeelsorge | 2026-11-03 | ✅ Opened |
+| 2 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 3 | [ptb.uni-hannover.de](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-11-03 | ✅ Opened |
+| 4 | [TiHo – ptb](https://www.tiho-hannover.de/en/studies-education/general-information-for-students/counselling-and-support-services/psychological-therapeutic-counselling) | tiho-hannover.de | 2026-11-03 | ✅ Opened |
+| 5 | [116117 – Appointment service](https://www.116117.de/de/terminservice.php) | Kassenärztliche Bundesvereinigung | 2026-11-03 | ✅ Opened (browser; redirects to 116117-termine.de) |
+| 6 | [Psychotherapeutenkammer Niedersachsen – Therapist search](https://www.pknds.de/) | pknds.de | 2026-11-03 | ✅ Opened |
+| 7 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 8 | [LUH – Financial aid for international students](https://www.uni-hannover.de/en/studium/finanzierung-foerderung/finanzielle-beihilfen-fuer-internationale-studierende) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 9 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-11-03 | ✅ Opened |
+| 10 | [MHH – ptb](https://www.mhh.de/en/medical-studies/-z/ptb) | mhh.de | 2026-11-03 | ✅ Opened (browser) |
 
 ## 7. Student experiences (unofficial)
 

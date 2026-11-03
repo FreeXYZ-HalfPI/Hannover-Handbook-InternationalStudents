@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-10-26⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -76,20 +76,20 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [ZQS – Career Service](https://www.zqs.uni-hannover.de/en/kc/career-service) | ZQS, Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 2 | [Individual advice](https://www.zqs.uni-hannover.de/en/kc/career-guidance-and-service/individual-advice) | ZQS, Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 3 | [Internationals welcome – Students](https://www.zqs.uni-hannover.de/en/kc/career-service/internationals-welcome/students) | ZQS, Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 4 | [LUH – ZQS](https://www.uni-hannover.de/en/universitaet/organisation/einrichtungen/zentrale-einrichtungen/zqs) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 5 | [ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 6 | [BA – Jobsuche](https://www.arbeitsagentur.de/jobsuche/) | Federal Employment Agency | 2026-10-26 | ✅ Opened |
-| 7 | [Make it in Germany – Job listings](https://www.make-it-in-germany.com/en/working-in-germany/job-listings) | Federal Government – Make it in Germany | 2026-10-26 | ✅ Opened |
-| 8 | [Europass CV](https://europass.europa.eu/en/create-europass-cv) | European Union | 2026-10-26 | ✅ Opened |
-| 9 | [Recognition in Germany – Recognition Finder](https://www.anerkennung-in-deutschland.de/html/en/index.php) | Federal Government – Recognition in Germany | 2026-10-26 | ✅ Opened |
-| 10 | [jobicco Uni Hannover](https://jobicco.uni-hannover.de/) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 11 | [Stellenticket LUH](https://stellenticket.uni-hannover.de/en/) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 12 | [Agentur für Arbeit Hannover – Studies](https://www.arbeitsagentur.de/vor-ort/hannover/studium) | Federal Employment Agency | 2026-10-26 | ✅ Opened |
-| 13 | [IHK Hannover – Recognition of foreign qualifications](https://www.ihk.de/hannover/hauptnavigation/ausbildung-und-weiterbildung/fachkraefte/anerkennung-auslaendischer-abschluesse2) | ihk.de | 2026-10-26 | ✅ Opened |
-| 14 | [ZQS – Team and contact](https://www.zqs.uni-hannover.de/en/about-us/team-and-contact/) | ZQS, Leibniz University Hannover | 2026-10-26 | ✅ Opened |
+| 1 | [ZQS – Career Service](https://www.zqs.uni-hannover.de/en/kc/career-service) | ZQS, Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 2 | [Individual advice](https://www.zqs.uni-hannover.de/en/kc/career-guidance-and-service/individual-advice) | ZQS, Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 3 | [Internationals welcome – Students](https://www.zqs.uni-hannover.de/en/kc/career-service/internationals-welcome/students) | ZQS, Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 4 | [LUH – ZQS](https://www.uni-hannover.de/en/universitaet/organisation/einrichtungen/zentrale-einrichtungen/zqs) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 5 | [ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 6 | [BA – Jobsuche](https://www.arbeitsagentur.de/jobsuche/) | Federal Employment Agency | 2026-11-03 | ✅ Opened |
+| 7 | [Make it in Germany – Job listings](https://www.make-it-in-germany.com/en/working-in-germany/job-listings) | Federal Government – Make it in Germany | 2026-11-03 | ✅ Opened |
+| 8 | [Europass CV](https://europass.europa.eu/en/create-europass-cv) | European Union | 2026-11-03 | ✅ Opened |
+| 9 | [Recognition in Germany – Recognition Finder](https://www.anerkennung-in-deutschland.de/html/en/index.php) | Federal Government – Recognition in Germany | 2026-11-03 | ✅ Opened |
+| 10 | [jobicco Uni Hannover](https://jobicco.uni-hannover.de/) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 11 | [Stellenticket LUH](https://stellenticket.uni-hannover.de/en/) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 12 | [Agentur für Arbeit Hannover – Studies](https://www.arbeitsagentur.de/vor-ort/hannover/studium) | Federal Employment Agency | 2026-11-03 | ✅ Opened |
+| 13 | [IHK Hannover – Recognition of foreign qualifications](https://www.ihk.de/hannover/hauptnavigation/ausbildung-und-weiterbildung/fachkraefte/anerkennung-auslaendischer-abschluesse2) | ihk.de | 2026-11-03 | ✅ Opened |
+| 14 | [ZQS – Team and contact](https://www.zqs.uni-hannover.de/en/about-us/team-and-contact/) | ZQS, Leibniz University Hannover | 2026-11-03 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

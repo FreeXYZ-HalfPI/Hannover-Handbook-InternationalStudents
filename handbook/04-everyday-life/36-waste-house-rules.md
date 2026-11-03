@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-10-24⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -64,12 +64,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [hannover.de – Yellow bin](https://www.hannover.de/Service/Presse-Medien/Hannover.de/Aktuelles/Service-2022/Aha-f%C3%BChrt-Gelbe-Tonne-ein) | City and Region of Hannover | 2026-10-26 | ✅ Opened |
-| 2 | [hannover.de – Yellow bag](https://www.hannover.de/Leben-in-der-Region-Hannover/Umwelt-Nachhaltigkeit/Abfall-Bodenschutz/Abfallentsorgung-und-%C3%BCberwachung/Entsorgung-von-Leichtverpackungen-Gelber-Sack) | City and Region of Hannover | 2026-10-26 | ✅ Opened |
-| 3 | [hannover.de](https://www.hannover.de/Service/Presse-Medien/Hannover.de/Aktuelles/Service-2025/Gelbe-Tonne,-Rest%C2%ADm%C3%BCll%C2%ADtonne-und-Alt%C2%ADpapier%C2%ADtonne) | City and Region of Hannover | 2026-10-26 | ✅ Opened |
-| 4 | [aha – Glass](https://www.aha-region.de/abfaelle-und-wertstoffe/altglas) | aha – Region Hannover waste management | 2026-10-26 | ✅ Opened |
-| 5 | [aha – Bulky waste collection](https://www.aha-region.de/abfaelle-und-wertstoffe/sperrabfaelle/sperrabfallabholung) | aha – Region Hannover waste management | 2026-10-26 | ✅ Opened |
-| 6 | [aha-region.de](https://www.aha-region.de/) | aha – Region Hannover waste management | 2026-10-26 | ✅ Opened |
+| 1 | [hannover.de – Yellow bin](https://www.hannover.de/Service/Presse-Medien/Hannover.de/Aktuelles/Service-2022/Aha-f%C3%BChrt-Gelbe-Tonne-ein) | City and Region of Hannover | 2026-11-03 | ✅ Opened |
+| 2 | [hannover.de – Yellow bag](https://www.hannover.de/Leben-in-der-Region-Hannover/Umwelt-Nachhaltigkeit/Abfall-Bodenschutz/Abfallentsorgung-und-%C3%BCberwachung/Entsorgung-von-Leichtverpackungen-Gelber-Sack) | City and Region of Hannover | 2026-11-03 | ✅ Opened |
+| 3 | [hannover.de](https://www.hannover.de/Service/Presse-Medien/Hannover.de/Aktuelles/Service-2025/Gelbe-Tonne,-Rest%C2%ADm%C3%BCll%C2%ADtonne-und-Alt%C2%ADpapier%C2%ADtonne) | City and Region of Hannover | 2026-11-03 | ✅ Opened |
+| 4 | [aha – Glass](https://www.aha-region.de/abfaelle-und-wertstoffe/altglas) | aha – Region Hannover waste management | 2026-11-03 | ✅ Opened |
+| 5 | [aha – Bulky waste collection](https://www.aha-region.de/abfaelle-und-wertstoffe/sperrabfaelle/sperrabfallabholung) | aha – Region Hannover waste management | 2026-11-03 | ✅ Opened |
+| 6 | [aha-region.de](https://www.aha-region.de/) | aha – Region Hannover waste management | 2026-11-03 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

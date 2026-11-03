@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-10-24⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -63,13 +63,13 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [EU Sanctions Map](https://www.sanctionsmap.eu/) | European Union | 2026-10-26 | ✅ Opened |
-| 2 | [Deutsche Bundesbank – Financial sanctions](https://www.bundesbank.de/en/service/financial-sanctions) | Deutsche Bundesbank | 2026-10-26 | ✅ Opened |
-| 3 | [Federal Foreign Office (German Embassy Managua) – Blocked account](https://managua.diplo.de/ni-de/service/05-visaeinreise/sperrkonto-2163974) | Federal Foreign Office (German mission) | 2026-10-26 | ✅ Opened |
-| 4 | [§ 31 ZKG](https://www.gesetze-im-internet.de/zkg/__31.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
-| 5 | [bafin.de](https://www.bafin.de/EN/Homepage/homepage_node.html) | BaFin | 2026-10-26 | ✅ Opened |
-| 6 | [German Customs – Cash controls](https://www.zoll.de/EN/Private-individuals/Travel/Entering-Germany/Restrictions/Cash/cash_node.html) | German Customs | 2026-10-26 | ✅ Opened |
-| 7 | [BAFA – Export control](https://www.bafa.de/EN/Foreign_Trade/Export_Control/export_control_node.html) | Federal Office for Economic Affairs and Export Control | 2026-10-26 | ✅ Opened |
+| 1 | [EU Sanctions Map](https://www.sanctionsmap.eu/) | European Union | 2026-11-03 | ✅ Opened |
+| 2 | [Deutsche Bundesbank – Financial sanctions](https://www.bundesbank.de/en/service/financial-sanctions) | Deutsche Bundesbank | 2026-11-03 | ✅ Opened |
+| 3 | [Federal Foreign Office (German Embassy Managua) – Blocked account](https://managua.diplo.de/ni-de/service/05-visaeinreise/sperrkonto-2163974) | Federal Foreign Office (German mission) | 2026-11-03 | ✅ Opened |
+| 4 | [§ 31 ZKG](https://www.gesetze-im-internet.de/zkg/__31.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
+| 5 | [bafin.de](https://www.bafin.de/EN/Homepage/homepage_node.html) | BaFin | 2026-11-03 | ✅ Opened |
+| 6 | [German Customs – Cash controls](https://www.zoll.de/EN/Private-individuals/Travel/Entering-Germany/Restrictions/Cash/cash_node.html) | German Customs | 2026-11-03 | ✅ Opened |
+| 7 | [BAFA – Export control](https://www.bafa.de/EN/Foreign_Trade/Export_Control/export_control_node.html) | Federal Office for Economic Affairs and Export Control | 2026-11-03 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

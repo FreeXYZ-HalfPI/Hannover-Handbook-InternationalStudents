@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-10-24⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -58,12 +58,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LLC](https://www.llc.uni-hannover.de/en/) | Leibniz Language Centre | 2026-10-26 | ✅ Opened |
-| 2 | [LLC – German courses](https://www.llc.uni-hannover.de/en/language-courses/german) | Leibniz Language Centre | 2026-10-26 | ✅ Opened |
-| 3 | [LLC – Registration](https://www.llc.uni-hannover.de/en/language-courses/language-course-registration) | Leibniz Language Centre | 2026-10-26 | ✅ Opened |
-| 4 | [Tandem offers](https://www.llc.uni-hannover.de/en/language-courses/tandem-learning/tandem-learning-offers) | Leibniz Language Centre | 2026-10-26 | ✅ Opened |
-| 5 | [Guidelines for courses and fee regulation](https://www.llc.uni-hannover.de/en/leibniz-language-centre/guidelines-for-courses-and-fee-regulation) | Leibniz Language Centre | 2026-10-26 | ✅ Opened |
-| 6 | [LLC – Contact](https://www.llc.uni-hannover.de/en/leibniz-language-centre/contactdirectionsoffice-hours) | Leibniz Language Centre | 2026-10-26 | ✅ Opened |
+| 1 | [LLC](https://www.llc.uni-hannover.de/en/) | Leibniz Language Centre | 2026-11-03 | ✅ Opened |
+| 2 | [LLC – German courses](https://www.llc.uni-hannover.de/en/language-courses/german) | Leibniz Language Centre | 2026-11-03 | ✅ Opened |
+| 3 | [LLC – Registration](https://www.llc.uni-hannover.de/en/language-courses/language-course-registration) | Leibniz Language Centre | 2026-11-03 | ✅ Opened |
+| 4 | [Tandem offers](https://www.llc.uni-hannover.de/en/language-courses/tandem-learning/tandem-learning-offers) | Leibniz Language Centre | 2026-11-03 | ✅ Opened |
+| 5 | [Guidelines for courses and fee regulation](https://www.llc.uni-hannover.de/en/leibniz-language-centre/guidelines-for-courses-and-fee-regulation) | Leibniz Language Centre | 2026-11-03 | ✅ Opened |
+| 6 | [LLC – Contact](https://www.llc.uni-hannover.de/en/leibniz-language-centre/contactdirectionsoffice-hours) | Leibniz Language Centre | 2026-11-03 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

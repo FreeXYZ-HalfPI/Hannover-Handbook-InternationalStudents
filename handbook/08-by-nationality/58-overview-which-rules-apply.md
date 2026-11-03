@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-10-24⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -68,12 +68,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 2 | [§ 41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
-| 3 | [§ 16b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
-| 4 | [Federal Foreign Office – Visa requirements overview](https://www.auswaertiges-amt.de/en/visa-service/-/231148) | Federal Foreign Office | 2026-10-26 | ✅ Opened |
-| 5 | [LUH](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/internationale-erstsemesterstudierende) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 6 | [digital.diplo.de](https://digital.diplo.de/navigator/en/visa) | Federal Foreign Office (German mission) | 2026-10-26 | ✅ Opened |
+| 1 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 2 | [§ 41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
+| 3 | [§ 16b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
+| 4 | [Federal Foreign Office – Visa requirements overview](https://www.auswaertiges-amt.de/en/visa-service/-/231148) | Federal Foreign Office | 2026-11-03 | ✅ Opened |
+| 5 | [LUH](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/internationale-erstsemesterstudierende) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 6 | [digital.diplo.de](https://digital.diplo.de/navigator/en/visa) | Federal Foreign Office (German mission) | 2026-11-03 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

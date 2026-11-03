@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-10-24⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -71,11 +71,11 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Federal Foreign Office – Missions of other states in Germany](https://www.auswaertiges-amt.de/de/reiseundsicherheit/vertretungen-anderer-staaten) | Federal Foreign Office | 2026-10-26 | ✅ Opened |
-| 2 | [Your Europe – Consular protection](https://europa.eu/youreurope/citizens/travel/consular-protection/index_en.htm) | European Union | 2026-10-26 | ✅ Opened |
-| 3 | [Basic Law – Article 4](https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html#p0026) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
-| 4 | [LUH – Student associations](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/studentische-vereinigungen) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 5 | [hannover.de – Living in the Hannover region](https://www.hannover.de/Leben-in-der-Region-Hannover) | City and Region of Hannover | 2026-10-26 | ✅ Opened |
+| 1 | [Federal Foreign Office – Missions of other states in Germany](https://www.auswaertiges-amt.de/de/reiseundsicherheit/vertretungen-anderer-staaten) | Federal Foreign Office | 2026-11-03 | ✅ Opened |
+| 2 | [Your Europe – Consular protection](https://europa.eu/youreurope/citizens/travel/consular-protection/index_en.htm) | European Union | 2026-11-03 | ✅ Opened |
+| 3 | [Basic Law – Article 4](https://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html#p0026) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
+| 4 | [LUH – Student associations](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/studentische-vereinigungen) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 5 | [hannover.de – Living in the Hannover region](https://www.hannover.de/Leben-in-der-Region-Hannover) | City and Region of Hannover | 2026-11-03 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-10-26⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -72,23 +72,23 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [hannover.de – Emergency services & numbers](https://www.hannover.de/Leben-in-der-Region-Hannover/B%C3%BCrger-Service/Hilfe,-Beratung,-Notdienste/Notdienste-Notfall%C2%ADnummern) | City and Region of Hannover | 2026-10-26 | ✅ Opened |
-| 2 | [116117.de](https://www.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-10-26 | ✅ Opened |
-| 3 | [TelefonSeelsorge](https://www.telefonseelsorge.de/telefon/) | TelefonSeelsorge | 2026-10-26 | ✅ Opened |
-| 4 | [Hilfetelefon Gewalt gegen Frauen](https://www.hilfetelefon.de/en.html) | Federal Office for Family Affairs | 2026-10-26 | ✅ Opened |
-| 5 | [aponet](https://www.aponet.de/notdienstsuche) | ABDA (pharmacists) | 2026-10-26 | ✅ Opened |
-| 6 | [LUH – Emergency](https://www.uni-hannover.de/en/notfall) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 7 | [BBK – First aid and emergency call](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Gesundheit-und-Hygiene/Erste-Hilfe-und-Notruf/erste-hilfe-und-notruf_node.html) | Federal Office of Civil Protection | 2026-10-26 | ✅ Opened |
-| 8 | [BBK – NINA](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/warn-app-nina_node.html) | Federal Office of Civil Protection | 2026-10-26 | ✅ Opened |
-| 9 | [BBK – Nationwide warning day](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Bundesweiter-Warntag/bundesweiter-warntag_node.html) | Federal Office of Civil Protection | 2026-10-26 | ✅ Opened |
-| 10 | [City of Munich – Loss of residence documents](https://stadt.muenchen.de/service/info/verlust-von-aufenthalts-oder-ausweisdokumenten/10112606/) | stadt.muenchen.de — unofficial / secondary source | 2026-10-26 | ✅ Opened |
-| 11 | [City of Wiesbaden](https://www.wiesbaden.de/vv/produkte/33/Verlust-Aufenthaltstitel-Reiseausweis) | wiesbaden.de — unofficial / secondary source | 2026-10-26 | ✅ Opened |
-| 12 | [Federal Foreign Office – Missions of other states in Germany](https://www.auswaertiges-amt.de/de/reiseundsicherheit/vertretungen-anderer-staaten) | Federal Foreign Office | 2026-10-26 | ✅ Opened |
-| 13 | [WEISSER RING](https://weisser-ring.de/english) | weisser-ring.de | 2026-10-26 | ✅ Opened |
-| 14 | [Feuerwehr Hannover](https://www.feuerwehr-hannover.de/) | feuerwehr-hannover.de | 2026-10-26 | ✅ Opened |
-| 15 | [DWD – Warnings](https://www.dwd.de/DE/wetter/warnungen/warnWetter_node.html) | dwd.de | 2026-10-26 | ✅ Opened |
-| 16 | [pd-h.polizei-nds.de](https://www.pd-h.polizei-nds.de/) | Police Hannover | 2026-10-26 | ✅ Opened |
-| 17 | [hannover.de – Police directorate](https://www.hannover.de/Media/02-GIS-Objekte/Organisationsdatenbank/Redaktion-Hannover.de/A-Z/P/Polizei/Polizeidirektion-Hannover) | City and Region of Hannover | 2026-10-26 | ✅ Opened |
+| 1 | [hannover.de – Emergency services & numbers](https://www.hannover.de/Leben-in-der-Region-Hannover/B%C3%BCrger-Service/Hilfe,-Beratung,-Notdienste/Notdienste-Notfall%C2%ADnummern) | City and Region of Hannover | 2026-11-03 | ✅ Opened |
+| 2 | [116117.de](https://www.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-11-03 | ✅ Opened |
+| 3 | [TelefonSeelsorge](https://www.telefonseelsorge.de/telefon/) | TelefonSeelsorge | 2026-11-03 | ✅ Opened |
+| 4 | [Hilfetelefon Gewalt gegen Frauen](https://www.hilfetelefon.de/en.html) | Federal Office for Family Affairs | 2026-11-03 | ✅ Opened |
+| 5 | [aponet](https://www.aponet.de/notdienstsuche) | ABDA (pharmacists) | 2026-11-03 | ✅ Opened |
+| 6 | [LUH – Emergency](https://www.uni-hannover.de/en/notfall) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 7 | [BBK – First aid and emergency call](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Gesundheit-und-Hygiene/Erste-Hilfe-und-Notruf/erste-hilfe-und-notruf_node.html) | Federal Office of Civil Protection | 2026-11-03 | ✅ Opened |
+| 8 | [BBK – NINA](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/warn-app-nina_node.html) | Federal Office of Civil Protection | 2026-11-03 | ✅ Opened |
+| 9 | [BBK – Nationwide warning day](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Bundesweiter-Warntag/bundesweiter-warntag_node.html) | Federal Office of Civil Protection | 2026-11-03 | ✅ Opened |
+| 10 | [City of Munich – Loss of residence documents](https://stadt.muenchen.de/service/info/verlust-von-aufenthalts-oder-ausweisdokumenten/10112606/) | stadt.muenchen.de — unofficial / secondary source | 2026-11-03 | ✅ Opened |
+| 11 | [City of Wiesbaden](https://www.wiesbaden.de/vv/produkte/33/Verlust-Aufenthaltstitel-Reiseausweis) | wiesbaden.de — unofficial / secondary source | 2026-11-03 | ✅ Opened |
+| 12 | [Federal Foreign Office – Missions of other states in Germany](https://www.auswaertiges-amt.de/de/reiseundsicherheit/vertretungen-anderer-staaten) | Federal Foreign Office | 2026-11-03 | ✅ Opened |
+| 13 | [WEISSER RING](https://weisser-ring.de/english) | weisser-ring.de | 2026-11-03 | ✅ Opened |
+| 14 | [Feuerwehr Hannover](https://www.feuerwehr-hannover.de/) | feuerwehr-hannover.de | 2026-11-03 | ✅ Opened |
+| 15 | [DWD – Warnings](https://www.dwd.de/DE/wetter/warnungen/warnWetter_node.html) | dwd.de | 2026-11-03 | ✅ Opened |
+| 16 | [pd-h.polizei-nds.de](https://www.pd-h.polizei-nds.de/) | Police Hannover | 2026-11-03 | ✅ Opened |
+| 17 | [hannover.de – Police directorate](https://www.hannover.de/Media/02-GIS-Objekte/Organisationsdatenbank/Redaktion-Hannover.de/A-Z/P/Polizei/Polizeidirektion-Hannover) | City and Region of Hannover | 2026-11-03 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

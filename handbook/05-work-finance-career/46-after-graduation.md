@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-10-24⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -38,7 +38,7 @@ After graduation your study permit is no longer enough. This page explains the l
 4.  **With a job offer:** a qualified job offer lets you get a residence permit for skilled workers or a Blue Card. The job need not match your subject, except for the Blue Card; regulated professions need a licence ([Make it in Germany](https://www.make-it-in-germany.com/en/study-vocational-training/studying-in-germany/prospects-after)).
 5.  **EU Blue Card:** university degree, employment contract of at least six months, and an annual salary of at least 50% of the pension-insurance contribution ceiling; 45.3% for graduates within three years of their degree and shortage occupations ([§ 18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html)). 2026 amounts: **€50,700** and, for recent graduates and shortage occupations, **€45,934.20** per year ([Make it in Germany – EU Blue Card (PDF)](https://www.make-it-in-germany.com/pdf-blaue-karte-eu)).
 6.  **Permanent residence (Niederlassungserlaubnis):** for those who studied in Germany, after **two years** with a skilled-work permit or Blue Card and **24 months** of pension contributions, plus "sufficient German" and other conditions ([§ 18c AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)). Blue Card holders can qualify sooner with B1 German ([§ 18c (2) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)).
-7.  **Naturalisation:** since 2024 German citizenship is possible after 5 years of legal residence (with conditions), and multiple citizenship is generally allowed ([Federal Ministry of the Interior – Naturalisation](https://www.bmi.bund.de/EN/topics/migration/naturalisation/naturalisation-node.html)). ⚠️ Rules may change; check the current law. 🌍 Whether you may keep your original citizenship also depends on your home country's law.
+7.  **Naturalisation:** since 2024 German citizenship is possible after 5 years of legal residence (with conditions), and multiple citizenship is generally allowed ([BAMF – Naturalisation in Germany](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/Einbuergerung/einbuergerung.html)). ⚠️ Rules may change; check the current law. 🌍 Whether you may keep your original citizenship also depends on your home country's law.
 8.  **Doctorate or vocational training** are further ways to stay; each has its own residence permit ([Make it in Germany](https://www.make-it-in-germany.com/en/study-vocational-training/studying-in-germany/prospects-after)).
 9.  **Self-employment after graduation** → [44. Starting a business](44-starting-business.md)
 
@@ -63,14 +63,14 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Make it in Germany – Prospects after graduation](https://www.make-it-in-germany.com/en/study-vocational-training/studying-in-germany/prospects-after) | Federal Government – Make it in Germany | 2026-10-26 | ✅ Opened |
-| 2 | [§ 26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
-| 3 | [§ 20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
-| 4 | [§ 18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
-| 5 | [Make it in Germany – EU Blue Card (PDF)](https://www.make-it-in-germany.com/pdf-blaue-karte-eu) | Federal Government – Make it in Germany | 2026-10-26 | ✅ Opened |
-| 6 | [§ 18c (2) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
-| 7 | [Federal Ministry of the Interior – Naturalisation](https://www.bmi.bund.de/EN/topics/migration/naturalisation/naturalisation-node.html) | Federal Ministry of the Interior | 2026-10-26 | ❌ No response on access date |
-| 8 | [§ 45 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
+| 1 | [Make it in Germany – Prospects after graduation](https://www.make-it-in-germany.com/en/study-vocational-training/studying-in-germany/prospects-after) | Federal Government – Make it in Germany | 2026-11-03 | ✅ Opened |
+| 2 | [§ 26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
+| 3 | [§ 20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
+| 4 | [§ 18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
+| 5 | [Make it in Germany – EU Blue Card (PDF)](https://www.make-it-in-germany.com/pdf-blaue-karte-eu) | Federal Government – Make it in Germany | 2026-11-03 | ✅ Opened |
+| 6 | [§ 18c (2) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
+| 7 | [BAMF – Naturalisation in Germany](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/Einbuergerung/einbuergerung.html) | Federal Office for Migration and Refugees (BAMF) | 2026-11-03 | ✅ Opened (the former BMI page returned “page not found” after the BMI site redesign; replaced) |
+| 8 | [§ 45 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

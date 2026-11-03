@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-10-26⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -66,18 +66,18 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Studentenwerk Hannover – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-10-26 | ✅ Opened |
-| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 3 | [hannover.gov.de – Registering a flat](https://hannover.gov.de/buergerservice/dienstleistungen/anmeldung-einer-wohnung-zuzug-nach-hannover-900000016-0.html?myMedium=1) | City of Hannover | 2026-10-26 | ✅ Opened |
-| 4 | [PDF](https://hannover.gov.de/medien/dokumente/wohnungsgeberbestaetigung.pdf) | City of Hannover | 2026-10-26 | ✅ Opened |
-| 5 | [hannover.de – Bürgeramt Aegi](https://www.hannover.de/Leben-in-der-Region-Hannover/B%C3%BCrger-Service/B%C3%BCrger-Service-in-der-Landeshauptstadt-Hannover/B%C3%BCrger%C3%A4mter-der-Landeshauptstadt/B%C3%BCrger%C3%A4mter-in-Hannover/B%C3%BCrgeramt-Aegi-ehemals-Mitte) | City and Region of Hannover | 2026-10-26 | ✅ Opened |
+| 1 | [Studentenwerk Hannover – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-11-03 | ✅ Opened |
+| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 3 | [hannover.gov.de – Registering a flat](https://hannover.gov.de/buergerservice/dienstleistungen/anmeldung-einer-wohnung-zuzug-nach-hannover-900000016-0.html?myMedium=1) | City of Hannover | 2026-11-03 | ✅ Opened |
+| 4 | [PDF](https://hannover.gov.de/medien/dokumente/wohnungsgeberbestaetigung.pdf) | City of Hannover | 2026-11-03 | ✅ Opened |
+| 5 | [hannover.de – Bürgeramt Aegi](https://www.hannover.de/Leben-in-der-Region-Hannover/B%C3%BCrger-Service/B%C3%BCrger-Service-in-der-Landeshauptstadt-Hannover/B%C3%BCrger%C3%A4mter-der-Landeshauptstadt/B%C3%BCrger%C3%A4mter-in-Hannover/B%C3%BCrgeramt-Aegi-ehemals-Mitte) | City and Region of Hannover | 2026-11-03 | ✅ Opened |
 | 6 | [termin.hannover.gov.de/buergeramt](https://termin.hannover.gov.de/buergeramt) | City of Hannover | 2026-10-26 | ✅ Opened |
-| 7 | [LUH – Appointment request Bürgeramt](https://www.uni-hannover.de/en/formularsammlung/formularsammlung-hi/date-request-registration-with-the-city-of-hannover-buergeramt) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 8 | [hannover.gov.de – Electronic registration](https://hannover.gov.de/buergerservice/online/angebot/elektronische-wohnsitzanmeldung-1131-30810.html) | City of Hannover | 2026-10-26 | ✅ Opened |
-| 9 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 10 | [§ 19 BMG](https://www.gesetze-im-internet.de/bmg/__19.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
-| 11 | [§ 54 BMG](https://www.gesetze-im-internet.de/bmg/__54.html) | Federal Ministry of Justice (law text) | 2026-10-26 | ✅ Opened |
-| 12 | [hannover.gov.de – Meldebescheinigung](https://hannover.gov.de/buergerservice/dienstleistungen/meldebescheinigung-900000026-0.html?myMedium=1) | City of Hannover | 2026-10-26 | ✅ Opened |
+| 7 | [LUH – Appointment request Bürgeramt](https://www.uni-hannover.de/en/formularsammlung/formularsammlung-hi/date-request-registration-with-the-city-of-hannover-buergeramt) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 8 | [hannover.gov.de – Electronic registration](https://hannover.gov.de/buergerservice/online/angebot/elektronische-wohnsitzanmeldung-1131-30810.html) | City of Hannover | 2026-11-03 | ✅ Opened |
+| 9 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 10 | [§ 19 BMG](https://www.gesetze-im-internet.de/bmg/__19.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
+| 11 | [§ 54 BMG](https://www.gesetze-im-internet.de/bmg/__54.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
+| 12 | [hannover.gov.de – Meldebescheinigung](https://hannover.gov.de/buergerservice/dienstleistungen/meldebescheinigung-900000026-0.html?myMedium=1) | City of Hannover | 2026-11-03 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

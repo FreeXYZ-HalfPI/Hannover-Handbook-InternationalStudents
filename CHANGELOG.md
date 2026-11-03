@@ -5,6 +5,13 @@ To stay informed: check this page, click **Watch** on GitHub (or Watch → Custo
 > [!CAUTION]
 > This handbook is guidance based on students' experience and may be out of date. ISL accepts no responsibility for its currency.
 
+## 2026-11-03 — Link re-check and status update
+
+- **All external links re-checked** (331 unique addresses). Pages with confirmed links now carry the access date 2026-11-03.
+- **Replaced a dead link:** the Federal Ministry of the Interior naturalisation page (page 46) returned "page not found" after the BMI site redesign. It now points to the BAMF page [Naturalisation in Germany](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/Einbuergerung/einbuergerung.html).
+- **Status changed from "blocks automated checks" to opened** after manual browser checks: Goethe-Institut practice page (page 35), 116117 appointment service (page 29), MHH psychotherapy counselling (page 29), KZVN dentist search (page 33).
+- **Still open:** TestDaF returned HTTP 503 on the check date; ESN section finder shows a Cloudflare challenge in automated browsers; LinkedIn requires a login.
+
 ## 2026-10-29
 
 - **Feedback buttons on every page:** the box at the top of each page now has one-click links to report an error, suggest an idea, share an experience or edit the page; each opens a GitHub issue with the page's path in the title. New "Idea or feedback" issue template, and a "tell us" link at the bottom of the Handbook Searcher.

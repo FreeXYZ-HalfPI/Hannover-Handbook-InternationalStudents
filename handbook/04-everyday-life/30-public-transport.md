@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-10-26⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -62,13 +62,13 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-10-26 | ✅ Opened |
-| 2 | [AStA – Semester ticket hardship fund rules (PDF)](https://staff.asta-hannover.de/beta/assets/SemTicketAusfall_Ordnung.pdf) | AStA Hannover | 2026-10-26 | ✅ Opened |
-| 3 | [AStA – Semester ticket (English)](https://www.asta-hannover.de/en/translate-to-english-semesterticket) | AStA Hannover | 2026-10-26 | ✅ Opened |
-| 4 | [AStA – Hardship fund portal](https://staff.asta-hannover.de/) | AStA Hannover | 2026-10-26 | ✅ Opened |
-| 5 | [uestra.de](https://www.uestra.de/) | ÜSTRA / GVH | 2026-10-26 | ✅ Opened |
-| 6 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-10-26 | ✅ Opened |
-| 7 | [AStA – Bike workshop](https://www.asta-hannover.de/angebote-beratung/fahrradwerkstaette) | AStA Hannover | 2026-10-26 | ✅ Opened |
+| 1 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-11-03 | ✅ Opened |
+| 2 | [AStA – Semester ticket hardship fund rules (PDF)](https://staff.asta-hannover.de/beta/assets/SemTicketAusfall_Ordnung.pdf) | AStA Hannover | 2026-11-03 | ✅ Opened |
+| 3 | [AStA – Semester ticket (English)](https://www.asta-hannover.de/en/translate-to-english-semesterticket) | AStA Hannover | 2026-11-03 | ✅ Opened |
+| 4 | [AStA – Hardship fund portal](https://staff.asta-hannover.de/) | AStA Hannover | 2026-11-03 | ✅ Opened |
+| 5 | [uestra.de](https://www.uestra.de/) | ÜSTRA / GVH | 2026-11-03 | ✅ Opened |
+| 6 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 7 | [AStA – Bike workshop](https://www.asta-hannover.de/angebote-beratung/fahrradwerkstaette) | AStA Hannover | 2026-11-03 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 
