@@ -4,7 +4,7 @@
 
 🌐 **Read online:** [freexyz-halfpi.github.io/Hannover-Handbook-InternationalStudents](https://freexyz-halfpi.github.io/Hannover-Handbook-InternationalStudents/)
 
-📥 **Download the PDF:** [Hannover-Handbook-International-Students.pdf](pdf/Hannover-Handbook-International-Students.pdf)
+📥 **Download the PDF:** [Hannover-Handbook-International-Students.pdf](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/raw/main/pdf/Hannover-Handbook-International-Students.pdf)
 
 A practical, step-by-step handbook in English for **international students from every country** at Leibniz University Hannover (LUH): from applying while still at home, to arriving in Hannover, studying, working, and staying after graduation. Open to everyone's contributions.
 
@@ -14,7 +14,7 @@ A practical, step-by-step handbook in English for **international students from 
 
 🏷️ **Latest release (PDF):** [v1.0.0](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/releases/latest)
 
-📄 **PDF:** [pdf/Hannover-Handbook-International-Students.pdf](pdf/Hannover-Handbook-International-Students.pdf)
+📄 **PDF:** [pdf/Hannover-Handbook-International-Students.pdf](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/raw/main/pdf/Hannover-Handbook-International-Students.pdf)
 
 🔎 **Search both handbooks:** [search/index.html](search/index.html) (download the repository and open it in your browser) or `python3 tools/search.py your words`
 

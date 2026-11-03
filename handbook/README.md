@@ -18,6 +18,8 @@
 > [!TIP]
 > **A step-by-step guide for international students of Leibniz University Hannover (LUH) — from every country.** · Whole handbook last reviewed: 2026-10-26
 
+> 📥 **[Download the whole handbook as one PDF](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/raw/main/pdf/Hannover-Handbook-International-Students.pdf)** — it downloads straight away.
+
 ## What is this handbook?
 
 A practical, step-by-step guide for international students at Leibniz University Hannover (LUH): from applying while still at home, to arriving in Hannover, studying, working and staying after graduation. Each topic has its own page, and every page answers the same questions: What do I need to do? Where do I start? Which documents do I need and what does it cost? Which office is responsible? Where can I find official, up-to-date information?
