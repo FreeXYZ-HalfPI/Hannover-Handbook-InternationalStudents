@@ -19,7 +19,7 @@
 > This page is general information, not legal advice. Passport and legalisation rules are set by your own country and by the German mission there, and can change without notice.
 
 > [!TIP]
-> **Last reviewed:** 2026-10-26 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 

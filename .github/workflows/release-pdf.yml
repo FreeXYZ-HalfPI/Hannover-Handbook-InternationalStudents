@@ -1,0 +1,35 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyleft 🄯 2026 ISL and contributors
+# When a release is published, build the PDF from that release's text and attach
+# it to the release, so every version has a matching PDF.
+name: Release PDF
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install pandoc and the Vazirmatn font
+        run: |
+          curl -sSL -o pandoc.deb https://github.com/jgm/pandoc/releases/download/3.7.0.2/pandoc-3.7.0.2-1-amd64.deb
+          sudo apt-get update -q
+          sudo apt-get install -y -q ./pandoc.deb fonts-vazirmatn
+      - name: Build the PDF
+        run: python3 tools/build_pdf.py Hannover-Handbook-International-Students.pdf
+      - name: Attach the PDF to the release
+        if: github.event_name == 'release'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release upload "${{ github.event.release.tag_name }}" Hannover-Handbook-International-Students.pdf --clobber
+      - uses: actions/upload-artifact@v4
+        with:
+          name: handbook-pdf
+          path: Hannover-Handbook-International-Students.pdf

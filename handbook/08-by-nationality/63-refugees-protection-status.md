@@ -19,7 +19,7 @@
 > This page is general information, not legal advice. Your rights depend on your exact status. Before changing anything (e.g. switching to a student permit), get independent legal advice.
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 8 — Information by Nationality](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 8 — Information by Nationality](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -34,8 +34,8 @@ People who came to Germany seeking protection can study at LUH. This page explai
 ## 3. Steps
 
 1.  **Advice at LUH:** the International Office has a dedicated contact for prospective students with a refugee background ([LUH – Information for refugees](https://www.uni-hannover.de/en/studium/beratung-hilfe/gefluechtete)). Hannover's universities and Studentenwerk also set up support for students affected by the war in Ukraine ([hannover.de – Support for Ukrainian students and researchers](https://www.hannover.de/Fl%C3%BCchtlinge-in-Stadt-und-Region-Hannover/Meldungsarchiv/Unterst%C3%BCtzung-f%C3%BCr-ukrainische-Studierende-und-Forschende)).
-2.  **Admission:** you generally apply like other international applicants, usually via uni-assist. If you cannot fully document your previous education because of flight, there are special procedures (plausibility check, assessment tests) ([Study in Germany (DAAD) – Information for refugees](https://www.study-in-germany.de/information-for-refugees)). ⚠️ Ask the LUH contact before applying.
-3.  **Language and preparation:** German courses and preparatory programmes are offered at the LLC and the Studienkolleg; the DAAD funds university preparation programmes for refugees (e.g. "Integra") ([Niedersächsisches Studienkolleg](https://www.stk.uni-hannover.de/); [Study in Germany (DAAD) – Information for refugees](https://www.study-in-germany.de/information-for-refugees)). → [35. Learning German](../04-everyday-life/35-learning-german.md)
+2.  **Admission:** you generally apply like other international applicants, usually via uni-assist. If you cannot fully document your previous education because of flight, there are special procedures (plausibility check, assessment tests) ([Study in Germany (DAAD) – Information for refugees](https://www.study-in-germany.com/en/plan-your-studies/special-circumstances/refugees/)). ⚠️ Ask the LUH contact before applying.
+3.  **Language and preparation:** German courses and preparatory programmes are offered at the LLC and the Studienkolleg; the DAAD funds university preparation programmes for refugees (e.g. "Integra") ([Niedersächsisches Studienkolleg](https://www.stk.uni-hannover.de/); [Study in Germany (DAAD) – Information for refugees](https://www.study-in-germany.com/en/plan-your-studies/special-circumstances/refugees/)). → [35. Learning German](../04-everyday-life/35-learning-german.md)
 4.  **Funding:** recognised refugees and people with certain protection statuses can receive **BAföG**; others may receive benefits under other laws ([§ 8 BAföG – eligible foreign nationals](https://www.gesetze-im-internet.de/baf_g/__8.html)). ⚠️ Studying can affect social benefits — get advice from Studentenwerk's social counselling first. → [43. Scholarships](../05-work-finance-career/43-scholarships.md)
 5.  **Temporary protection (Ukraine):** residence permits under § 24 AufenthG have been extended automatically until **4 March 2027** following the EU's decision ([asyl.net – Extension of Ukraine residence permits](https://www.asyl.net/view/verlaengerung-der-ukraine-aufenthaltserlaubnis-fortgeltungsverordnung)). With this permit you may study and work. Switching to a student permit is possible in some cases but has consequences (e.g. for benefits and work limits) ⚠️ ([Germany4Ukraine – Help portal](https://www.germany4ukraine.de/hilfeportal-en)).
 6.  **Work:** recognised refugees and people with § 24 protection generally may work without the 140-day limit; asylum seekers and people with a Duldung need permission from the Ausländerbehörde. ⚠️ → [40. Student jobs](../05-work-finance-career/40-student-jobs.md)
@@ -48,7 +48,7 @@ People who came to Germany seeking protection can study at LUH. This page explai
 | Item | Required / possible | Notes | Source |
 |----|----|----|----|
 | Residence document (Aufenthaltsgestattung, permit or Duldung) | Required | For enrolment | [LUH](https://www.uni-hannover.de/en/studium/beratung-hilfe/gefluechtete) |
-| Proof of previous education | Required | Special procedures if documents are missing | [Study in Germany](https://www.study-in-germany.de/information-for-refugees) |
+| Proof of previous education | Required | Special procedures if documents are missing | [Study in Germany](https://www.study-in-germany.com/en/plan-your-studies/special-circumstances/refugees/) |
 | Language certificate | Required | Depends on programme | [LUH](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/voraussetzungen-zum-studium/sprachnachweise) |
 | Semester fee | Required | Same as all students; hardship options may apply | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) |
 
@@ -66,7 +66,7 @@ Every link on this page was checked on the access date; the result is in the las
 |----|----|----|----|----|
 | 1 | [LUH – Information for refugees](https://www.uni-hannover.de/en/studium/beratung-hilfe/gefluechtete) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
 | 2 | [hannover.de – Support for Ukrainian students and researchers](https://www.hannover.de/Fl%C3%BCchtlinge-in-Stadt-und-Region-Hannover/Meldungsarchiv/Unterst%C3%BCtzung-f%C3%BCr-ukrainische-Studierende-und-Forschende) | City and Region of Hannover | 2026-11-03 | ✅ Opened |
-| 3 | [Study in Germany (DAAD) – Information for refugees](https://www.study-in-germany.de/information-for-refugees) | DAAD | 2026-10-26 | ✅ Opened |
+| 3 | [Study in Germany (DAAD) – Information for refugees](https://www.study-in-germany.com/en/plan-your-studies/special-circumstances/refugees/) | DAAD | 2026-11-03 | ✅ Opened |
 | 4 | [Niedersächsisches Studienkolleg](https://www.stk.uni-hannover.de/) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
 | 5 | [§ 8 BAföG – eligible foreign nationals](https://www.gesetze-im-internet.de/baf_g/__8.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
 | 6 | [asyl.net – Extension of Ukraine residence permits](https://www.asyl.net/view/verlaengerung-der-ukraine-aufenthaltserlaubnis-fortgeltungsverordnung) | asyl.net — unofficial / secondary source | 2026-11-03 | ✅ Opened |

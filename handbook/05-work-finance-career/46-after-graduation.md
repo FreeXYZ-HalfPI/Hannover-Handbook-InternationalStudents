@@ -19,7 +19,7 @@
 > This page is general information, not legal advice. The right residence permit depends on your personal situation; talk to the Ausländerbehörde before acting.
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 5 — Work, Finance & Career](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 5 — Work, Finance & Career](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 

@@ -19,7 +19,7 @@
 > This page is general information, not legal advice. Check your status with the Federal Foreign Office or the Ausländerbehörde before you travel.
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 8 — Information by Nationality](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 8 — Information by Nationality](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 

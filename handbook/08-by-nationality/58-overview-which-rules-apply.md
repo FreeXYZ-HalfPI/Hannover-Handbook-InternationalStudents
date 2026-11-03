@@ -19,7 +19,7 @@
 > This page is general information, not legal advice. If you have more than one citizenship, the most favourable one usually determines your rules — ask the Ausländerbehörde if unsure.
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 8 — Information by Nationality](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 8 — Information by Nationality](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 

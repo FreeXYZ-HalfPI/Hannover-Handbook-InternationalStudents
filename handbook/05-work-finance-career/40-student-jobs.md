@@ -19,7 +19,7 @@
 > This page is general information, not legal or tax advice. Work rules for non-EU students depend on your residence permit; check with the Ausländerbehörde before starting a job.
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 5 — Work, Finance & Career](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 5 — Work, Finance & Career](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 

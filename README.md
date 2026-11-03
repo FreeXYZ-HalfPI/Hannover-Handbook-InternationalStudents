@@ -50,6 +50,7 @@ Everyone can help: correct a figure or deadline, report a broken link, add a per
 | `handbook/` | The handbook: one Markdown file per topic, one folder per section |
 | `pdf/` | The printable PDF, built from `handbook/` |
 | `tools/check_links.sh` | Checks every external link in `handbook/` and writes `link-report.tsv` |
+| `tools/refresh.py` | Re-checks all links, sets the access and review dates of sources that answer 200, refreshes the page boxes; `--build` also rebuilds the search index and PDF |
 | `tools/build_sources.py` | Regenerates each page's sources table (section 6) from its links and `link-report.tsv` |
 | `tools/build_pdf.py` | Builds the PDF (needs pandoc ≥ 3.1 and Chrome/Chromium) |
 | `search/index.html` | **Handbook Searcher** — searches both handbooks (English and Persian) in your browser, offline; open the file or serve the folder |
@@ -59,6 +60,7 @@ Everyone can help: correct a figure or deadline, report a broken link, add a per
 | `TEMPLATE.md` | Template for new pages |
 
 ```bash
+python3 tools/refresh.py          # links, dates and page boxes in one go
 bash tools/check_links.sh
 python3 tools/build_sources.py
 python3 tools/build_search.py

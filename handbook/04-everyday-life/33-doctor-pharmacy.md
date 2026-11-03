@@ -21,7 +21,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-10-26 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -86,7 +86,7 @@ Every link on this page was checked on the access date; the result is in the las
 | 2 | [aponet – On-duty pharmacy search](https://www.aponet.de/notdienstsuche) | ABDA (pharmacists) | 2026-11-03 | ✅ Opened |
 | 3 | [Federal Ministry of Health – Co-payment rules (PDF)](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/A/Arzneimittelversorgung/Zuzahlungsregelungen_GKV.pdf) | Federal Ministry of Health | 2026-11-03 | ✅ Opened |
 | 4 | [BfArM – Travelling with narcotic drugs](https://www.bfarm.de/EN/Federal-Opium-Agency/Narcotic-drugs/Travelling-with-narcotic-drugs/_node.html) | Federal Institute for Drugs and Medical Devices | 2026-11-03 | ✅ Opened |
-| 5 | [G-BA – Decision on the AU guideline 2015 (PDF)](https://www.g-ba.de/downloads/40-268-3628/2015-12-17_AU-RL_AU-Bescheinigung_Nahtlosigkeit_TrG.pdf) | g-ba.de | 2026-11-03 | ✅ Opened |
+| 5 | [G-BA – Decision on the AU guideline 2015 (PDF)](https://www.g-ba.de/downloads/40-268-3628/2026-11-03_AU-RL_AU-Bescheinigung_Nahtlosigkeit_TrG.pdf) | g-ba.de | 2026-11-03 | ✅ Opened |
 | 6 | [arztsuche.116117.de](https://arztsuche.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-11-03 | ✅ Opened |
 | 7 | [KZVN – Dentist search](https://www.kzvn.de/patienten/zahnarztsuche/) | kzvn.de | 2026-11-03 | ✅ Opened (browser) |
 | 8 | [Verbraucherzentrale – Which dental check-ups does insurance pay?](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/welche-zahnvorsorge-zahlt-die-krankenkasse-12913) | Verbraucherzentrale | 2026-11-03 | ✅ Opened |

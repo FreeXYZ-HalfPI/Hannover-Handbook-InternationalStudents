@@ -19,7 +19,7 @@
 > This page is general information, not legal advice. Residence rules change; always check with the foreigners' authority (Ausländerbehörde) before acting.
 
 > [!TIP]
-> **Last reviewed:** 2026-10-26 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 

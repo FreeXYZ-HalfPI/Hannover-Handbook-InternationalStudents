@@ -24,7 +24,7 @@
 > **In an emergency** (danger to life or suicidal thoughts) call **112** immediately. The crisis telephone line (TelefonSeelsorge) is free and available 24/7: **0800 111 0 111**, **0800 111 0 222** or **116 123** ([TelefonSeelsorge](https://www.telefonseelsorge.de/telefon/)). → [37. Emergency numbers](../04-everyday-life/37-emergency.md)
 
 > [!TIP]
-> **Last reviewed:** 2026-10-26 · **Section:** [Section 3 — University Services](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 3 — University Services](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 

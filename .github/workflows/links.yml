@@ -1,0 +1,54 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyleft 🄯 2026 ISL and contributors
+# Every Monday: check all external links with tools/check_links.sh.
+# Links that do not answer 200 are listed in one open issue (label "links"),
+# which is updated each week and closed when every link works again.
+name: Link check
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        run: bash tools/check_links.sh
+      - uses: actions/upload-artifact@v4
+        with:
+          name: link-report
+          path: link-report.tsv
+      - name: Open, update or close the link issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="🔗 Broken or blocked links — weekly link check"
+          issue=$(gh issue list --label links --state open --json number --jq '.[0].number // empty')
+          bad=$(awk -F'\t' '$1 != "200"' link-report.tsv)
+          if [ -z "$bad" ]; then
+            [ -n "$issue" ] && gh issue close "$issue" --comment "All $(wc -l < link-report.tsv) links answered 200 on $(date -I). ✅"
+            exit 0
+          fi
+          {
+            echo "Link check of $(date -I): $(echo "$bad" | wc -l) of $(wc -l < link-report.tsv) links did not answer 200."
+            echo
+            echo "Some sites (403, 999) block automated requests from GitHub's servers; open those in a browser before changing anything."
+            echo "Status 000 = no connection. Full report: the \`link-report\` artifact of [this run](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})."
+            echo
+            echo "| Status | Link | Pages |"
+            echo "|---|---|---|"
+            echo "$bad" | awk -F'\t' '{ printf "| %s | %s | %s |\n", $1, $3, $4 }'
+          } > body.md
+          gh label create links --color c5def5 --description "Broken or outdated links" --force
+          if [ -n "$issue" ]; then
+            gh issue edit "$issue" --body-file body.md
+          else
+            gh issue create --title "$title" --label links --body-file body.md
+          fi

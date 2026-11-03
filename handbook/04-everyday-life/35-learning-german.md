@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-10-26 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -72,7 +72,7 @@ Every link on this page was checked on the access date; the result is in the las
 | 8 | [DW – Learn German](https://learngerman.dw.com/en/overview) | learngerman.dw.com | 2026-11-03 | ✅ Opened |
 | 9 | [Goethe-Institut – Practise German](https://www.goethe.de/en/spr/ueb.html) | goethe.de | 2026-11-03 | ✅ Opened (browser) |
 | 10 | [Federal Employment Agency – Free online German courses (PDF)](https://www.arbeitsagentur.de/vor-ort/datei/linksammlung-online-sprachlernangebote-deutsch_ba232254.pdf) | Federal Employment Agency | 2026-11-03 | ✅ Opened |
-| 11 | [TestDaF](https://www.testdaf.de/en/) | testdaf.de | 2026-11-03 | ⚠️ Server error (HTTP 503) on the check date; re-check later |
+| 11 | [TestDaF](https://www.testdaf.de/en/) | testdaf.de | 2026-11-03 | ⚠️ Server error (HTTP 500 or 503) on the check date; re-check later |
 | 12 | [LLC](https://www.llc.uni-hannover.de/en/leibniz-language-centre/guidelines-for-courses-and-fee-regulation) | Leibniz Language Centre | 2026-11-03 | ✅ Opened |
 | 13 | [vhs-hannover.de](https://www.vhs-hannover.de/) | Volkshochschule Hannover | 2026-11-03 | ✅ Opened |
 | 14 | [LLC – Contact](https://www.llc.uni-hannover.de/en/leibniz-language-centre/contactdirectionsoffice-hours) | Leibniz Language Centre | 2026-11-03 | ✅ Opened |

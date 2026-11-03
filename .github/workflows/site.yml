@@ -1,0 +1,63 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyleft 🄯 2026 ISL and contributors
+# Builds the website from handbook/ (mkdocs.yml) and publishes it on GitHub Pages:
+# https://freexyz-halfpi.github.io/Hannover-Handbook-InternationalStudents/
+# Pull requests are only built (with --strict, so broken internal links fail the check).
+name: Website
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Both handbooks side by side, so the Handbook Searcher covers both.
+      - uses: actions/checkout@v4
+        with:
+          path: Hannover-Handbook-InternationalStudents
+      - uses: actions/checkout@v4
+        with:
+          repository: FreeXYZ-HalfPI/Hannover-Handbook-ISL
+          path: Hannover-Handbook-ISL
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: Hannover-Handbook-InternationalStudents/requirements-site.txt
+      - name: Install MkDocs
+        working-directory: Hannover-Handbook-InternationalStudents
+        run: pip install -r requirements-site.txt
+      - name: Rebuild the search index from both handbooks
+        working-directory: Hannover-Handbook-InternationalStudents
+        run: python3 tools/build_search.py
+      - name: Build the website
+        working-directory: Hannover-Handbook-InternationalStudents
+        run: mkdocs build --strict
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        with:
+          path: Hannover-Handbook-InternationalStudents/site
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

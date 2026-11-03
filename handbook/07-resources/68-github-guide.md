@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-10-26 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -108,8 +108,8 @@ Every link on this page was checked on the access date; the result is in the las
 |----|----|----|----|----|
 | 1 | [github.com/signup](https://github.com/signup) | github.com | 2026-10-26 | ⚠️ Blocks automated checks — open in a browser |
 | 2 | [GitHub Docs – Creating an account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) | docs.github.com | 2026-11-03 | ✅ Opened |
-| 3 | [Issues tab of the repository](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/issues) | github.com | 2026-10-26 | ✅ Opened |
-| 4 | [choose a template](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/issues/new/choose) | github.com | 2026-10-26 | ✅ Opened |
+| 3 | [Issues tab of the repository](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/issues) | github.com | 2026-11-03 | ✅ Opened |
+| 4 | [choose a template](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/issues/new/choose) | github.com | 2026-11-03 | ✅ Opened |
 | 5 | [GitHub Docs – Creating an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue) | docs.github.com | 2026-11-03 | ✅ Opened |
 | 6 | [GitHub Docs – Editing files](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files) | docs.github.com | 2026-11-03 | ✅ Opened |
 

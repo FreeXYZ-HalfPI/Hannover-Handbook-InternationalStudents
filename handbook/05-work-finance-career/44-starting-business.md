@@ -19,7 +19,7 @@
 > 🌍 For non-EU students, starting a business or becoming self-employed may require a change or review of your residence permit; talk to the Ausländerbehörde first.
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 5 — Work, Finance & Career](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 5 — Work, Finance & Career](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 

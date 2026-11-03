@@ -19,7 +19,7 @@
 > This page is general information, not legal or financial advice. Sanctions change frequently. Never try to get around sanctions or anti-money-laundering checks — it can lead to criminal charges and loss of your residence permit.
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 8 — Information by Nationality](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 8 — Information by Nationality](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 

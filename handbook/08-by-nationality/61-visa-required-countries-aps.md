@@ -19,7 +19,7 @@
 > This page is general information, not legal advice. Visa procedures differ between German missions and change often; your mission's website is always authoritative.
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 8 — Information by Nationality](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 8 — Information by Nationality](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 

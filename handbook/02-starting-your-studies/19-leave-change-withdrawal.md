@@ -19,7 +19,7 @@
 > 🌍 For non-EU students, a leave of absence, a change of programme or withdrawal can affect your residence permit. Talk to the Ausländerbehörde and the International Office before acting. This page is not legal advice.
 
 > [!TIP]
-> **Last reviewed:** 2026-10-24 · **Section:** [Section 2 — Starting Your Studies](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-03 · **Section:** [Section 2 — Starting Your Studies](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
