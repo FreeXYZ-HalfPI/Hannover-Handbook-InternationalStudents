@@ -11,6 +11,10 @@ To stay informed: check this page, click **Watch** on GitHub (or Watch → Custo
 - **Replaced a dead link:** the Federal Ministry of the Interior naturalisation page (page 46) returned "page not found" after the BMI site redesign. It now points to the BAMF page [Naturalisation in Germany](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/Einbuergerung/einbuergerung.html).
 - **Status changed from "blocks automated checks" to opened** after manual browser checks: Goethe-Institut practice page (page 35), 116117 appointment service (page 29), MHH psychotherapy counselling (page 29), KZVN dentist search (page 33).
 - **Still open:** TestDaF returned HTTP 503 on the check date; ESN section finder shows a Cloudflare challenge in automated browsers; LinkedIn requires a login.
+- **Website and automation:** the handbook is published at [freexyz-halfpi.github.io/Hannover-Handbook-InternationalStudents](https://freexyz-halfpi.github.io/Hannover-Handbook-InternationalStudents/) with a strict build check, a weekly link check, and a release-PDF job, all as in the ISL repository.
+- **`tools/refresh.py`:** one command re-checks the links, updates access and review dates, refreshes the page boxes and, with `--build`, rebuilds the search index and PDF.
+- **Refugee information (page 63)** now links to the canonical Study in Germany page.
+
 
 ## 2026-10-29
 
