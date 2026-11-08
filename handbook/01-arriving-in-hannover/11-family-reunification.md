@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -19,7 +19,7 @@
 > This page is general information, not legal advice. Whether your family can join you depends on your residence status and nationality; check with the German mission or the Ausländerbehörde before acting.
 
 > [!TIP]
-> **Last reviewed:** 2026-11-03 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-08 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -68,18 +68,18 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Make it in Germany – Family reunification](https://www.make-it-in-germany.com/en/visa-residence/family-reunification) | Federal Government – Make it in Germany | 2026-11-03 | ✅ Opened |
-| 2 | [Make it in Germany – Spouses joining non-EU citizens](https://www.make-it-in-germany.com/en/visa-recognition/family-reunification/spouses-joining-non-eu-citizens) | Federal Government – Make it in Germany | 2026-11-03 | ✅ Opened |
-| 3 | [§ 30 (1) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__30.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
-| 4 | [Make it in Germany – Family reunification](https://www.make-it-in-germany.com/en/visa-recognition/family-reunification) | Federal Government – Make it in Germany | 2026-11-03 | ✅ Opened |
-| 5 | [Federal Foreign Office – German missions abroad](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/deutsche-auslandsvertretungen/03-webseitenav) | Federal Foreign Office | 2026-11-03 | ✅ Opened |
-| 6 | [Make it in Germany – Childcare](https://www.make-it-in-germany.com/en/living-in-germany/family-reunification/child-care) | Federal Government – Make it in Germany | 2026-11-03 | ✅ Opened |
-| 7 | [Make it in Germany – School system](https://www.make-it-in-germany.com/en/living-in-germany/family-reunification/school-system) | Federal Government – Make it in Germany | 2026-11-03 | ✅ Opened |
-| 8 | [Federal Employment Agency – Child benefit](https://www.arbeitsagentur.de/en/familie-und-kinder/kindergeld) | Federal Employment Agency | 2026-11-03 | ✅ Opened |
-| 9 | [LUH – Studying with a child](https://www.chancenvielfalt.uni-hannover.de/familienservice/studieren-mit-kind) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 10 | [City of Hannover – Verpflichtungserklärung](https://hannover.gov.de/buergerservice/dienstleistungen/verpflichtungserklaerung-abgeben-1322-0.html?myMedium=1) | City of Hannover | 2026-11-03 | ✅ Opened |
-| 11 | [German Embassy San José – Student visa information (PDF)](https://san-jose.diplo.de/resource/blob/1540562/fddac503242f24102b78bf7523dd7aba/merkblatt-studium-data.pdf) | Federal Foreign Office (German mission) | 2026-11-03 | ✅ Opened |
-| 12 | [chancenvielfalt.uni-hannover.de](https://www.chancenvielfalt.uni-hannover.de/) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 1 | [Make it in Germany – Family reunification](https://www.make-it-in-germany.com/en/visa-residence/family-reunification) | Federal Government – Make it in Germany | 2026-11-08 | ✅ Opened |
+| 2 | [Make it in Germany – Spouses joining non-EU citizens](https://www.make-it-in-germany.com/en/visa-recognition/family-reunification/spouses-joining-non-eu-citizens) | Federal Government – Make it in Germany | 2026-11-08 | ✅ Opened |
+| 3 | [§ 30 (1) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__30.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
+| 4 | [Make it in Germany – Family reunification](https://www.make-it-in-germany.com/en/visa-recognition/family-reunification) | Federal Government – Make it in Germany | 2026-11-08 | ✅ Opened |
+| 5 | [Federal Foreign Office – German missions abroad](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/deutsche-auslandsvertretungen/03-webseitenav) | Federal Foreign Office | 2026-11-08 | ✅ Opened |
+| 6 | [Make it in Germany – Childcare](https://www.make-it-in-germany.com/en/living-in-germany/family-reunification/child-care) | Federal Government – Make it in Germany | 2026-11-08 | ✅ Opened |
+| 7 | [Make it in Germany – School system](https://www.make-it-in-germany.com/en/living-in-germany/family-reunification/school-system) | Federal Government – Make it in Germany | 2026-11-08 | ✅ Opened |
+| 8 | [Federal Employment Agency – Child benefit](https://www.arbeitsagentur.de/en/familie-und-kinder/kindergeld) | Federal Employment Agency | 2026-11-08 | ✅ Opened |
+| 9 | [LUH – Studying with a child](https://www.chancenvielfalt.uni-hannover.de/familienservice/studieren-mit-kind) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 10 | [City of Hannover – Verpflichtungserklärung](https://hannover.gov.de/buergerservice/dienstleistungen/verpflichtungserklaerung-abgeben-1322-0.html?myMedium=1) | City of Hannover | 2026-11-08 | ✅ Opened |
+| 11 | [German Embassy San José – Student visa information (PDF)](https://san-jose.diplo.de/resource/blob/1540562/fddac503242f24102b78bf7523dd7aba/merkblatt-studium-data.pdf) | Federal Foreign Office (German mission) | 2026-11-08 | ✅ Opened |
+| 12 | [chancenvielfalt.uni-hannover.de](https://www.chancenvielfalt.uni-hannover.de/) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

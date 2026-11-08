@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -19,7 +19,7 @@
 > This page is general information, not legal advice. Visa procedures differ between German missions and change often; your mission's website is always authoritative.
 
 > [!TIP]
-> **Last reviewed:** 2026-11-03 · **Section:** [Section 8 — Information by Nationality](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-08 · **Section:** [Section 8 — Information by Nationality](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -80,19 +80,19 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Federal Foreign Office – Visa requirements](https://www.auswaertiges-amt.de/en/visa-service/-/231148) | Federal Foreign Office | 2026-11-03 | ✅ Opened |
-| 2 | [Federal Foreign Office – German missions abroad](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/deutsche-auslandsvertretungen/03-webseitenav) | Federal Foreign Office | 2026-11-03 | ✅ Opened |
-| 3 | [Consular Services Portal](https://digital.diplo.de/visa) | Federal Foreign Office (German mission) | 2026-11-03 | ✅ Opened |
-| 4 | [German Embassy San José – Student visa information (PDF)](https://san-jose.diplo.de/resource/blob/1540562/fddac503242f24102b78bf7523dd7aba/merkblatt-studium-data.pdf) | Federal Foreign Office (German mission) | 2026-11-03 | ✅ Opened |
-| 5 | [TUM – APS overview](https://www.tum.de/studium/bewerbung/infoportal-bewerbung/aps) | tum.de | 2026-11-03 | ✅ Opened |
-| 6 | [University of Saarland – APS](https://www.uni-saarland.de/studieren/international/infos/aps.html) | uni-saarland.de | 2026-11-03 | ✅ Opened |
-| 7 | [aps.org.cn](https://www.aps.org.cn/) | APS China (German Embassy / DAAD) | 2026-11-03 | ✅ Opened |
-| 8 | [aps-india.de](https://aps-india.de/) | APS India (German Embassy / DAAD) | 2026-11-03 | ✅ Opened |
-| 9 | [vietnam.diplo.de](https://vietnam.diplo.de/) | Federal Foreign Office (German mission) | 2026-11-03 | ✅ Opened |
-| 10 | [anabin](https://anabin.kmk.org/) | KMK | 2026-11-03 | ✅ Opened |
-| 11 | [uni-assist – Country information](https://www.uni-assist.de/en/tools/info-country-by-country/) | uni-assist | 2026-11-03 | ✅ Opened |
-| 12 | [German missions in Italy](https://italien.diplo.de/it-de/service/visa-aktuell/2586756-2586756) | Federal Foreign Office (German mission) | 2026-11-03 | ✅ Opened |
-| 13 | [LUH](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 1 | [Federal Foreign Office – Visa requirements](https://www.auswaertiges-amt.de/en/visa-service/-/231148) | Federal Foreign Office | 2026-11-08 | ✅ Opened |
+| 2 | [Federal Foreign Office – German missions abroad](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/deutsche-auslandsvertretungen/03-webseitenav) | Federal Foreign Office | 2026-11-08 | ✅ Opened |
+| 3 | [Consular Services Portal](https://digital.diplo.de/visa) | Federal Foreign Office (German mission) | 2026-11-08 | ✅ Opened |
+| 4 | [German Embassy San José – Student visa information (PDF)](https://san-jose.diplo.de/resource/blob/1540562/fddac503242f24102b78bf7523dd7aba/merkblatt-studium-data.pdf) | Federal Foreign Office (German mission) | 2026-11-08 | ✅ Opened |
+| 5 | [TUM – APS overview](https://www.tum.de/studium/bewerbung/infoportal-bewerbung/aps) | tum.de | 2026-11-08 | ✅ Opened |
+| 6 | [University of Saarland – APS](https://www.uni-saarland.de/studieren/international/infos/aps.html) | uni-saarland.de | 2026-11-08 | ✅ Opened |
+| 7 | [aps.org.cn](https://www.aps.org.cn/) | APS China (German Embassy / DAAD) | 2026-11-08 | ✅ Opened |
+| 8 | [aps-india.de](https://aps-india.de/) | APS India (German Embassy / DAAD) | 2026-11-08 | ✅ Opened |
+| 9 | [vietnam.diplo.de](https://vietnam.diplo.de/) | Federal Foreign Office (German mission) | 2026-11-08 | ✅ Opened |
+| 10 | [anabin](https://anabin.kmk.org/) | KMK | 2026-11-08 | ✅ Opened |
+| 11 | [uni-assist – Country information](https://www.uni-assist.de/en/tools/info-country-by-country/) | uni-assist | 2026-11-08 | ✅ Opened |
+| 12 | [German missions in Italy](https://italien.diplo.de/it-de/service/visa-aktuell/2586756-2586756) | Federal Foreign Office (German mission) | 2026-11-08 | ✅ Opened |
+| 13 | [LUH](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

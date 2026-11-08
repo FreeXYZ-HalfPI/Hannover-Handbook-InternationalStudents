@@ -5,6 +5,15 @@ To stay informed: check this page, click **Watch** on GitHub (or Watch → Custo
 > [!CAUTION]
 > This handbook is guidance based on students' experience and may be out of date. ISL accepts no responsibility for its currency.
 
+## 2026-11-08 — Link re-check and fixes
+
+- **All external links re-checked** (333 that answered 200 now carry the access date 2026-11-08).
+- **AStA semester-ticket page (30):** the English address returned 404; it now points to the current "Semester ticket" and "Refunds & Exemptions" pages.
+- **Minijob source (40):** the iww.de article returned HTTP 500 on the check date and is marked as failing; the official Deutsche Rentenversicherung source on the same page gives the same figure.
+- **README PDF link:** the link text and URL were split over two lines and did not render on GitHub; fixed.
+- **CONTRIBUTING:** the issue link is now the full GitHub address.
+- **Still open:** TestDaF (HTTP 500), ESN section finder and Goethe-Institut (bot protection), LinkedIn (needs a login), `github.com/signup` (bot protection).
+
 ## 2026-11-03 — Link re-check and status update
 
 - **All external links re-checked** (331 unique addresses). Pages with confirmed links now carry the access date 2026-11-03.

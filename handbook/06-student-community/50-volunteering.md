@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-03 · **Section:** [Section 6 — Student Community & Engagement](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-08 · **Section:** [Section 6 — Student Community & Engagement](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -55,12 +55,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Study-Buddy](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote/study-buddy) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 2 | [Student associations](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/studentische-vereinigungen) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 3 | [ChancenVielfalt](https://www.chancenvielfalt.uni-hannover.de/de/beratung) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 4 | [ZQS – Key competencies](https://www.zqs.uni-hannover.de/en/kc) | ZQS, Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 5 | [hannonetz.de](https://www.hannonetz.de/) | City of Hannover | 2026-11-03 | ✅ Opened |
-| 6 | [hannover.de – Volunteer phone line](https://www.hannover.de/Leben-in-der-Region-Hannover/Politik/B%C3%BCrgerbeteiligung-Engagement/Ehrenamt/Wertsch%C3%A4tzung-und-Anerkennung/Freiwilligentelefon) | City and Region of Hannover | 2026-11-03 | ✅ Opened |
+| 1 | [Study-Buddy](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote/study-buddy) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 2 | [Student associations](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/studentische-vereinigungen) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 3 | [ChancenVielfalt](https://www.chancenvielfalt.uni-hannover.de/de/beratung) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 4 | [ZQS – Key competencies](https://www.zqs.uni-hannover.de/en/kc) | ZQS, Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 5 | [hannonetz.de](https://www.hannonetz.de/) | City of Hannover | 2026-11-08 | ✅ Opened |
+| 6 | [hannover.de – Volunteer phone line](https://www.hannover.de/Leben-in-der-Region-Hannover/Politik/B%C3%BCrgerbeteiligung-Engagement/Ehrenamt/Wertsch%C3%A4tzung-und-Anerkennung/Freiwilligentelefon) | City and Region of Hannover | 2026-11-08 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

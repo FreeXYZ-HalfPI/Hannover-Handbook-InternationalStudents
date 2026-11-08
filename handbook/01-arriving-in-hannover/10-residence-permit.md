@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -19,7 +19,7 @@
 > This page is general information, not legal advice. Residence rules change; always check with the foreigners' authority (Ausländerbehörde) before acting.
 
 > [!TIP]
-> **Last reviewed:** 2026-11-03 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-08 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -84,22 +84,22 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Studentenwerk Hannover – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-11-03 | ✅ Opened |
-| 2 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 3 | [§ 41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
-| 4 | [hannover.de – Service for skilled workers, students and self-employed](https://www.hannover.de/Wirtschaft-Wissenschaft/Arbeit/Vereinbarkeit-von-Familie-und-Beruf/Unternehmen/Personal-und-Mitarbeitervermittlung/Kundenservice-f%C3%BCr-Fachkr%C3%A4fte,-Studierende-und-Selbstst%C3%A4ndige-sowie-deren-Familienangeh%C3%B6rige) | City and Region of Hannover | 2026-11-03 | ✅ Opened |
-| 5 | [Issue or extension of a residence permit](https://hannover.gov.de/portal/seiten/erteilung-oder-verlaengerung-einer-aufenthaltserlaubnis-oder-blauen-karte-eu-1141-30810.html?rubrik=1001) | City of Hannover | 2026-11-03 | ✅ Opened |
-| 6 | [City of Hannover – Residence permit for study, online application](https://hannover.gov.de/buergerservice/dienstleistungen/aufenthaltserlaubnis-zum-zwecke-des-studiums-und-fuer-studienvorbereitende-massnahmen-1347-0.html?myMedium=1) | City of Hannover | 2026-11-03 | ✅ Opened |
-| 7 | [§ 16b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
-| 8 | [§ 82 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__82.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
-| 9 | [§ 81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
-| 10 | [LUH – Events](https://www.uni-hannover.de/en/universitaet/aktuelles/veranstaltungen) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 11 | [hannover.de – Refugee Law Clinic at the Faculty of Law (2020 report)](https://www.hannover.de/Service/Presse-Medien/Hannover.de/Aktuelles/Wirtschaft-Wissenschaft-2020/Migration-%E2%80%93-Perspektiven-der-Forschung) | City and Region of Hannover | 2026-11-03 | ✅ Opened |
-| 12 | [German missions in Italy](https://italien.diplo.de/it-de/service/visa-aktuell/2586756-2586756) | Federal Foreign Office (German mission) | 2026-11-03 | ✅ Opened |
-| 13 | [§ 45 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
-| 14 | [§ 45a AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45a.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
-| 15 | [Ausländerbehörde der Region Hannover – Appointments & contact](https://www.hannover.de/Leben-in-der-Region-Hannover/B%C3%BCrger-Service/Ausl%C3%A4nder%C2%ADangelegen%C2%ADheiten/Ausl%C3%A4nderbeh%C3%B6rden/Ausl%C3%A4nderbeh%C3%B6rde-der-Region-Hannover/Termine-Kontaktformular) | City and Region of Hannover | 2026-11-03 | ✅ Opened |
-| 16 | [LUH](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/internationale-erstsemesterstudierende) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
+| 1 | [Studentenwerk Hannover – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-11-08 | ✅ Opened |
+| 2 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 3 | [§ 41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
+| 4 | [hannover.de – Service for skilled workers, students and self-employed](https://www.hannover.de/Wirtschaft-Wissenschaft/Arbeit/Vereinbarkeit-von-Familie-und-Beruf/Unternehmen/Personal-und-Mitarbeitervermittlung/Kundenservice-f%C3%BCr-Fachkr%C3%A4fte,-Studierende-und-Selbstst%C3%A4ndige-sowie-deren-Familienangeh%C3%B6rige) | City and Region of Hannover | 2026-11-08 | ✅ Opened |
+| 5 | [Issue or extension of a residence permit](https://hannover.gov.de/portal/seiten/erteilung-oder-verlaengerung-einer-aufenthaltserlaubnis-oder-blauen-karte-eu-1141-30810.html?rubrik=1001) | City of Hannover | 2026-11-08 | ✅ Opened |
+| 6 | [City of Hannover – Residence permit for study, online application](https://hannover.gov.de/buergerservice/dienstleistungen/aufenthaltserlaubnis-zum-zwecke-des-studiums-und-fuer-studienvorbereitende-massnahmen-1347-0.html?myMedium=1) | City of Hannover | 2026-11-08 | ✅ Opened |
+| 7 | [§ 16b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
+| 8 | [§ 82 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__82.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
+| 9 | [§ 81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
+| 10 | [LUH – Events](https://www.uni-hannover.de/en/universitaet/aktuelles/veranstaltungen) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 11 | [hannover.de – Refugee Law Clinic at the Faculty of Law (2020 report)](https://www.hannover.de/Service/Presse-Medien/Hannover.de/Aktuelles/Wirtschaft-Wissenschaft-2020/Migration-%E2%80%93-Perspektiven-der-Forschung) | City and Region of Hannover | 2026-11-08 | ✅ Opened |
+| 12 | [German missions in Italy](https://italien.diplo.de/it-de/service/visa-aktuell/2586756-2586756) | Federal Foreign Office (German mission) | 2026-11-08 | ✅ Opened |
+| 13 | [§ 45 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
+| 14 | [§ 45a AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45a.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
+| 15 | [Ausländerbehörde der Region Hannover – Appointments & contact](https://www.hannover.de/Leben-in-der-Region-Hannover/B%C3%BCrger-Service/Ausl%C3%A4nder%C2%ADangelegen%C2%ADheiten/Ausl%C3%A4nderbeh%C3%B6rden/Ausl%C3%A4nderbeh%C3%B6rde-der-Region-Hannover/Termine-Kontaktformular) | City and Region of Hannover | 2026-11-08 | ✅ Opened |
+| 16 | [LUH](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/internationale-erstsemesterstudierende) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

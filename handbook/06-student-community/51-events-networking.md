@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-03 · **Section:** [Section 6 — Student Community & Engagement](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-08 · **Section:** [Section 6 — Student Community & Engagement](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -54,15 +54,15 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [ptb](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-11-03 | ✅ Opened |
-| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 3 | [Erstival](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/erstival) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 4 | [Orientation Days](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/preparation-courses-and-introductory-sessions/orientation-days) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 5 | [Making contacts](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/kontakte-knuepfen) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 6 | [Start Smart](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/start-smart) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 7 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-11-03 | ✅ Opened |
-| 8 | [LUH – ZQS](https://www.uni-hannover.de/en/universitaet/organisation/einrichtungen/zentrale-einrichtungen/zqs) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 9 | [Instagram @uni_hannover](https://www.instagram.com/uni_hannover/) | instagram.com | 2026-11-03 | ✅ Opened |
+| 1 | [ptb](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-11-08 | ✅ Opened |
+| 2 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 3 | [Erstival](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/erstival) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 4 | [Orientation Days](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/preparation-courses-and-introductory-sessions/orientation-days) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 5 | [Making contacts](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/kontakte-knuepfen) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 6 | [Start Smart](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/start-smart) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 7 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-11-08 | ✅ Opened |
+| 8 | [LUH – ZQS](https://www.uni-hannover.de/en/universitaet/organisation/einrichtungen/zentrale-einrichtungen/zqs) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 9 | [Instagram @uni_hannover](https://www.instagram.com/uni_hannover/) | instagram.com | 2026-11-08 | ✅ Opened |
 | 10 | [LinkedIn](https://www.linkedin.com/school/leibniz-universit-t-hannover-germany) | linkedin.com | 2026-10-26 | ⚠️ Blocks automated checks — open in a browser |
 
 ## 7. Student experiences (unofficial)

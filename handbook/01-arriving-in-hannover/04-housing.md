@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-03 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-08 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -71,17 +71,17 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Housing](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/housing) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 2 | [Studentenwerk – Housing search](https://www.studentenwerk-hannover.de/en/wohnen/wohnungssuche) | Studentenwerk Hannover | 2026-11-03 | ✅ Opened |
-| 3 | [§ 551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
-| 4 | [Federal Anti-Discrimination Agency – Housing](https://www.antidiskriminierungsstelle.de/EN/about-discrimination/areas-of-life/daily-business/housing-market/housing-market-node.html) | Federal Anti-Discrimination Agency | 2026-11-03 | ✅ Opened |
-| 5 | [AStA Hannover](https://www.asta-hannover.de/) | AStA Hannover | 2026-11-03 | ✅ Opened |
-| 6 | [§ 19 (6) BMG](https://www.gesetze-im-internet.de/bmg/__19.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
-| 7 | [§ 17 BMG](https://www.gesetze-im-internet.de/bmg/__17.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
-| 8 | [§ 54 BMG](https://www.gesetze-im-internet.de/bmg/__54.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
-| 9 | [§ 540 BGB](https://www.gesetze-im-internet.de/bgb/__540.html) | Federal Ministry of Justice (law text) | 2026-11-03 | ✅ Opened |
-| 10 | [Police information sheet via KIT (PDF, German)](https://www.intl.kit.edu/download/INFOBLATT_Betrug%20bei%20der%20Wohnungssuche.pdf) | intl.kit.edu — unofficial / secondary source | 2026-11-03 | ✅ Opened |
-| 11 | [City of Hannover form (PDF)](https://hannover.gov.de/medien/dokumente/wohnungsgeberbestaetigung.pdf) | City of Hannover | 2026-11-03 | ✅ Opened |
+| 1 | [LUH – Housing](https://www.uni-hannover.de/en/universitaet/campus-und-stadt/housing) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 2 | [Studentenwerk – Housing search](https://www.studentenwerk-hannover.de/en/wohnen/wohnungssuche) | Studentenwerk Hannover | 2026-11-08 | ✅ Opened |
+| 3 | [§ 551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
+| 4 | [Federal Anti-Discrimination Agency – Housing](https://www.antidiskriminierungsstelle.de/EN/about-discrimination/areas-of-life/daily-business/housing-market/housing-market-node.html) | Federal Anti-Discrimination Agency | 2026-11-08 | ✅ Opened |
+| 5 | [AStA Hannover](https://www.asta-hannover.de/) | AStA Hannover | 2026-11-08 | ✅ Opened |
+| 6 | [§ 19 (6) BMG](https://www.gesetze-im-internet.de/bmg/__19.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
+| 7 | [§ 17 BMG](https://www.gesetze-im-internet.de/bmg/__17.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
+| 8 | [§ 54 BMG](https://www.gesetze-im-internet.de/bmg/__54.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
+| 9 | [§ 540 BGB](https://www.gesetze-im-internet.de/bgb/__540.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
+| 10 | [Police information sheet via KIT (PDF, German)](https://www.intl.kit.edu/download/INFOBLATT_Betrug%20bei%20der%20Wohnungssuche.pdf) | intl.kit.edu — unofficial / secondary source | 2026-11-08 | ✅ Opened |
+| 11 | [City of Hannover form (PDF)](https://hannover.gov.de/medien/dokumente/wohnungsgeberbestaetigung.pdf) | City of Hannover | 2026-11-08 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-03 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-08 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -56,15 +56,15 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 2 | [Hochschulsport – Sports programmes](https://www.hochschulsport-hannover.de/en/sports-programs/) | Hochschulsport Hannover | 2026-11-03 | ✅ Opened |
-| 3 | [Hochschulsport](https://www.hochschulsport-hannover.de/en/university-sports-department/about-us) | Hochschulsport Hannover | 2026-11-03 | ✅ Opened |
-| 4 | [Studentenwerk – Save money](https://www.studentenwerk-hannover.de/en/money/save-money) | Studentenwerk Hannover | 2026-11-03 | ✅ Opened |
-| 5 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 6 | [staatstheater-hannover.de](https://www.staatstheater-hannover.de/) | Staatstheater Hannover | 2026-11-03 | ✅ Opened |
-| 7 | [Campus and city](https://www.uni-hannover.de/en/universitaet/campus-und-stadt) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 8 | [hannover.de events calendar](https://www.hannover.de/Veranstaltungskalender) | City and Region of Hannover | 2026-11-03 | ✅ Opened |
-| 9 | [Staatstheater – Ticket service](https://staatstheater-hannover.de/de_DE/kartenservice) | Staatstheater Hannover | 2026-11-03 | ✅ Opened |
+| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 2 | [Hochschulsport – Sports programmes](https://www.hochschulsport-hannover.de/en/sports-programs/) | Hochschulsport Hannover | 2026-11-08 | ✅ Opened |
+| 3 | [Hochschulsport](https://www.hochschulsport-hannover.de/en/university-sports-department/about-us) | Hochschulsport Hannover | 2026-11-08 | ✅ Opened |
+| 4 | [Studentenwerk – Save money](https://www.studentenwerk-hannover.de/en/money/save-money) | Studentenwerk Hannover | 2026-11-08 | ✅ Opened |
+| 5 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 6 | [staatstheater-hannover.de](https://www.staatstheater-hannover.de/) | Staatstheater Hannover | 2026-11-08 | ✅ Opened |
+| 7 | [Campus and city](https://www.uni-hannover.de/en/universitaet/campus-und-stadt) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 8 | [hannover.de events calendar](https://www.hannover.de/Veranstaltungskalender) | City and Region of Hannover | 2026-11-08 | ✅ Opened |
+| 9 | [Staatstheater – Ticket service](https://staatstheater-hannover.de/de_DE/kartenservice) | Staatstheater Hannover | 2026-11-08 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

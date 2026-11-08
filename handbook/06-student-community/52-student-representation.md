@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-03⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-03 · **Section:** [Section 6 — Student Community & Engagement](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-08 · **Section:** [Section 6 — Student Community & Engagement](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -58,12 +58,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Bodies & committees](https://www.uni-hannover.de/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/organe-gremien) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 2 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 3 | [Student body election rules (PDF)](https://www.uni-hannover.de/fileadmin/luh/content/wahlamt/dokumente/Wahl-_und_andere_Ordnungen/VKBl_Nr._08_2025_-_Wahlordnung_der_Studierendenschaft.pdf) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 4 | [Fachschaften](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/organe-gremien/fachschaften) | Leibniz University Hannover | 2026-11-03 | ✅ Opened |
-| 5 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-11-03 | ✅ Opened |
-| 6 | [AStA – Statutes and regulations](https://www.asta-hannover.de/hochschulpolitik/satzungen-und-ordnungen/) | AStA Hannover | 2026-11-03 | ✅ Opened |
+| 1 | [LUH – Bodies & committees](https://www.uni-hannover.de/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/organe-gremien) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 2 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 3 | [Student body election rules (PDF)](https://www.uni-hannover.de/fileadmin/luh/content/wahlamt/dokumente/Wahl-_und_andere_Ordnungen/VKBl_Nr._08_2025_-_Wahlordnung_der_Studierendenschaft.pdf) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 4 | [Fachschaften](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/organe-gremien/fachschaften) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 5 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-11-08 | ✅ Opened |
+| 6 | [AStA – Statutes and regulations](https://www.asta-hannover.de/hochschulpolitik/satzungen-und-ordnungen/) | AStA Hannover | 2026-11-08 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 
