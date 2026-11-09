@@ -5,6 +5,12 @@ To stay informed: check this page, click **Watch** on GitHub (or Watch → Custo
 > [!CAUTION]
 > This handbook is guidance based on students' experience and may be out of date. ISL accepts no responsibility for its currency.
 
+## 2026-11-10 — Goals and link re-check
+
+- **New [ROADMAP.md](ROADMAP.md):** main goal, principles, today's figures and seven goals with open tasks; linked from the README and CONTRIBUTING.
+- **All external links re-checked** (342 checked, 321 answered 200; access dates are now 2026-11-10). The remaining failures are blocked or unreachable sites: `esn.org`, `github.com/signup`, 116117 appointments, Goethe-Institut, TestDaF (HTTP 500) and LinkedIn; 15 `gesetze-im-internet.de` addresses did not answer from the check machine but open in a browser.
+- **AStA refund row (30):** one link still pointed to the 404 "translate-to-english-semesterticket" address; it now points to the current Semester ticket page.
+
 ## 2026-11-08 — Link re-check and fixes
 
 - **All external links re-checked** (333 that answered 200 now carry the access date 2026-11-08).

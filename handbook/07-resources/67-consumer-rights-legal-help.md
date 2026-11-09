@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-10⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -19,7 +19,7 @@
 > This page is general information, not legal advice. In any serious dispute, get help from one of the free advice services below before you pay money or sign anything.
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-10 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -86,16 +86,16 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [§ 540 BGB](https://www.gesetze-im-internet.de/bgb/__540.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 2 | [§ 312g BGB](https://www.gesetze-im-internet.de/bgb/__312g.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 3 | [§ 355 BGB](https://www.gesetze-im-internet.de/bgb/__355.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
+| 1 | [§ 540 BGB](https://www.gesetze-im-internet.de/bgb/__540.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
+| 2 | [§ 312g BGB](https://www.gesetze-im-internet.de/bgb/__312g.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
+| 3 | [§ 355 BGB](https://www.gesetze-im-internet.de/bgb/__355.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
 | 4 | [§ 692 ZPO](https://www.gesetze-im-internet.de/zpo/__692.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
 | 5 | [§ 31 ZKG](https://www.gesetze-im-internet.de/zkg/__31.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 6 | [Verbraucherzentrale – Hannover advice centre](https://www.verbraucherzentrale-niedersachsen.de/beratungsstellen/beratungsstelle-hannover-121455?page=1) | Verbraucherzentrale Niedersachsen | 2026-11-08 | ✅ Opened |
-| 7 | [Legal Clinic Hannover](https://www.jura.uni-hannover.de/de/legalclinic) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 8 | [hannover.de – Services for international students](https://www.hannover.de/Wirtschaft-Wissenschaft/Wissenschaft/Studieren-in-Hannover/Internationales/Service-f%C3%BCr-ausl%C3%A4ndische-Studierende) | City and Region of Hannover | 2026-11-08 | ✅ Opened |
-| 9 | [Studentenwerk – Advice](https://www.studentenwerk-hannover.de/beratung/uebersicht) | Studentenwerk Hannover | 2026-11-08 | ✅ Opened |
-| 10 | [Lower Saxony police online station](https://www.onlinewache.polizei.niedersachsen.de/) | onlinewache.polizei.niedersachsen.de | 2026-11-08 | ✅ Opened |
+| 6 | [Verbraucherzentrale – Hannover advice centre](https://www.verbraucherzentrale-niedersachsen.de/beratungsstellen/beratungsstelle-hannover-121455?page=1) | Verbraucherzentrale Niedersachsen | 2026-11-10 | ✅ Opened |
+| 7 | [Legal Clinic Hannover](https://www.jura.uni-hannover.de/de/legalclinic) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 8 | [hannover.de – Services for international students](https://www.hannover.de/Wirtschaft-Wissenschaft/Wissenschaft/Studieren-in-Hannover/Internationales/Service-f%C3%BCr-ausl%C3%A4ndische-Studierende) | City and Region of Hannover | 2026-11-10 | ✅ Opened |
+| 9 | [Studentenwerk – Advice](https://www.studentenwerk-hannover.de/beratung/uebersicht) | Studentenwerk Hannover | 2026-11-10 | ✅ Opened |
+| 10 | [Lower Saxony police online station](https://www.onlinewache.polizei.niedersachsen.de/) | onlinewache.polizei.niedersachsen.de | 2026-11-10 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

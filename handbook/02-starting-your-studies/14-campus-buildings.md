@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-10⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 2 — Starting Your Studies](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-10 · **Section:** [Section 2 — Starting Your Studies](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -59,14 +59,14 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Campus & city](https://www.uni-hannover.de/universitaet/campus-stadt/) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 2 | [Faculty of Natural Sciences – Campus areas](https://www.naturwissenschaften.uni-hannover.de/fakultaet/campusbereiche) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 3 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 4 | [info.cafm.uni-hannover.de](https://info.cafm.uni-hannover.de/building/1101) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 5 | [LUH – Enrolment](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/nach-der-bewerbung/einschreibung) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 6 | [Standortfinder](https://standortfinder.uni-hannover.de/map.php) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 7 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 8 | [TIB Reader Registration](https://reg.lbs.tib.eu/registration/tib/edit.php?lang=en) | TIB – Leibniz Information Centre | 2026-11-08 | ✅ Opened |
+| 1 | [LUH – Campus & city](https://www.uni-hannover.de/universitaet/campus-stadt/) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 2 | [Faculty of Natural Sciences – Campus areas](https://www.naturwissenschaften.uni-hannover.de/fakultaet/campusbereiche) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 3 | [LUH – ServiceCenter](https://www.uni-hannover.de/en/studium/beratung-hilfe/servicecenter) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 4 | [info.cafm.uni-hannover.de](https://info.cafm.uni-hannover.de/building/1101) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 5 | [LUH – Enrolment](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/nach-der-bewerbung/einschreibung) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 6 | [Standortfinder](https://standortfinder.uni-hannover.de/map.php) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 7 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 8 | [TIB Reader Registration](https://reg.lbs.tib.eu/registration/tib/edit.php?lang=en) | TIB – Leibniz Information Centre | 2026-11-10 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

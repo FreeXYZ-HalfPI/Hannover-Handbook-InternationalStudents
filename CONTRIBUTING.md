@@ -4,6 +4,7 @@ Thank you for helping international students in Hannover!
 
 - **Small fix** (a number, a deadline, a broken link): open the page on GitHub, click ✏️ *Edit*, and propose the change as a pull request. Add the official source and today's access date.
 - **Not sure / no time to edit?** Open an [issue](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/issues/new/choose) and describe the problem.
+- **Where to help most:** see the goals and open work in [ROADMAP.md](ROADMAP.md).
 - **New page:** copy [TEMPLATE.md](TEMPLATE.md) into the right section folder and add it to that section's `README.md` and to [handbook/README.md](handbook/README.md).
 - **Country-specific information** (visa waiting times, document legalisation, home-country scholarships, banking): add it to the matching page in [Section 8](handbook/08-by-nationality/README.md), with a date and source.
 

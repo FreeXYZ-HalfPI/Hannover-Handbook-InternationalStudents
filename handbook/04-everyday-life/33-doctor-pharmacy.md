@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-10⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -21,7 +21,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-10 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -82,16 +82,16 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [116117.de](https://www.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-11-08 | ✅ Opened |
-| 2 | [aponet – On-duty pharmacy search](https://www.aponet.de/notdienstsuche) | ABDA (pharmacists) | 2026-11-08 | ✅ Opened |
-| 3 | [Federal Ministry of Health – Co-payment rules (PDF)](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/A/Arzneimittelversorgung/Zuzahlungsregelungen_GKV.pdf) | Federal Ministry of Health | 2026-11-08 | ✅ Opened |
-| 4 | [BfArM – Travelling with narcotic drugs](https://www.bfarm.de/EN/Federal-Opium-Agency/Narcotic-drugs/Travelling-with-narcotic-drugs/_node.html) | Federal Institute for Drugs and Medical Devices | 2026-11-08 | ✅ Opened |
-| 5 | [G-BA – Decision on the AU guideline 2015 (PDF)](https://www.g-ba.de/downloads/40-268-3628/2026-11-08_AU-RL_AU-Bescheinigung_Nahtlosigkeit_TrG.pdf) | g-ba.de | 2026-11-03 | ✅ Opened |
-| 6 | [arztsuche.116117.de](https://arztsuche.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-11-08 | ✅ Opened |
-| 7 | [KZVN – Dentist search](https://www.kzvn.de/patienten/zahnarztsuche/) | kzvn.de | 2026-11-08 | ✅ Opened (browser) |
-| 8 | [Verbraucherzentrale – Which dental check-ups does insurance pay?](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/welche-zahnvorsorge-zahlt-die-krankenkasse-12913) | Verbraucherzentrale | 2026-11-08 | ✅ Opened |
+| 1 | [116117.de](https://www.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-11-10 | ✅ Opened |
+| 2 | [aponet – On-duty pharmacy search](https://www.aponet.de/notdienstsuche) | ABDA (pharmacists) | 2026-11-10 | ✅ Opened |
+| 3 | [Federal Ministry of Health – Co-payment rules (PDF)](https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/A/Arzneimittelversorgung/Zuzahlungsregelungen_GKV.pdf) | Federal Ministry of Health | 2026-11-10 | ✅ Opened |
+| 4 | [BfArM – Travelling with narcotic drugs](https://www.bfarm.de/EN/Federal-Opium-Agency/Narcotic-drugs/Travelling-with-narcotic-drugs/_node.html) | Federal Institute for Drugs and Medical Devices | 2026-11-10 | ✅ Opened |
+| 5 | [G-BA – Decision on the AU guideline 2015 (PDF)](https://www.g-ba.de/downloads/40-268-3628/2026-11-10_AU-RL_AU-Bescheinigung_Nahtlosigkeit_TrG.pdf) | g-ba.de | 2026-11-03 | ✅ Opened |
+| 6 | [arztsuche.116117.de](https://arztsuche.116117.de/) | Kassenärztliche Bundesvereinigung | 2026-11-10 | ✅ Opened |
+| 7 | [KZVN – Dentist search](https://www.kzvn.de/patienten/zahnarztsuche/) | kzvn.de | 2026-11-10 | ✅ Opened (browser) |
+| 8 | [Verbraucherzentrale – Which dental check-ups does insurance pay?](https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/welche-zahnvorsorge-zahlt-die-krankenkasse-12913) | Verbraucherzentrale | 2026-11-10 | ✅ Opened |
 | 9 | [§ 55 SGB V](https://www.gesetze-im-internet.de/sgb_5/__55.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 10 | [Verbraucherzentrale – Dental services covered by statutory insurance](https://www.verbraucherzentrale.de/kassenleistungen-der-zahnmedizin) | Verbraucherzentrale | 2026-11-08 | ✅ Opened |
+| 10 | [Verbraucherzentrale – Dental services covered by statutory insurance](https://www.verbraucherzentrale.de/kassenleistungen-der-zahnmedizin) | Verbraucherzentrale | 2026-11-10 | ✅ Opened |
 | 11 | [§ 5 GOZ](https://www.gesetze-im-internet.de/goz_1987/__5.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)

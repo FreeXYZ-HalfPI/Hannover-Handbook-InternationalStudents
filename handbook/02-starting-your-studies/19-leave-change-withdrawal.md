@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-10⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -19,7 +19,7 @@
 > 🌍 For non-EU students, a leave of absence, a change of programme or withdrawal can affect your residence permit. Talk to the Ausländerbehörde and the International Office before acting. This page is not legal advice.
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 2 — Starting Your Studies](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-10 · **Section:** [Section 2 — Starting Your Studies](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -70,12 +70,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Leave of absence](https://www.uni-hannover.de/studium/im-studium/studienorganisation/studierendenstatus/beurlaubung) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 2 | [LUH Enrolment Regulations – § 9 (PDF)](https://www.uni-hannover.de/fileadmin/luh/content/i-amt/antraege/gesetze/Immatrikulationsordnung_der_Gottfried_Wilhelm_Leibniz_Universitaet_Hannover.pdf) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 3 | [LUH – Change of programme](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/studiengangs-und-fachwechsel) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 4 | [§ 16b (2) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 5 | [LUH – De-registration](https://www.uni-hannover.de/studium/im-studium/studienorganisation/studierendenstatus/exmatrikulation) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 6 | [Studien(fehl)start](https://www.uni-hannover.de/studium/im-studium/start-ins-studium/studienfehlstart) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 1 | [LUH – Leave of absence](https://www.uni-hannover.de/studium/im-studium/studienorganisation/studierendenstatus/beurlaubung) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 2 | [LUH Enrolment Regulations – § 9 (PDF)](https://www.uni-hannover.de/fileadmin/luh/content/i-amt/antraege/gesetze/Immatrikulationsordnung_der_Gottfried_Wilhelm_Leibniz_Universitaet_Hannover.pdf) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 3 | [LUH – Change of programme](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/studiengangs-und-fachwechsel) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 4 | [§ 16b (2) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
+| 5 | [LUH – De-registration](https://www.uni-hannover.de/studium/im-studium/studienorganisation/studierendenstatus/exmatrikulation) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 6 | [Studien(fehl)start](https://www.uni-hannover.de/studium/im-studium/start-ins-studium/studienfehlstart) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

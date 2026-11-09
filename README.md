@@ -50,6 +50,8 @@ Each topic has one page, and every page follows the same structure: purpose, who
 
 Everyone can help: correct a figure or deadline, report a broken link, add a personal experience (especially country-specific tips) or write a new page. See [CONTRIBUTING.md](CONTRIBUTING.md). The core rule: **every claim needs an official source, and every source needs an access date.**
 
+🎯 **Goals and status today:** [ROADMAP.md](ROADMAP.md) — measures, open work and ways to help.
+
 > [!WARNING]
 > This handbook is general guidance, not legal, tax or medical advice. The responsible official office always has the final word.
 

@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-10⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-10 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -84,14 +84,14 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [wahl.uni-hannover.de](https://wahl.uni-hannover.de/) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 2 | [Iranian Student Association (ISL)](https://t.me/hannover_iranian_students) | t.me | 2026-11-08 | ✅ Opened |
-| 3 | [NFeiertagsG § 2](https://umwelt-online.de/recht/arbeitss/arbeitsrecht/laender/nds/feiertg.htm) | umwelt-online.de | 2026-11-08 | ✅ Opened |
-| 4 | [Draft law on Reformation Day](https://www.niedersachsen.de/download/128351/Entwurf_eines_Gesetzes_zur_Aenderung_des_Niedersaechsischen_Gesetzes_ueber_die_Feiertage.pdf) | niedersachsen.de | 2026-11-08 | ✅ Opened |
-| 5 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 6 | [Exam information & subject advice](https://www.uni-hannover.de/en/studium/im-studium/pruefungsinfos-fachberatung) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 7 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-11-08 | ✅ Opened |
-| 8 | [BBK – Nationwide warning day](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Bundesweiter-Warntag/bundesweiter-warntag_node.html) | Federal Office of Civil Protection | 2026-11-08 | ✅ Opened |
+| 1 | [wahl.uni-hannover.de](https://wahl.uni-hannover.de/) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 2 | [Iranian Student Association (ISL)](https://t.me/hannover_iranian_students) | t.me | 2026-11-10 | ✅ Opened |
+| 3 | [NFeiertagsG § 2](https://umwelt-online.de/recht/arbeitss/arbeitsrecht/laender/nds/feiertg.htm) | umwelt-online.de | 2026-11-10 | ✅ Opened |
+| 4 | [Draft law on Reformation Day](https://www.niedersachsen.de/download/128351/Entwurf_eines_Gesetzes_zur_Aenderung_des_Niedersaechsischen_Gesetzes_ueber_die_Feiertage.pdf) | niedersachsen.de | 2026-11-10 | ✅ Opened |
+| 5 | [LUH – Re-registration](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 6 | [Exam information & subject advice](https://www.uni-hannover.de/en/studium/im-studium/pruefungsinfos-fachberatung) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 7 | [AStA – Semester ticket](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-11-10 | ✅ Opened |
+| 8 | [BBK – Nationwide warning day](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Bundesweiter-Warntag/bundesweiter-warntag_node.html) | Federal Office of Civil Protection | 2026-11-10 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

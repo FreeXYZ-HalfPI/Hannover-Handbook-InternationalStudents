@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-10⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 2 — Starting Your Studies](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-10 · **Section:** [Section 2 — Starting Your Studies](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -50,9 +50,9 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 2 | [list of Fachschaften and Fachräte](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/organe-gremien/fachschaften) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 3 | [AStA – International students](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-11-08 | ✅ Opened |
+| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 2 | [list of Fachschaften and Fachräte](https://www.uni-hannover.de/en/studium/im-studium/campusleben-und-engagement/gruppen-selbstverwaltung/organe-gremien/fachschaften) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 3 | [AStA – International students](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-11-10 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

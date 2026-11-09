@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-10⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -21,7 +21,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-10 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -68,17 +68,17 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Studentenwerk Hannover – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-11-08 | ✅ Opened |
-| 2 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 3 | [DVKA – Social security agreements](https://www.dvka.de/en/) | DVKA (GKV-Spitzenverband) | 2026-11-08 | ✅ Opened |
-| 4 | [gesetzlichekrankenkassen.de](https://www.gesetzlichekrankenkassen.de/kassenbeitraege/studenten) | gesetzlichekrankenkassen.de — unofficial / secondary source | 2026-11-08 | ✅ Opened |
-| 5 | [LUH – Enrolment](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/nach-der-bewerbung/einschreibung) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 1 | [Studentenwerk Hannover – First steps](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-11-10 | ✅ Opened |
+| 2 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 3 | [DVKA – Social security agreements](https://www.dvka.de/en/) | DVKA (GKV-Spitzenverband) | 2026-11-10 | ✅ Opened |
+| 4 | [gesetzlichekrankenkassen.de](https://www.gesetzlichekrankenkassen.de/kassenbeitraege/studenten) | gesetzlichekrankenkassen.de — unofficial / secondary source | 2026-11-10 | ✅ Opened |
+| 5 | [LUH – Enrolment](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/nach-der-bewerbung/einschreibung) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
 | 6 | [§ 8 SGB V](https://www.gesetze-im-internet.de/sgb_5/__8.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
 | 7 | [§ 5 (1) no. 9 SGB V](https://www.gesetze-im-internet.de/sgb_5/__5.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 8 | [TK](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/studenten-und-fachschueler/was-muessen-studierende-beachten-2065514) | Techniker Krankenkasse | 2026-11-08 | ✅ Opened |
-| 9 | [AOK](https://www.aok.de/pp/rechengroessen/kostenueberblick-studentischen-krankenversicherung/) | AOK | 2026-11-08 | ✅ Opened |
-| 10 | [BARMER](https://www.barmer.de/unsere-leistungen/beitraege-tarife/krankenversicherung-studierende) | BARMER | 2026-11-08 | ✅ Opened |
-| 11 | [LUH – Health insurance](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/krankenversicherung) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 8 | [TK](https://www.tk.de/vertriebspartner/faq/beitragsuebersicht/studenten-und-fachschueler/was-muessen-studierende-beachten-2065514) | Techniker Krankenkasse | 2026-11-10 | ✅ Opened |
+| 9 | [AOK](https://www.aok.de/pp/rechengroessen/kostenueberblick-studentischen-krankenversicherung/) | AOK | 2026-11-10 | ✅ Opened |
+| 10 | [BARMER](https://www.barmer.de/unsere-leistungen/beitraege-tarife/krankenversicherung-studierende) | BARMER | 2026-11-10 | ✅ Opened |
+| 11 | [LUH – Health insurance](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/krankenversicherung) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

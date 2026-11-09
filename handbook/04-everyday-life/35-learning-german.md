@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-10⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-10 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -62,20 +62,20 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Language requirements](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/voraussetzungen-zum-studium/sprachnachweise) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 2 | [LLC – German](https://www.llc.uni-hannover.de/en/language-courses/german) | Leibniz Language Centre | 2026-11-08 | ✅ Opened |
-| 3 | [LLC – Tandem](https://www.llc.uni-hannover.de/en/language-courses/tandem-learning/tandem-learning-offers) | Leibniz Language Centre | 2026-11-08 | ✅ Opened |
-| 4 | [LLC](https://www.llc.uni-hannover.de/en/) | Leibniz Language Centre | 2026-11-08 | ✅ Opened |
-| 5 | [LUH – Study-Buddy](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote/study-buddy) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 6 | [VHS Hannover – German advice](https://www.vhs-hannover.de/vhs-programm/deutsch-integration/deutschberatung-1) | Volkshochschule Hannover | 2026-11-08 | ✅ Opened |
-| 7 | [VHS Hannover – German courses](https://www.vhs-hannover.de/vhs-programm/deutsch-integration/deutschkurse) | Volkshochschule Hannover | 2026-11-08 | ✅ Opened |
-| 8 | [DW – Learn German](https://learngerman.dw.com/en/overview) | learngerman.dw.com | 2026-11-08 | ✅ Opened |
+| 1 | [LUH – Language requirements](https://www.uni-hannover.de/studium/vor-dem-studium/bewerbung-zulassung/voraussetzungen-zum-studium/sprachnachweise) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 2 | [LLC – German](https://www.llc.uni-hannover.de/en/language-courses/german) | Leibniz Language Centre | 2026-11-10 | ✅ Opened |
+| 3 | [LLC – Tandem](https://www.llc.uni-hannover.de/en/language-courses/tandem-learning/tandem-learning-offers) | Leibniz Language Centre | 2026-11-10 | ✅ Opened |
+| 4 | [LLC](https://www.llc.uni-hannover.de/en/) | Leibniz Language Centre | 2026-11-10 | ✅ Opened |
+| 5 | [LUH – Study-Buddy](https://www.uni-hannover.de/en/studium/im-studium/international/internationale-studierende/betreuungsangebote/study-buddy) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 6 | [VHS Hannover – German advice](https://www.vhs-hannover.de/vhs-programm/deutsch-integration/deutschberatung-1) | Volkshochschule Hannover | 2026-11-10 | ✅ Opened |
+| 7 | [VHS Hannover – German courses](https://www.vhs-hannover.de/vhs-programm/deutsch-integration/deutschkurse) | Volkshochschule Hannover | 2026-11-10 | ✅ Opened |
+| 8 | [DW – Learn German](https://learngerman.dw.com/en/overview) | learngerman.dw.com | 2026-11-10 | ✅ Opened |
 | 9 | [Goethe-Institut – Practise German](https://www.goethe.de/en/spr/ueb.html) | goethe.de | 2026-11-03 | ✅ Opened (browser) |
-| 10 | [Federal Employment Agency – Free online German courses (PDF)](https://www.arbeitsagentur.de/vor-ort/datei/linksammlung-online-sprachlernangebote-deutsch_ba232254.pdf) | Federal Employment Agency | 2026-11-08 | ✅ Opened |
+| 10 | [Federal Employment Agency – Free online German courses (PDF)](https://www.arbeitsagentur.de/vor-ort/datei/linksammlung-online-sprachlernangebote-deutsch_ba232254.pdf) | Federal Employment Agency | 2026-11-10 | ✅ Opened |
 | 11 | [TestDaF](https://www.testdaf.de/en/) | testdaf.de | 2026-11-03 | ⚠️ Server error (HTTP 500 or 503) on the check date; re-check later |
-| 12 | [LLC](https://www.llc.uni-hannover.de/en/leibniz-language-centre/guidelines-for-courses-and-fee-regulation) | Leibniz Language Centre | 2026-11-08 | ✅ Opened |
-| 13 | [vhs-hannover.de](https://www.vhs-hannover.de/) | Volkshochschule Hannover | 2026-11-08 | ✅ Opened |
-| 14 | [LLC – Contact](https://www.llc.uni-hannover.de/en/leibniz-language-centre/contactdirectionsoffice-hours) | Leibniz Language Centre | 2026-11-08 | ✅ Opened |
+| 12 | [LLC](https://www.llc.uni-hannover.de/en/leibniz-language-centre/guidelines-for-courses-and-fee-regulation) | Leibniz Language Centre | 2026-11-10 | ✅ Opened |
+| 13 | [vhs-hannover.de](https://www.vhs-hannover.de/) | Volkshochschule Hannover | 2026-11-10 | ✅ Opened |
+| 14 | [LLC – Contact](https://www.llc.uni-hannover.de/en/leibniz-language-centre/contactdirectionsoffice-hours) | Leibniz Language Centre | 2026-11-10 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-10⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-10 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -64,9 +64,9 @@ Every link on this page was checked on the access date; the result is in the las
 | 1 | [§ 28 FeV – EU/EEA licences](https://www.gesetze-im-internet.de/fev_2010/__28.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
 | 2 | [§ 29 FeV](https://www.gesetze-im-internet.de/fev_2010/__29.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
 | 3 | [Annex 11 FeV](https://www.gesetze-im-internet.de/fev_2010/anlage_11.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 4 | [hannover.gov.de – Conversion of third-country licences](https://hannover.gov.de/buergerservice/dienstleistungen/fahrerlaubnis-umschreibung-einer-sonstigen-auslaendischen-fahrerlaubnis-drittstaaten--900000272-0.html?myMedium=1) | City of Hannover | 2026-11-08 | ✅ Opened |
-| 5 | [hannover.de – Foreign driving licence](https://www.hannover.de/Leben-in-der-Region-Hannover/Mobilit%C3%A4t/Kraftfahrzeug-Stra%C3%9Fe/Fahrerlaubnis%C2%AD%C2%ADbeh%C3%B6rde-Region-Hannover/Ausl%C3%A4ndischer-F%C3%BChrerschein) | City and Region of Hannover | 2026-11-08 | ✅ Opened |
-| 6 | [hannover.gov.de – Driving licence office](https://hannover.gov.de/buergerservice/verwaltung/32-12-fahrerlaubnisbehoerde-900000753-30810.html) | City of Hannover | 2026-11-08 | ✅ Opened |
+| 4 | [hannover.gov.de – Conversion of third-country licences](https://hannover.gov.de/buergerservice/dienstleistungen/fahrerlaubnis-umschreibung-einer-sonstigen-auslaendischen-fahrerlaubnis-drittstaaten--900000272-0.html?myMedium=1) | City of Hannover | 2026-11-10 | ✅ Opened |
+| 5 | [hannover.de – Foreign driving licence](https://www.hannover.de/Leben-in-der-Region-Hannover/Mobilit%C3%A4t/Kraftfahrzeug-Stra%C3%9Fe/Fahrerlaubnis%C2%AD%C2%ADbeh%C3%B6rde-Region-Hannover/Ausl%C3%A4ndischer-F%C3%BChrerschein) | City and Region of Hannover | 2026-11-10 | ✅ Opened |
+| 6 | [hannover.gov.de – Driving licence office](https://hannover.gov.de/buergerservice/verwaltung/32-12-fahrerlaubnisbehoerde-900000753-30810.html) | City of Hannover | 2026-11-10 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

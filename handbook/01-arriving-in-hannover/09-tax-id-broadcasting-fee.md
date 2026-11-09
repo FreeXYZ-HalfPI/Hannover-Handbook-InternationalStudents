@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-10⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-10 · **Section:** [Section 1 — Arriving in Hannover & First Steps](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -64,14 +64,14 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [BZSt – Tax identification number](https://www.bzst.de/DE/Privatpersonen/SteuerlicheIdentifikationsnummer/steuerlicheidentifikationsnummer_node.html) | Federal Central Tax Office | 2026-11-08 | ✅ Opened |
-| 2 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 3 | [BZSt – FAQ](https://www.bzst.de/DE/Privatpersonen/SteuerlicheIdentifikationsnummer/FAQ/faq_node.html) | Federal Central Tax Office | 2026-11-08 | ✅ Opened |
-| 4 | [Rundfunkbeitrag – Students](https://www.rundfunkbeitrag.de/buergerinnen-und-buerger/informationen/informationen-fuer-studierende) | ARD ZDF Deutschlandradio Beitragsservice | 2026-11-08 | ✅ Opened |
-| 5 | [betanet](https://www.betanet.de/rundfunkbeitrag-befreiung-ermaessigung.html) | betanet.de — unofficial / secondary source | 2026-11-08 | ✅ Opened |
-| 6 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 7 | [Rundfunkbeitrag – Students and apprentices](https://www.rundfunkbeitrag.de/welcome/english/students-and-apprentices) | ARD ZDF Deutschlandradio Beitragsservice | 2026-11-08 | ✅ Opened |
-| 8 | [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/) | ARD ZDF Deutschlandradio Beitragsservice | 2026-11-08 | ✅ Opened |
+| 1 | [BZSt – Tax identification number](https://www.bzst.de/DE/Privatpersonen/SteuerlicheIdentifikationsnummer/steuerlicheidentifikationsnummer_node.html) | Federal Central Tax Office | 2026-11-10 | ✅ Opened |
+| 2 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 3 | [BZSt – FAQ](https://www.bzst.de/DE/Privatpersonen/SteuerlicheIdentifikationsnummer/FAQ/faq_node.html) | Federal Central Tax Office | 2026-11-10 | ✅ Opened |
+| 4 | [Rundfunkbeitrag – Students](https://www.rundfunkbeitrag.de/buergerinnen-und-buerger/informationen/informationen-fuer-studierende) | ARD ZDF Deutschlandradio Beitragsservice | 2026-11-10 | ✅ Opened |
+| 5 | [betanet](https://www.betanet.de/rundfunkbeitrag-befreiung-ermaessigung.html) | betanet.de — unofficial / secondary source | 2026-11-10 | ✅ Opened |
+| 6 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 7 | [Rundfunkbeitrag – Students and apprentices](https://www.rundfunkbeitrag.de/welcome/english/students-and-apprentices) | ARD ZDF Deutschlandradio Beitragsservice | 2026-11-10 | ✅ Opened |
+| 8 | [rundfunkbeitrag.de](https://www.rundfunkbeitrag.de/) | ARD ZDF Deutschlandradio Beitragsservice | 2026-11-10 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

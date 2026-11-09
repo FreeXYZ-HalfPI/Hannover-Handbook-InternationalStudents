@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-10⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-10 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -105,30 +105,30 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Studentenwerk](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-11-08 | ✅ Opened |
-| 2 | [hannover.gov.de](https://hannover.gov.de/buergerservice/dienstleistungen/anmeldung-einer-wohnung-zuzug-nach-hannover-900000016-0.html?myMedium=1) | City of Hannover | 2026-11-08 | ✅ Opened |
-| 3 | [§ 41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 4 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 5 | [German missions in Italy](https://italien.diplo.de/it-de/service/visa-aktuell/2586756-2586756) | Federal Foreign Office (German mission) | 2026-11-08 | ✅ Opened |
-| 6 | [LUH](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 7 | [LUH – Study costs](https://www.uni-hannover.de/studium/finanzierung-foerderung/studienkosten) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 8 | [BARMER](https://www.barmer.de/unsere-leistungen/beitraege-tarife/krankenversicherung-studierende) | BARMER | 2026-11-08 | ✅ Opened |
-| 9 | [§ 16b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 10 | [§ 81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 11 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 12 | [AStA](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-11-08 | ✅ Opened |
-| 13 | [ptb](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-11-08 | ✅ Opened |
+| 1 | [Studentenwerk](https://www.studentenwerk-hannover.de/en/international-students/first-steps-in-germany) | Studentenwerk Hannover | 2026-11-10 | ✅ Opened |
+| 2 | [hannover.gov.de](https://hannover.gov.de/buergerservice/dienstleistungen/anmeldung-einer-wohnung-zuzug-nach-hannover-900000016-0.html?myMedium=1) | City of Hannover | 2026-11-10 | ✅ Opened |
+| 3 | [§ 41 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__41.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
+| 4 | [LUH – Entry and Residence](https://www.uni-hannover.de/en/universitaet/internationales/wege-nach-hannover/einreise-aufenthalt) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 5 | [German missions in Italy](https://italien.diplo.de/it-de/service/visa-aktuell/2586756-2586756) | Federal Foreign Office (German mission) | 2026-11-10 | ✅ Opened |
+| 6 | [LUH](https://www.uni-hannover.de/en/studium/im-studium/organising-your-studies/rueckmeldung) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 7 | [LUH – Study costs](https://www.uni-hannover.de/studium/finanzierung-foerderung/studienkosten) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 8 | [BARMER](https://www.barmer.de/unsere-leistungen/beitraege-tarife/krankenversicherung-studierende) | BARMER | 2026-11-10 | ✅ Opened |
+| 9 | [§ 16b AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
+| 10 | [§ 81 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__81.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
+| 11 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 12 | [AStA](https://www.asta-hannover.de/semesterticket) | AStA Hannover | 2026-11-10 | ✅ Opened |
+| 13 | [ptb](https://www.ptb.uni-hannover.de/en/) | ptb – psychological counselling | 2026-11-10 | ✅ Opened |
 | 14 | [§ 29 FeV](https://www.gesetze-im-internet.de/fev_2010/__29.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 15 | [Make it in Germany](https://www.make-it-in-germany.com/en/visa-recognition/family-reunification/spouses-joining-non-eu-citizens) | Federal Government – Make it in Germany | 2026-11-08 | ✅ Opened |
-| 16 | [§ 20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 17 | [Federal Foreign Office](https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/schengen-207786) | Federal Foreign Office | 2026-11-08 | ✅ Opened |
-| 18 | [§ 19 BMG](https://www.gesetze-im-internet.de/bmg/__19.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 19 | [Zoll](https://www.zoll.de/EN/Private-individuals/Travel/Entering-Germany/Restrictions/Cash/cash_node.html) | German Customs | 2026-11-08 | ✅ Opened |
+| 15 | [Make it in Germany](https://www.make-it-in-germany.com/en/visa-recognition/family-reunification/spouses-joining-non-eu-citizens) | Federal Government – Make it in Germany | 2026-11-10 | ✅ Opened |
+| 16 | [§ 20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
+| 17 | [Federal Foreign Office](https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/schengen-207786) | Federal Foreign Office | 2026-11-10 | ✅ Opened |
+| 18 | [§ 19 BMG](https://www.gesetze-im-internet.de/bmg/__19.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
+| 19 | [Zoll](https://www.zoll.de/EN/Private-individuals/Travel/Entering-Germany/Restrictions/Cash/cash_node.html) | German Customs | 2026-11-10 | ✅ Opened |
 | 20 | [§ 31 ZKG](https://www.gesetze-im-internet.de/zkg/__31.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 21 | [§ 355 BGB](https://www.gesetze-im-internet.de/bgb/__355.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 22 | [Legal Clinic](https://www.jura.uni-hannover.de/de/legalclinic) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 23 | [LUH – Certification office](https://www.uni-hannover.de/universitaet/campus-stadt/beglaubigungsstelle) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 24 | [City of Hannover](https://hannover.gov.de/buergerservice/dienstleistungen/verpflichtungserklaerung-abgeben-1322-0.html?myMedium=1) | City of Hannover | 2026-11-08 | ✅ Opened |
+| 21 | [§ 355 BGB](https://www.gesetze-im-internet.de/bgb/__355.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
+| 22 | [Legal Clinic](https://www.jura.uni-hannover.de/de/legalclinic) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 23 | [LUH – Certification office](https://www.uni-hannover.de/universitaet/campus-stadt/beglaubigungsstelle) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 24 | [City of Hannover](https://hannover.gov.de/buergerservice/dienstleistungen/verpflichtungserklaerung-abgeben-1322-0.html?myMedium=1) | City of Hannover | 2026-11-10 | ✅ Opened |
 | 25 | [§ 5 SGB V](https://www.gesetze-im-internet.de/sgb_5/__5.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)

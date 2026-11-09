@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-10⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -19,7 +19,7 @@
 > This page is general information, not legal advice. Passport and legalisation rules are set by your own country and by the German mission there, and can change without notice.
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-10 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -74,12 +74,12 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [§ 56 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__56.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 2 | [Federal Foreign Office – Missions of other states in Germany](https://www.auswaertiges-amt.de/de/reiseundsicherheit/vertretungen-anderer-staaten) | Federal Foreign Office | 2026-11-08 | ✅ Opened |
-| 3 | [justiz-dolmetscher.de](https://www.justiz-dolmetscher.de/) | justiz-dolmetscher.de | 2026-11-08 | ✅ Opened |
-| 4 | [Federal Foreign Office – German missions abroad](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/deutsche-auslandsvertretungen/03-webseitenav) | Federal Foreign Office | 2026-11-08 | ✅ Opened |
-| 5 | [ZAB – Statement of comparability](https://zab.kmk.org/de/zeugnisbewertung/antrag) | KMK / ZAB | 2026-11-08 | ✅ Opened |
-| 6 | [LUH – Certification office](https://www.uni-hannover.de/universitaet/campus-stadt/beglaubigungsstelle) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
+| 1 | [§ 56 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__56.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
+| 2 | [Federal Foreign Office – Missions of other states in Germany](https://www.auswaertiges-amt.de/de/reiseundsicherheit/vertretungen-anderer-staaten) | Federal Foreign Office | 2026-11-10 | ✅ Opened |
+| 3 | [justiz-dolmetscher.de](https://www.justiz-dolmetscher.de/) | justiz-dolmetscher.de | 2026-11-10 | ✅ Opened |
+| 4 | [Federal Foreign Office – German missions abroad](https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/deutsche-auslandsvertretungen/03-webseitenav) | Federal Foreign Office | 2026-11-10 | ✅ Opened |
+| 5 | [ZAB – Statement of comparability](https://zab.kmk.org/de/zeugnisbewertung/antrag) | KMK / ZAB | 2026-11-10 | ✅ Opened |
+| 6 | [LUH – Certification office](https://www.uni-hannover.de/universitaet/campus-stadt/beglaubigungsstelle) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

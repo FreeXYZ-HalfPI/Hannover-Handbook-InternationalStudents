@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-10⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -19,7 +19,7 @@
 > This page is general information, not legal advice. The right residence permit depends on your personal situation; talk to the Ausländerbehörde before acting.
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 5 — Work, Finance & Career](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-10 · **Section:** [Section 5 — Work, Finance & Career](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -63,14 +63,14 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [Make it in Germany – Prospects after graduation](https://www.make-it-in-germany.com/en/study-vocational-training/studying-in-germany/prospects-after) | Federal Government – Make it in Germany | 2026-11-08 | ✅ Opened |
-| 2 | [§ 26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 3 | [§ 20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 4 | [§ 18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 5 | [Make it in Germany – EU Blue Card (PDF)](https://www.make-it-in-germany.com/pdf-blaue-karte-eu) | Federal Government – Make it in Germany | 2026-11-08 | ✅ Opened |
-| 6 | [§ 18c (2) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
-| 7 | [BAMF – Naturalisation in Germany](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/Einbuergerung/einbuergerung.html) | Federal Office for Migration and Refugees (BAMF) | 2026-11-08 | ✅ Opened (the former BMI page returned “page not found” after the BMI site redesign; replaced) |
-| 8 | [§ 45 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45.html) | Federal Ministry of Justice (law text) | 2026-11-08 | ✅ Opened |
+| 1 | [Make it in Germany – Prospects after graduation](https://www.make-it-in-germany.com/en/study-vocational-training/studying-in-germany/prospects-after) | Federal Government – Make it in Germany | 2026-11-10 | ✅ Opened |
+| 2 | [§ 26 BeschV](https://www.gesetze-im-internet.de/beschv_2013/__26.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
+| 3 | [§ 20 AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
+| 4 | [§ 18g AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
+| 5 | [Make it in Germany – EU Blue Card (PDF)](https://www.make-it-in-germany.com/pdf-blaue-karte-eu) | Federal Government – Make it in Germany | 2026-11-10 | ✅ Opened |
+| 6 | [§ 18c (2) AufenthG](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
+| 7 | [BAMF – Naturalisation in Germany](https://www.bamf.de/EN/Themen/Integration/ZugewanderteTeilnehmende/Einbuergerung/einbuergerung.html) | Federal Office for Migration and Refugees (BAMF) | 2026-11-10 | ✅ Opened (the former BMI page returned “page not found” after the BMI site redesign; replaced) |
+| 8 | [§ 45 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__45.html) | Federal Ministry of Justice (law text) | 2026-11-10 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 

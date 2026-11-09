@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-10⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -16,7 +16,7 @@
 <!-- disclaimer:end -->
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-10 · **Section:** [Section 4 — Everyday Life in Hannover](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -59,13 +59,13 @@ Every link on this page was checked on the access date; the result is in the las
 
 | # | Source | Publisher | Accessed | Result |
 |----|----|----|----|----|
-| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-08 | ✅ Opened |
-| 2 | [hannover.de – Hausmarke](https://www.hannover.de/Wirtschaft-Wissenschaft/Wissenschaft/Studieren-in-Hannover/Hausmarke) | City and Region of Hannover | 2026-11-08 | ✅ Opened |
-| 3 | [Studentenwerk – Save money](https://www.studentenwerk-hannover.de/en/money/save-money) | Studentenwerk Hannover | 2026-11-08 | ✅ Opened |
-| 4 | [Federal Environment Ministry – Single-use and reusable](https://www.bundesumweltministerium.de/faqs/einweg-und-mehrweg) | Federal Environment Ministry | 2026-11-08 | ✅ Opened |
-| 5 | [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/umwelt-haushalt/abfall/fragen-und-antworten-alles-zum-einwegpfand-und-dosenpfand-11505) | Verbraucherzentrale | 2026-11-08 | ✅ Opened |
-| 6 | [IHK Braunschweig – NLöffVZG](https://www.ihk.de/braunschweig/branchen/handel/einzelhandel/durchfuehrung-verkaufsoffener-sonntage-4500236) | ihk.de | 2026-11-08 | ✅ Opened |
-| 7 | [Save money](https://www.studentenwerk-hannover.de/en/geld/geld-sparen) | Studentenwerk Hannover | 2026-11-08 | ✅ Opened |
+| 1 | [LUH – Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
+| 2 | [hannover.de – Hausmarke](https://www.hannover.de/Wirtschaft-Wissenschaft/Wissenschaft/Studieren-in-Hannover/Hausmarke) | City and Region of Hannover | 2026-11-10 | ✅ Opened |
+| 3 | [Studentenwerk – Save money](https://www.studentenwerk-hannover.de/en/money/save-money) | Studentenwerk Hannover | 2026-11-10 | ✅ Opened |
+| 4 | [Federal Environment Ministry – Single-use and reusable](https://www.bundesumweltministerium.de/faqs/einweg-und-mehrweg) | Federal Environment Ministry | 2026-11-10 | ✅ Opened |
+| 5 | [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/umwelt-haushalt/abfall/fragen-und-antworten-alles-zum-einwegpfand-und-dosenpfand-11505) | Verbraucherzentrale | 2026-11-10 | ✅ Opened |
+| 6 | [IHK Braunschweig – NLöffVZG](https://www.ihk.de/braunschweig/branchen/handel/einzelhandel/durchfuehrung-verkaufsoffener-sonntage-4500236) | ihk.de | 2026-11-10 | ✅ Opened |
+| 7 | [Save money](https://www.studentenwerk-hannover.de/en/geld/geld-sparen) | Studentenwerk Hannover | 2026-11-10 | ✅ Opened |
 
 ## 7. Student experiences (unofficial)
 
