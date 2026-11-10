@@ -22,6 +22,7 @@ The first administrative tasks, in the order you actually need to do them: from 
 
 ## Pages in this section
 
+- [0. First 14 days checklist](00-first-14-days-checklist.md) — the order of your first two weeks, with a link to each task's page
 - [1. Applying, uni-assist and recognition of your certificates](01-application-uni-assist.md) — deadlines, uni-assist/VPD, anabin, Studienkolleg and ZAB
 - [2. Before you arrive](02-before-arrival-visa.md) — visa by nationality, blocked account, insurance, what to bring
 - [3. Arriving in Hannover](03-arrival-transport.md) — from the airport or station to the university; tickets for the first days

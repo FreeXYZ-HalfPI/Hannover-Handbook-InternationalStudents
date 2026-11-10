@@ -17,24 +17,24 @@ This page says what the handbook is for, what we want it to reach and where we a
 
 | Measure | Status |
 |---|---|
-| Content pages | 68 |
+| Content pages | 69 (including the first-14-days checklist) |
 | Content size | about 67,000 words |
 | External links checked | 342; 321 answered 200 |
 | Links with a problem | 6 blocked or failing: `esn.org`, `github.com/signup`, 116117 appointments, Goethe-Institut, TestDaF (HTTP 500), LinkedIn |
 | Links that only look broken | 15 `gesetze-im-internet.de` addresses did not answer from the check machine but open in a browser |
-| Open ⚠️ items | about 59 on 36 pages, not yet tracked in issues |
+| Open ⚠️ items | 56 on 33 pages, tracked in issues #2 to #34 |
 | Automatic link check | every Monday with GitHub Actions; result in issue #1 |
 | Website | live; rebuilt on every change |
 
 ## 4. Goals and plan
 
 ### Goal 1 — a clear path for the first weeks
-- ⬜ A "first 14 days" checklist page that links every task to its page (the Persian handbook already has one).
+- ✅ Page 0: a "first 14 days" checklist that links every task to its page.
 
 ### Goal 2 — no open ⚠️ items
-- **Measure:** number of open ⚠️ items; today about 59, target 0 (or each with a clear reason "no official source").
+- **Measure:** number of open ⚠️ items; today 56, target 0 (or each with a clear reason "no official source").
 - **Method:** one issue per page with the label `needs-verification`; a volunteer takes it, adds the official source and removes the ⚠️.
-- ⬜ Create these issues (the Persian handbook has done this: issues #8 to #28).
+- ✅ One issue per page (#2 to #34), labelled `needs-verification` and `needs-owner`.
 - ⬜ Assign an owner for each issue.
 
 ### Goal 3 — healthy links
@@ -70,7 +70,7 @@ Start any of them with the "Suggest a new topic" issue template.
 
 ## 5. How can I help?
 
-- Take a ⚠️ item once the issues exist, or fix one directly with a pull request.
+- Take a ⚠️ item: [issues labelled `needs-verification`](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-verification), or fix one directly with a pull request.
 - Suggest a topic: [new issue](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/issues/new/choose)
 - Writing rules: [CONTRIBUTING.md](CONTRIBUTING.md)
 

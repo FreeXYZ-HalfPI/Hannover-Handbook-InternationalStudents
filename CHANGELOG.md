@@ -8,6 +8,8 @@ To stay informed: check this page, click **Watch** on GitHub (or Watch → Custo
 ## 2026-11-10 — Goals and link re-check
 
 - **New [ROADMAP.md](ROADMAP.md):** main goal, principles, today's figures and seven goals with open tasks; linked from the README and CONTRIBUTING.
+- **New page 0 — First 14 days checklist:** the order of the first two weeks with a link to each task's page; added to the Section 1 contents and the README.
+- **⚠️ tracking:** 33 issues (#2 to #34) cover the 56 open ⚠️ items, labelled `needs-verification` and `needs-owner`.
 - **All external links re-checked** (342 checked, 321 answered 200; access dates are now 2026-11-10). The remaining failures are blocked or unreachable sites: `esn.org`, `github.com/signup`, 116117 appointments, Goethe-Institut, TestDaF (HTTP 500) and LinkedIn; 15 `gesetze-im-internet.de` addresses did not answer from the check machine but open in a browser.
 - **AStA refund row (30):** one link still pointed to the 404 "translate-to-english-semesterticket" address; it now points to the current Semester ticket page.
 

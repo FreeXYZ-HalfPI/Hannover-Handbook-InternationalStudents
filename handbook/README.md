@@ -69,6 +69,7 @@ The last review date of each page is in the green box at the top.
 
 ### [Section 1 — Arriving in Hannover & First Steps](01-arriving-in-hannover/README.md)
 
+- [0. First 14 days checklist](01-arriving-in-hannover/00-first-14-days-checklist.md)
 - [1. Applying, uni-assist and recognition of your certificates](01-arriving-in-hannover/01-application-uni-assist.md)
 - [2. Before you arrive — visa, proof of finances and preparation](01-arriving-in-hannover/02-before-arrival-visa.md)
 - [3. Arriving in Hannover and getting around](01-arriving-in-hannover/03-arrival-transport.md)

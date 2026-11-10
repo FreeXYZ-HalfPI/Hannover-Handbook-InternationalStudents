@@ -35,7 +35,7 @@ Each topic has one page, and every page follows the same structure: purpose, who
 
 | Section | Pages |
 |---|---|
-| [1 — Arriving in Hannover & First Steps](handbook/01-arriving-in-hannover/README.md) | 1–11 |
+| [1 — Arriving in Hannover & First Steps](handbook/01-arriving-in-hannover/README.md) | 0–11 |
 | [2 — Starting Your Studies at LUH](handbook/02-starting-your-studies/README.md) | 12–20 |
 | [3 — University Services & Student Support](handbook/03-university-services/README.md) | 21–29 |
 | [4 — Everyday Life in Hannover](handbook/04-everyday-life/README.md) | 30–39 |
