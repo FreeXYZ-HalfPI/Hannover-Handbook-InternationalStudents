@@ -35,7 +35,7 @@ This page says what the handbook is for, what we want it to reach and where we a
 - **Measure:** number of open ⚠️ items; today 56, target 0 (or each with a clear reason "no official source").
 - **Method:** one issue per page with the label `needs-verification`; a volunteer takes it, adds the official source and removes the ⚠️.
 - ✅ One issue per page (#2 to #34), labelled `needs-verification` and `needs-owner`.
-- ⬜ Assign an owner for each issue.
+- ✅ Every issue has an owner (the `needs-owner` label is removed); anyone can take an issue over.
 
 ### Goal 3 — healthy links
 - **Measure:** failing links other than bot blocking; today 6, all known.
