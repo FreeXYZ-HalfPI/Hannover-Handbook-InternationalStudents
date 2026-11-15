@@ -107,3 +107,6 @@ body[data-md-color-scheme="slate"] {
 /* Comment box under the student experiences. */
 .isl-comments { margin-top: 1.5rem; padding: 0.8rem 1rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 0.6rem; }
 .isl-comments .utterances { max-width: 100%; }
+
+/* After the comment box has loaded, the button that loaded it goes away. */
+.md-typeset .isl-comments-load[hidden] { display: none !important; }
