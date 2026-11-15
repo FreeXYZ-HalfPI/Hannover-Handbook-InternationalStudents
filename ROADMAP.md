@@ -60,7 +60,7 @@ Start any of them with the "Suggest a new topic" issue template.
 - ⬜ Reviewers who recently went through the same process.
 
 ### Goal 6 — trust and review
-- ⬜ A reviewer for each legal or administrative page.
+- 🟨 A reviewer for each legal or administrative page: the process and table exist ([REVIEWERS.md](REVIEWERS.md)); the reviewer column is still empty.
 - ⬜ A language review of the English text.
 - ⬜ Release v1.1.0 with the PDF.
 

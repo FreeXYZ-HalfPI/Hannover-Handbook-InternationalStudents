@@ -10,7 +10,8 @@ To stay informed: check this page, click **Watch** on GitHub (or Watch → Custo
 - **Secondary source replaced (page 40):** the iww.de article behind the minijob limit is replaced by the Minijob-Zentrale page, which states €603 per month and €7,236 per year.
 - **Blocked account by embassy (page 2):** the German Embassy Tehran's study leaflet describes a signed Sperrkontoerklärung with the account opened after arrival, and the Federal Foreign Office says citizens of Iran, Sudan, North Korea and Syria must apply for the visa first. A warning was added that procedures differ by embassy; check your embassy's current rules.
 
-## 2026-11-15 — Honest dates and one checklist
+- **Reviewers:** new [REVIEWERS.md](REVIEWERS.md) lists every page with its last review date and open ⚠️ items and a column for the reviewer's name; `tools/reviewers.py` rebuilds it and keeps typed names. A "Become a reviewer" issue form was added.
+
 
 - **"Last reviewed" dates corrected.** Every link check used to set the review date of 69 pages although nobody had re-read the content. The dates are now rebuilt from Git history (the last real content change of each page: 2026-10-24 to 2026-11-10). `tools/refresh.py` no longer touches this date; it only updates the source access dates.
 - **Page 0 (first 14 days checklist) removed:** it overlapped with [page 54](handbook/07-resources/54-checklist.md) and disagreed with it on the order of tasks. Page 54 is the single timed checklist.
