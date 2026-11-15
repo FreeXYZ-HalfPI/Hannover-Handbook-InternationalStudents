@@ -9,6 +9,7 @@ To stay informed: check this page, click **Watch** on GitHub (or Watch → Custo
 
 - **Page 54:** a "First week: do these 5 things first" box now opens the checklist (the same five tasks as the "First week" list on that page, each linked to its page); the "Where do I start?" button on the start page leads here.
 - **v1.1.1 and the PDF in Releases:** the PDF is no longer committed (every rebuild added about 6 MB to the history); download links use `releases/latest/download/` and download directly. Steps for cutting a release are in CONTRIBUTING. (v1.1.0 of this repository was used by an empty first attempt and cannot be reused, so this is v1.1.1.)
+- **Code of Conduct:** [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) added.
 - **New look for the website:** the start page has a hero (title, short intro, "Where do I start?" and PDF buttons, page count) and section cards; every page gets a one-line header for the review date and section, bolder titles, striped tables, rounder boxes and dates that no longer break across lines; calmer blue palette with a bluer dark mode, font Inter. The Markdown files are unchanged (`tools/mkdocs_hooks.py`, `handbook/assets/site.css`, `mkdocs.yml`).
 - **Page 35 sources:** the VHS Hannover site answered HTTP 504 on 2026-11-15 (down for everyone), so its three source rows are marked as failing and the page warns readers to confirm before they go. TestDaF's English start page returned HTTP 500/503; the page now links the working German page. Goethe-Institut only blocks scripts and opens in a browser.
 
