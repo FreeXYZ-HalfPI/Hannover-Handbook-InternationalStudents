@@ -17,7 +17,7 @@ This page says what the handbook is for, what we want it to reach and where we a
 
 | Measure | Status |
 |---|---|
-| Content pages | 69 (including the first-14-days checklist) |
+| Content pages | 68 |
 | Content size | about 67,000 words |
 | External links checked | 342; 321 answered 200 |
 | Links with a problem | 6 blocked or failing: `esn.org`, `github.com/signup`, 116117 appointments, Goethe-Institut, TestDaF (HTTP 500), LinkedIn |
@@ -29,7 +29,7 @@ This page says what the handbook is for, what we want it to reach and where we a
 ## 4. Goals and plan
 
 ### Goal 1 — a clear path for the first weeks
-- ✅ Page 0: a "first 14 days" checklist that links every task to its page.
+- ✅ A timed checklist (before you travel, first week, first month, first semester, end of studies) on [page 54](handbook/07-resources/54-checklist.md).
 
 ### Goal 2 — no open ⚠️ items
 - **Measure:** number of open ⚠️ items; today 56, target 0 (or each with a clear reason "no official source").

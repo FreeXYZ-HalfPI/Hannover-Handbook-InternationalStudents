@@ -5,6 +5,11 @@ To stay informed: check this page, click **Watch** on GitHub (or Watch → Custo
 > [!CAUTION]
 > This handbook is guidance based on students' experience and may be out of date. ISL accepts no responsibility for its currency.
 
+## 2026-11-15 — Honest dates and one checklist
+
+- **"Last reviewed" dates corrected.** Every link check used to set the review date of 69 pages although nobody had re-read the content. The dates are now rebuilt from Git history (the last real content change of each page: 2026-10-24 to 2026-11-10). `tools/refresh.py` no longer touches this date; it only updates the source access dates.
+- **Page 0 (first 14 days checklist) removed:** it overlapped with [page 54](handbook/07-resources/54-checklist.md) and disagreed with it on the order of tasks. Page 54 is the single timed checklist.
+
 ## 2026-11-10 — Goals and link re-check
 
 - **New [ROADMAP.md](ROADMAP.md):** main goal, principles, today's figures and seven goals with open tasks; linked from the README and CONTRIBUTING.

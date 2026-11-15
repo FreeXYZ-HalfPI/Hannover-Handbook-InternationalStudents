@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ Last updated: ⁦2026-11-10⁩
+> ### 🗓️ Last updated: ⁦2026-10-26⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -22,7 +22,6 @@ The first administrative tasks, in the order you actually need to do them: from 
 
 ## Pages in this section
 
-- [0. First 14 days checklist](00-first-14-days-checklist.md) — the order of your first two weeks, with a link to each task's page
 - [1. Applying, uni-assist and recognition of your certificates](01-application-uni-assist.md) — deadlines, uni-assist/VPD, anabin, Studienkolleg and ZAB
 - [2. Before you arrive](02-before-arrival-visa.md) — visa by nationality, blocked account, insurance, what to bring
 - [3. Arriving in Hannover](03-arrival-transport.md) — from the airport or station to the university; tickets for the first days
