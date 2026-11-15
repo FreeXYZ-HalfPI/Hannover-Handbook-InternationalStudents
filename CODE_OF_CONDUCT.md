@@ -9,4 +9,6 @@ This handbook exists to help new students. Everyone who takes part — in issues
 
 **What happens if the rules are broken:** the maintainers may edit, hide or delete contributions, lock a discussion and block accounts. Serious cases (threats, doxxing) are reported to GitHub.
 
+Rules for the website comment box: [COMMENTS.md](COMMENTS.md).
+
 **Report a problem:** open an [issue](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/issues/new/choose) or write in the [ISL Telegram channel](https://t.me/hannover_iranian_students). Reports about a comment can also use the "Report" function on GitHub.

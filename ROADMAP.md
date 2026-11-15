@@ -65,6 +65,7 @@ Start any of them with the "Suggest a new topic" issue template.
 - ✅ Release v1.1.1 published with the PDF attached (v1.1.0 was burned by an empty first attempt; immutable releases cannot reuse a tag).
 
 ### Goal 7 — both languages in step
+- ✅ Comment box under *Student experiences* (rules in [COMMENTS.md](COMMENTS.md)); it needs the utterances GitHub app on this repository.
 - ⬜ Keep this handbook in step with the Persian one (headings and links).
 - ⬜ An automatic check for differences between the two repositories.
 

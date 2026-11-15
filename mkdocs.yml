@@ -57,6 +57,9 @@ hooks:
 extra_css:
   - assets/site.css
 
+extra_javascript:
+  - assets/comments.js
+
 extra:
   social:
     - icon: fontawesome/brands/telegram

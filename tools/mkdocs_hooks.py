@@ -8,6 +8,9 @@ The files stay written for GitHub; only the built site changes:
   with its warning and last-updated date kept in the visible title.
 - Links that leave handbook/ (CHANGELOG, LICENSE, README, the PDF) point to
   GitHub; the Handbook Searcher is copied into the site under searcher/.
+- Under "7. Student experiences" on every page a comment box is added
+  (utterances, assets/comments.js, loaded only after a click): comments are stored
+  as GitHub issue comments in this repository.
 - Section titles in the navigation come from each section's README heading;
   the start page is called "Home".
 """
@@ -155,11 +158,32 @@ def on_page_markdown(markdown, page, config, files, **kwargs):
     return LINK.sub(_outside_link(page, config), markdown)
 
 
+EXPERIENCES = re.compile(r'<h2 id="[^"]*">\s*7\.\s*Student experiences.*?</h2>', re.S)
+
+COMMENTS = """
+<div class="isl-comments" id="isl-comments" data-repo="{repo}">
+<p><strong>💬 Your experience or comment</strong></p>
+<p>Write your experience, tip or correction about this page here. Your comment is <strong>public</strong> and appears under <strong>your GitHub username</strong> as a comment in the <a href="{github}/issues?q=is%3Aissue+label%3A%22%F0%9F%92%AC+comments%22">issues of this repository</a>; the team sees it. Do not post personal data (addresses, case or passport numbers) or identifying details on sensitive topics (consulate, military service, residence status). <a href="{github}/blob/main/COMMENTS.md">Comment rules</a>.</p>
+<p><em>This section is unofficial: every comment is one person's experience, not law and not official advice. Please give the year and, if you can, the source.</em></p>
+<p><button type="button" class="md-button md-button--primary isl-comments-load">💬 Show comments and write one</button><br><small>When you click, your browser connects to utteranc.es and GitHub; nothing is sent before that. A GitHub account is needed; without one, use the <a href="{form}">experience form</a>.</small></p>
+<div class="isl-comments-box"></div>
+<noscript><p>Comments need JavaScript; or use the <a href="{form}">experience form</a>.</p></noscript>
+</div>
+"""
+
+
 def on_page_content(html, page, config, files, **kwargs):
-    """The start page gets a hero and section cards instead of its plain title."""
+    """The start page gets a hero and section cards; every page gets a comment box under its experiences."""
     if page.file.src_uri == "README.md":
         html = re.sub(r"<h1[^>]*>.*?</h1>", lambda m: _hero(), html, count=1, flags=re.S)
-    return html
+    heading = EXPERIENCES.search(html)
+    if not heading:
+        return html
+    nxt = html.find("<h2", heading.end())
+    cut = len(html) if nxt == -1 else nxt
+    form = f"{GITHUB}/issues/new?template=experience.md&title=%5Bhandbook/{page.file.src_uri}%5D%20"
+    box = COMMENTS.format(repo=GITHUB.split("github.com/")[1], github=GITHUB, form=form)
+    return html[:cut] + box + html[cut:]
 
 
 def on_nav(nav, config, files, **kwargs):
