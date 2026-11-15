@@ -62,7 +62,7 @@ Start any of them with the "Suggest a new topic" issue template.
 ### Goal 6 — trust and review
 - 🟨 A reviewer for each legal or administrative page: the process and table exist ([REVIEWERS.md](REVIEWERS.md)); the reviewer column is still empty.
 - ⬜ A language review of the English text.
-- ⬜ Release v1.1.0 with the PDF.
+- ✅ Release v1.1.1 published with the PDF attached (v1.1.0 was burned by an empty first attempt; immutable releases cannot reuse a tag).
 
 ### Goal 7 — both languages in step
 - ⬜ Keep this handbook in step with the Persian one (headings and links).

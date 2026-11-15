@@ -18,7 +18,7 @@
 > [!TIP]
 > **A step-by-step guide for international students of Leibniz University Hannover (LUH) — from every country.** · Whole handbook last reviewed: 2026-10-26
 
-> 📥 **[Download the whole handbook as one PDF](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/raw/main/pdf/Hannover-Handbook-International-Students.pdf)** — it downloads straight away.
+> 📥 **[Download the whole handbook as one PDF](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/releases/latest/download/Hannover-Handbook-International-Students.pdf)** — it downloads straight away.
 
 ## What is this handbook?
 

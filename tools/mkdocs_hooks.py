@@ -83,7 +83,7 @@ def _outside_link(page, config):
         if rel.startswith("search/"):
             url = config["site_url"].rstrip("/") + "/searcher/"
         elif rel.endswith(".pdf"):
-            url = f"{GITHUB}/raw/main/{rel}"
+            url = f"{GITHUB}/releases/latest/download/{rel.rsplit('/', 1)[-1]}"
         else:
             url = f"{GITHUB}/blob/main/{rel}"
         return f"{match.group(1)}{url}{anchor})"
@@ -124,7 +124,7 @@ def _meta_alert(kind, body):
 
 
 def _hero():
-    pdf = f"{GITHUB}/raw/main/pdf/{HERO['pdf']}"
+    pdf = f"{GITHUB}/releases/latest/download/{HERO['pdf']}"
     pages = sum(c[2] for c in _cards)
     cards = "".join(
         f'<a class="isl-card" href="{url}"><span class="isl-card__icon">{icon}</span>'

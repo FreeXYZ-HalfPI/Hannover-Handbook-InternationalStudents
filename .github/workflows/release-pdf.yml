@@ -2,6 +2,10 @@
 # Copyleft 🄯 2026 ISL and contributors
 # When a release is published, build the PDF from that release's text and attach
 # it to the release, so every version has a matching PDF.
+# Repositories with immutable releases refuse uploads after publishing. There,
+# cut the release as a DRAFT, upload the PDF (the artifact of this workflow, run
+# by hand, or `python3 tools/build_pdf.py`) and then publish (see CONTRIBUTING.md).
+# The upload step therefore does not fail the run.
 name: Release PDF
 
 on:
@@ -26,6 +30,7 @@ jobs:
         run: python3 tools/build_pdf.py Hannover-Handbook-International-Students.pdf
       - name: Attach the PDF to the release
         if: github.event_name == 'release'
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh release upload "${{ github.event.release.tag_name }}" Hannover-Handbook-International-Students.pdf --clobber

@@ -4,7 +4,7 @@
 
 🌐 **Read online:** [freexyz-halfpi.github.io/Hannover-Handbook-InternationalStudents](https://freexyz-halfpi.github.io/Hannover-Handbook-InternationalStudents/)
 
-📥 **Download the PDF:** [Hannover-Handbook-International-Students.pdf](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/raw/main/pdf/Hannover-Handbook-International-Students.pdf)
+📥 **Download the PDF:** [Hannover-Handbook-International-Students.pdf](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/releases/latest/download/Hannover-Handbook-International-Students.pdf)
 
 A practical, step-by-step handbook in English for **international students from every country** at Leibniz University Hannover (LUH): from applying while still at home, to arriving in Hannover, studying, working, and staying after graduation. Open to everyone's contributions.
 
@@ -14,7 +14,7 @@ A practical, step-by-step handbook in English for **international students from 
 
 🏷️ **Latest release (PDF):** [v1.0.0](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/releases/latest)
 
-📄 **PDF:** [pdf/Hannover-Handbook-International-Students.pdf](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/raw/main/pdf/Hannover-Handbook-International-Students.pdf)
+📄 **PDF:** [pdf/Hannover-Handbook-International-Students.pdf](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/releases/latest/download/Hannover-Handbook-International-Students.pdf)
 
 🔎 **Search both handbooks:** [search/index.html](search/index.html) (download the repository and open it in your browser) or `python3 tools/search.py your words`
 
@@ -62,7 +62,7 @@ Everyone can help: correct a figure or deadline, report a broken link, add a per
 | Path | Content |
 |---|---|
 | `handbook/` | The handbook: one Markdown file per topic, one folder per section |
-| `pdf/` | The printable PDF, built from `handbook/` |
+| `pdf/` | Where `tools/build_pdf.py` writes the PDF; the file is not committed — download it from [Releases](https://github.com/FreeXYZ-HalfPI/Hannover-Handbook-InternationalStudents/releases) |
 | `tools/check_links.sh` | Checks every external link in `handbook/` and writes `link-report.tsv` |
 | `tools/refresh.py` | Re-checks all links, sets the access date of sources that answer 200 (never the review date, which a person sets after re-reading a page), refreshes the page boxes; `--build` also rebuilds the search index and PDF |
 | `tools/reviewers.py` | Rebuilds REVIEWERS.md (page, last review date, open ⚠️ items, reviewer) and keeps typed names |
