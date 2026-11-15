@@ -18,6 +18,18 @@
 > [!TIP]
 > **Last reviewed:** 2026-10-24 · **Section:** [Section 7 — Resources & Appendices](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
+> [!IMPORTANT]
+> ### 🚀 First week: do these 5 things first
+>
+> 1. **Get the landlord's confirmation (Wohnungsgeberbestätigung)** → [5. Registering your address](../01-arriving-in-hannover/05-anmeldung.md)
+> 2. **Book and attend the Anmeldung** — within two weeks of moving in → [5. Registering your address](../01-arriving-in-hannover/05-anmeldung.md)
+> 3. **Buy a SIM card** so the bank, insurer and offices can reach you → [8. SIM card and internet](../01-arriving-in-hannover/08-sim-internet.md)
+> 4. **Join statutory health insurance** and have the M10 sent → [7. Health insurance](../01-arriving-in-hannover/07-health-insurance.md)
+> 5. **Complete your final enrolment** → [12. Enrolment](../02-starting-your-studies/12-admission-enrolment.md)
+>
+> **Then (first month):** open a bank account and, if you are not an EU citizen, apply for your residence permit before your visa expires. The full list is further down this page.
+<!-- keep in sync with the "First week" list below -->
+
 ## 1. Purpose
 
 An ordered checklist of essential tasks from before departure to the end of your first semester; each item links to its full page. Based on the [university's Study checklist](https://www.uni-hannover.de/en/studium/im-studium/start-ins-studium/study-checklist) and the pages of this handbook.

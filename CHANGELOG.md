@@ -7,6 +7,7 @@ To stay informed: check this page, click **Watch** on GitHub (or Watch → Custo
 
 ## 2026-11-15 — New look, official sources, reviewers and honest dates
 
+- **Page 54:** a "First week: do these 5 things first" box now opens the checklist (the same five tasks as the "First week" list on that page, each linked to its page); the "Where do I start?" button on the start page leads here.
 - **New look for the website:** the start page has a hero (title, short intro, "Where do I start?" and PDF buttons, page count) and section cards; every page gets a one-line header for the review date and section, bolder titles, striped tables, rounder boxes and dates that no longer break across lines; calmer blue palette with a bluer dark mode, font Inter. The Markdown files are unchanged (`tools/mkdocs_hooks.py`, `handbook/assets/site.css`, `mkdocs.yml`).
 - **Page 35 sources:** the VHS Hannover site answered HTTP 504 on 2026-11-15 (down for everyone), so its three source rows are marked as failing and the page warns readers to confirm before they go. TestDaF's English start page returned HTTP 500/503; the page now links the working German page. Goethe-Institut only blocks scripts and opens in a browser.
 
