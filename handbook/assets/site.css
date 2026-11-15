@@ -10,3 +10,96 @@
 
 /* The disclaimer box on top of every page: keep its title readable when collapsed. */
 .md-typeset details.isl-disclaimer > summary { font-weight: 700; }
+
+/* ===== Look and feel ===================================================== */
+
+/* Calmer palette: a deep blue header, amber accent. Works in light and dark. */
+body[data-md-color-primary="indigo"] {
+  --md-primary-fg-color: #1d4e89;
+  --md-primary-fg-color--light: #4a78b3;
+  --md-primary-fg-color--dark: #14395f;
+  --md-accent-fg-color: #b45f06;
+  --isl-hero-a: #1d4e89;
+  --isl-hero-b: #2f7d8c;
+}
+body[data-md-color-scheme="slate"] {
+  --md-hue: 215;
+  --md-accent-fg-color: #f0a33a;
+  --md-primary-fg-color: #1a3f6b;
+  --isl-hero-a: #1a3f6b;
+  --isl-hero-b: #1f5f6b;
+}
+.md-header { box-shadow: 0 1px 0 rgba(0, 0, 0, 0.08); }
+
+/* Reading comfort */
+.md-typeset { font-size: 0.82rem; line-height: 1.85; }
+.md-typeset h1 { font-weight: 700; font-size: 1.7em; letter-spacing: 0; color: var(--md-default-fg-color); margin-bottom: 0.9em; }
+.md-typeset h2 { font-weight: 700; margin-top: 2em; padding-bottom: 0.25em; border-bottom: 1px solid var(--md-default-fg-color--lightest); }
+.md-typeset h3 { font-weight: 600; }
+.md-typeset a { text-underline-offset: 0.18em; }
+
+/* Quiet one-line header under each page title (reviewed, section, accessed) */
+.md-typeset p.isl-meta { margin: -0.4em 0 0.2em; font-size: 0.72rem; color: var(--md-default-fg-color--light); line-height: 1.6; }
+.md-typeset p.isl-legend { margin: 0 0 1.2em; padding-bottom: 0.7em; font-size: 0.68rem; color: var(--md-default-fg-color--lighter); border-bottom: 1px dashed var(--md-default-fg-color--lightest); }
+
+/* Disclaimer: visible but not shouting */
+.md-typeset details.isl-disclaimer { border-radius: 0.6rem; margin-bottom: 1rem; font-size: 0.74rem; box-shadow: none; }
+.md-typeset details.isl-disclaimer > summary { font-size: 0.74rem; padding-block: 0.45rem; }
+
+/* Admonitions: rounder, flatter */
+.md-typeset .admonition, .md-typeset details { border-radius: 0.6rem; box-shadow: none; }
+
+/* Tables: header tint, zebra rows, rounded frame */
+.md-typeset table:not([class]) { border-radius: 0.6rem; border: 1px solid var(--md-default-fg-color--lightest); font-size: 0.74rem; box-shadow: none; }
+.md-typeset table:not([class]) th { background: color-mix(in srgb, var(--md-primary-fg-color) 10%, transparent); font-weight: 700; }
+.md-typeset table:not([class]) tbody tr:nth-child(even) { background: color-mix(in srgb, var(--md-default-fg-color) 3%, transparent); }
+.md-typeset table:not([class]) td, .md-typeset table:not([class]) th { padding: 0.55em 0.8em; }
+
+/* Home page hero */
+.md-typeset .isl-hero {
+  margin: 0.2rem 0 1.6rem;
+  padding: 2rem 1.6rem 1.6rem;
+  border-radius: 1rem;
+  color: #fff;
+  background: linear-gradient(135deg, var(--isl-hero-a), var(--isl-hero-b));
+}
+.md-typeset .isl-hero p { margin: 0; color: inherit; }
+.md-typeset .isl-hero h1 { color: #fff; font-size: 2rem; line-height: 1.35; margin: 0.4rem 0 0.2rem; }
+.md-typeset .isl-hero__eyebrow { font-size: 0.74rem; opacity: 0.85; }
+.md-typeset .isl-hero__sub { font-size: 0.9rem; opacity: 0.85; text-align: start; }
+.md-typeset .isl-hero__lead { font-size: 0.95rem; max-width: 42rem; margin-top: 0.9rem !important; line-height: 1.8; }
+.md-typeset .isl-hero__actions { margin-top: 1.2rem !important; display: flex; flex-wrap: wrap; gap: 0.6rem; }
+.md-typeset .isl-hero .md-button { background: #fff; color: #14395f; border: 2px solid #fff; border-radius: 0.6rem; font-weight: 700; margin: 0; }
+.md-typeset .isl-hero .md-button:hover { background: transparent; color: #fff; }
+.md-typeset .isl-hero .md-button--ghost { background: transparent; color: #fff; border-color: rgba(255, 255, 255, 0.7); }
+.md-typeset .isl-hero .md-button--ghost:hover { background: #fff; color: #14395f; }
+.md-typeset .isl-hero__stats { margin-top: 1.3rem !important; display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; font-size: 0.76rem; opacity: 0.92; }
+.md-typeset .isl-hero__stats strong { font-size: 1.05rem; }
+
+/* Section cards */
+.md-typeset .isl-cards-title { border: 0; margin: 0 0 0.6rem; font-size: 1.15em; }
+.md-typeset .isl-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(14.5rem, 1fr)); gap: 0.75rem; margin-bottom: 1.6rem; }
+.md-typeset a.isl-card {
+  display: flex; flex-direction: column; gap: 0.15rem;
+  padding: 0.9rem 1rem; border-radius: 0.8rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color); text-decoration: none;
+  transition: transform 0.12s ease, border-color 0.12s ease, box-shadow 0.12s ease;
+}
+.md-typeset a.isl-card:hover { transform: translateY(-2px); border-color: var(--md-accent-fg-color); box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1); }
+.isl-card__icon { font-size: 1.5rem; line-height: 1.2; }
+.isl-card__title { font-weight: 700; line-height: 1.5; }
+.isl-card__meta { font-size: 0.7rem; color: var(--md-default-fg-color--light); }
+
+/* Phones */
+@media (max-width: 44.9375em) {
+  .md-typeset .isl-hero { padding: 1.3rem 1rem 1.1rem; border-radius: 0.8rem; }
+  .md-typeset .isl-hero h1 { font-size: 1.45rem; }
+  .md-typeset .isl-cards { grid-template-columns: 1fr 1fr; }
+  .md-typeset a.isl-card { padding: 0.7rem 0.8rem; }
+}
+@media (max-width: 30em) { .md-typeset .isl-cards { grid-template-columns: 1fr; } }
+
+/* Print / PDF-like view: no decoration */
+@media print { .md-typeset .isl-hero { background: none; color: inherit; border: 1px solid #999; } .md-typeset .isl-hero h1 { color: inherit; } }

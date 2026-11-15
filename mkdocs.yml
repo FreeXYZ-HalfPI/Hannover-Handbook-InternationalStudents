@@ -20,6 +20,9 @@ site_dir: site
 theme:
   name: material
   language: en
+  font:
+    text: Inter
+    code: Roboto Mono
   icon:
     logo: material/book-open-page-variant
   palette:
