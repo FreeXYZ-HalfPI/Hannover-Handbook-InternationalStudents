@@ -6,7 +6,7 @@
 >
 > **Rules, amounts, deadlines and procedures can change at any time without notice.** The Iranian Student Association of Leibniz University Hannover (ISL) and the authors of this handbook accept **no responsibility** for the accuracy, completeness or currency of the content, or for the consequences of using it. Check with the responsible official office before you act; it always has the final word.
 >
-> ### 🗓️ This page was last updated: ⁦2026-11-08⁩
+> ### 🗓️ This page was last updated: ⁦2026-11-15⁩
 >
 > Stay informed about changes: [changelog](../../CHANGELOG.md) · click **Watch** on GitHub · [ISL Telegram channel](https://t.me/hannover_iranian_students)
 >
@@ -19,7 +19,7 @@
 > This page is general information, not legal or tax advice. Work rules for non-EU students depend on your residence permit; check with the Ausländerbehörde before starting a job.
 
 > [!TIP]
-> **Last reviewed:** 2026-11-08 · **Section:** [Section 5 — Work, Finance & Career](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
+> **Last reviewed:** 2026-11-15 · **Section:** [Section 5 — Work, Finance & Career](README.md) · **Key:** ⚠️ = needs confirmation · ℹ️ = note · 🌍 = depends on your nationality
 
 ## 1. Purpose
 
@@ -41,7 +41,7 @@ This page explains the types of student jobs (HiWi, Werkstudent, Minijob) and th
 6.  **Types of jobs:**
     - **HiWi (studentische Hilfskraft):** student assistant at a university institute; ads on institute websites and the [university job page](https://www.uni-hannover.de/en/universitaet/stellenangebote-arbeit-an-der-uni).
     - **Werkstudent:** subject-related work at companies, usually at most 20 hours per week during the semester.
-    - **Minijob:** earnings up to **€603 per month** in 2026 (€7,236 per year) ([Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Arbeitgeber-und-Steuerberater/summa-summarum/Lexikon/W/werkstudentenprivileg.html); [iww.de](https://www.iww.de/pp/recht/geringfuegige-beschaeftigung-minijob-2026-hoeherer-verdienst-neue-regeln-und-was-sonst-zu-beachten-ist-f171358)).
+    - **Minijob:** earnings up to **€603 per month** in 2026 (€7,236 per year) ([Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Arbeitgeber-und-Steuerberater/summa-summarum/Lexikon/W/werkstudentenprivileg.html); [Minijob-Zentrale](https://www.minijob-zentrale.de/DE/die-minijobs/minijob-mit-verdienstgrenze)).
 7.  **Minimum wage:** €13.90 per hour in 2026, €14.60 from 1 January 2027 ([Federal Government – Minimum wage](https://www.bundesregierung.de/breg-de/aktuelles/mindestlohn-steigt-2365658)). This applies to everyone regardless of nationality.
 8.  **Social security number (Sozialversicherungsnummer):** issued automatically and free of charge with your first job subject to social insurance ([Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2024/240312-versicherungsnummernachweis)).
 9.  **Work is not enough to finance your studies:** the Ausländerbehörde expects your livelihood to be secured independently of a job. ℹ️
@@ -75,7 +75,7 @@ Every link on this page was checked on the access date; the result is in the las
 | 3 | [BA – Technical instructions (PDF)](https://www.arbeitsagentur.de/datei/dok_ba033210.pdf) | Federal Employment Agency | 2026-11-10 | ✅ Opened |
 | 4 | [university job page](https://www.uni-hannover.de/en/universitaet/stellenangebote-arbeit-an-der-uni) | Leibniz University Hannover | 2026-11-10 | ✅ Opened |
 | 5 | [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Experten/Arbeitgeber-und-Steuerberater/summa-summarum/Lexikon/W/werkstudentenprivileg.html) | Deutsche Rentenversicherung | 2026-11-10 | ✅ Opened |
-| 6 | [iww.de](https://www.iww.de/pp/recht/geringfuegige-beschaeftigung-minijob-2026-hoeherer-verdienst-neue-regeln-und-was-sonst-zu-beachten-ist-f171358) | iww.de — unofficial / secondary source | 2026-11-08 | ❌ Server error (HTTP 500) on the check date; the official Deutsche Rentenversicherung source above gives the same limit |
+| 6 | [Minijob-Zentrale – Minijob with earnings limit](https://www.minijob-zentrale.de/DE/die-minijobs/minijob-mit-verdienstgrenze) | Minijob-Zentrale (German pension insurance) | 2026-11-15 | ✅ Opened (states €603 per month and €7,236 per year) |
 | 7 | [Federal Government – Minimum wage](https://www.bundesregierung.de/breg-de/aktuelles/mindestlohn-steigt-2365658) | Federal Government | 2026-11-10 | ✅ Opened |
 | 8 | [Deutsche Rentenversicherung](https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2024/240312-versicherungsnummernachweis) | Deutsche Rentenversicherung | 2026-11-10 | ✅ Opened |
 | 9 | [AStA](https://www.asta-hannover.de/angebote-beratung/internationale-studierende) | AStA Hannover | 2026-11-10 | ✅ Opened |
