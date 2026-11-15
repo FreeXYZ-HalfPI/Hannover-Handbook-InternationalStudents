@@ -5,6 +5,8 @@ To stay informed: check this page, click **Watch** on GitHub (or Watch → Custo
 > [!CAUTION]
 > This handbook is guidance based on students' experience and may be out of date. ISL accepts no responsibility for its currency.
 
+- **Page 35 sources:** the VHS Hannover site answered HTTP 504 on 2026-11-15 (down for everyone), so its three source rows are marked as failing and the page warns readers to confirm before they go. TestDaF's English start page returned HTTP 500/503; the page now links the working German page. Goethe-Institut only blocks scripts and opens in a browser.
+
 ## 2026-11-15 — Honest dates and one checklist
 
 - **"Last reviewed" dates corrected.** Every link check used to set the review date of 69 pages although nobody had re-read the content. The dates are now rebuilt from Git history (the last real content change of each page: 2026-10-24 to 2026-11-10). `tools/refresh.py` no longer touches this date; it only updates the source access dates.
