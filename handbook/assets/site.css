@@ -110,3 +110,141 @@ body[data-md-color-scheme="slate"] {
 
 /* After the comment box has loaded, the button that loaded it goes away. */
 .md-typeset .isl-comments-load[hidden] { display: none !important; }
+
+/* ===== Calm home page, visible search, phone comfort (2026-11) ============= */
+
+/* Home: one column, no side navigation (hidden in tools/mkdocs_hooks.py). */
+.md-typeset { font-size: 0.9rem; }
+.md-typeset .isl-hero { padding: 2.2rem 1.6rem 1.8rem; }
+.md-typeset .isl-hero__lead { font-size: 1rem; }
+
+/* Search: a big, obvious box instead of a tiny icon */
+.md-typeset .isl-search-btn {
+  display: flex; align-items: center; gap: 0.7rem; width: 100%; max-width: 40rem;
+  margin: 1.2rem 0 0; padding: 0.95rem 1.1rem; min-height: 3.4rem;
+  border: 0; border-radius: 0.9rem; background: #fff; color: #44505e;
+  font: inherit; font-size: 0.95rem; text-align: start; cursor: pointer;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.22);
+}
+.md-typeset .isl-search-btn:hover, .md-typeset .isl-search-btn:focus-visible { box-shadow: 0 0 0 3px var(--md-accent-fg-color), 0 4px 18px rgba(0, 0, 0, 0.22); outline: 0; }
+.isl-search-btn__icon { font-size: 1.3rem; }
+.isl-search-btn__text { line-height: 1.5; font-weight: 600; }
+.isl-search-btn__hint { font-weight: 400; color: #6b7785; }
+.md-typeset .isl-hero__actions { margin-top: 1rem !important; }
+
+/* Headers of the home blocks */
+.md-typeset .isl-block-title { border: 0; margin: 2rem 0 0.3rem; font-size: 1.2em; }
+.md-typeset .isl-block-note { margin: 0 0 0.8rem; color: var(--md-default-fg-color--light); font-size: 0.82rem; }
+
+/* «Where am I?» chips */
+.md-typeset .isl-chips { display: flex; flex-wrap: wrap; gap: 0.55rem; }
+.md-typeset a.isl-chip {
+  display: inline-flex; align-items: center; gap: 0.4rem; min-height: 2.9rem; padding: 0.5rem 1rem;
+  border: 1px solid var(--md-default-fg-color--lighter); border-radius: 2rem;
+  color: var(--md-default-fg-color); text-decoration: none; background: var(--md-default-bg-color);
+}
+.md-typeset a.isl-chip:hover, .md-typeset a.isl-chip:focus-visible { border-color: var(--md-accent-fg-color); background: color-mix(in srgb, var(--md-accent-fg-color) 10%, transparent); }
+
+/* First week: five numbered steps */
+.md-typeset ol.isl-steps { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.55rem; }
+.md-typeset ol.isl-steps li { margin: 0; padding: 0; }
+.md-typeset a.isl-step {
+  display: flex; align-items: center; gap: 0.9rem; min-height: 3.6rem; padding: 0.7rem 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: 0.8rem;
+  color: var(--md-default-fg-color); text-decoration: none; background: var(--md-default-bg-color);
+}
+.md-typeset a.isl-step:hover, .md-typeset a.isl-step:focus-visible { border-color: var(--md-accent-fg-color); }
+.isl-step__n { flex: none; display: grid; place-items: center; width: 2rem; height: 2rem; border-radius: 50%; background: var(--md-primary-fg-color); color: #fff; font-weight: 700; }
+.isl-step__body { display: flex; flex-direction: column; line-height: 1.5; }
+.isl-step__body small { color: var(--md-default-fg-color--light); font-size: 0.78rem; }
+
+/* Tree diagram: root → stage → section → pages; connector lines are drawn with borders (RTL-safe) */
+.isl-tree { margin: 0 0 1.5rem; }
+.isl-tree ul { list-style: none; margin: 0; padding: 0; }
+.isl-tree__root { display: inline-block; padding: 0.5rem 1.1rem; border-radius: 0.7rem; background: var(--md-primary-fg-color); color: #fff; font-weight: 700; }
+.isl-tree > ul { margin-inline-start: 1.1rem; border-inline-start: 2px solid var(--md-default-fg-color--lighter); }
+.isl-tree li { position: relative; margin: 0; padding-inline-start: 1.3rem; }
+.isl-tree li::before { content: ""; position: absolute; inset-inline-start: 0; top: 1.15rem; width: 1rem; border-top: 2px solid var(--md-default-fg-color--lighter); }
+.isl-tree__stage { padding-top: 0.5rem; padding-bottom: 0.2rem; }
+.isl-tree__label { display: inline-block; font-weight: 700; padding: 0.3rem 0; min-height: 1.6rem; }
+.isl-tree__stage > ul { margin-inline-start: 0.4rem; border-inline-start: 2px solid var(--md-default-fg-color--lightest); }
+.isl-tree details > summary { cursor: pointer; display: flex; align-items: center; gap: 0.5rem; min-height: 2.6rem; padding: 0.2rem 0; list-style: none; }
+.isl-tree details > summary::-webkit-details-marker { display: none; }
+.isl-tree details > summary::after { content: "＋"; margin-inline-start: auto; color: var(--md-default-fg-color--light); font-size: 1rem; padding-inline: 0.5rem; }
+.isl-tree details[open] > summary::after { content: "－"; }
+.md-typeset .isl-tree a.isl-tree__sec { font-weight: 600; color: var(--md-default-fg-color); text-decoration: none; }
+.isl-tree__pages { margin-inline-start: 0.3rem; border-inline-start: 2px dotted var(--md-default-fg-color--lighter); margin-bottom: 0.4rem; }
+.isl-tree__pages li::before { border-top-style: dotted; top: 1.05rem; width: 0.8rem; }
+.isl-tree__pages li { padding-inline-start: 1.1rem; }
+.md-typeset .isl-tree__pages a { display: block; padding: 0.35rem 0; min-height: 2.2rem; line-height: 1.6; }
+
+/* Folded helpers */
+.md-typeset details.isl-more, .md-typeset details.isl-pagetoc { border: 1px solid var(--md-default-fg-color--lightest); border-radius: 0.7rem; padding: 0 1rem; margin: 0.6rem 0 1.2rem; }
+.md-typeset details.isl-more > summary, .md-typeset details.isl-pagetoc > summary { cursor: pointer; font-weight: 600; min-height: 2.6rem; padding: 0.5rem 0; }
+.md-typeset details.isl-pagetoc ol { margin-block: 0 0.8rem; }
+
+/* Floating search button (all pages) — thumb-reachable on phones */
+.isl-fab {
+  position: fixed; z-index: 3; inset-inline-start: max(1rem, env(safe-area-inset-left));
+  bottom: max(1rem, env(safe-area-inset-bottom));
+  display: inline-flex; align-items: center; gap: 0.45rem; min-height: 3.2rem; padding: 0.6rem 1.15rem;
+  border: 0; border-radius: 2rem; background: var(--md-accent-fg-color); color: #fff;
+  font: inherit; font-size: 0.9rem; font-weight: 700; cursor: pointer;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+.isl-fab:focus-visible { outline: 3px solid var(--md-primary-fg-color); outline-offset: 2px; }
+body:has([data-md-toggle="search"]:checked) .isl-fab { display: none; }
+@media print { .isl-fab { display: none; } }
+
+/* Header search field: easier to see on desktop */
+@media (min-width: 60em) {
+  .md-search__form { background: rgba(255, 255, 255, 0.22); }
+  .md-search__input::placeholder { color: rgba(255, 255, 255, 0.85); }
+  .md-search__inner { width: 18rem; }
+}
+
+/* Phones (Android and iOS) */
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+a, button, summary, label { touch-action: manipulation; -webkit-tap-highlight-color: rgba(29, 78, 137, 0.15); }
+.md-search__input { font-size: 16px; } /* 16px+ stops iOS Safari from zooming in when the box is focused */
+.md-content, .md-header__inner, .md-footer-meta__inner { padding-inline: max(0px, env(safe-area-inset-left)) max(0px, env(safe-area-inset-right)); }
+.md-typeset .md-button { min-height: 2.9rem; display: inline-flex; align-items: center; }
+@media (max-width: 59.9375em) {
+  .md-nav__link { padding-block: 0.45rem; }               /* roomier drawer links */
+  .md-header__button { padding: 0.5rem; }
+}
+@media (max-width: 44.9375em) {
+  .md-typeset { font-size: 0.95rem; line-height: 1.9; }
+  .md-typeset h1 { font-size: 1.45em; }
+  .md-typeset .isl-hero { margin-inline: -0.4rem; padding: 1.4rem 1rem 1.2rem; }
+  .md-typeset .isl-hero h1 { font-size: 1.5rem; }
+  .md-typeset .isl-hero__sub, .isl-search-btn__hint { display: none; }
+  .md-typeset .isl-hero__lead { font-size: 0.95rem; margin-top: 0.6rem !important; }
+  .md-typeset .isl-hero__actions { gap: 0.5rem; }
+  .md-typeset .isl-hero__actions .md-button { margin: 0; }
+  .md-typeset .isl-search-btn { padding: 0.85rem 0.9rem; font-size: 0.9rem; }
+  .md-typeset .isl-hero__actions .md-button { flex: 1 1 100%; justify-content: center; }
+  .md-typeset table:not([class]) { font-size: 0.8rem; }
+  .md-typeset a.isl-chip { flex: 1 1 100%; }
+  body { padding-bottom: 4.5rem; }                          /* room under the floating button */
+}
+@media (max-width: 22em) { .isl-fab__text { display: none; } .isl-fab { padding: 0.6rem 0.9rem; } }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+
+/* Material styles every <details> like a coloured admonition; the tree must stay plain. */
+.md-typeset .isl-tree details { border: 0; border-radius: 0; background: none; box-shadow: none; margin: 0; padding: 0; font-size: inherit; display: block; }
+.md-typeset .isl-tree details > summary { background: none; border: 0; padding: 0.2rem 0; margin: 0; font-weight: 400; }
+.md-typeset .isl-tree details > summary::before { display: none; content: none; }
+.md-typeset .isl-tree details > summary::after { content: "＋"; position: static; mask: none; -webkit-mask: none; background: none; width: auto; height: auto; transform: none; display: inline; top: auto; }
+.md-typeset .isl-tree details[open] > summary::after { content: "－"; transform: none; }
+.md-typeset .isl-tree ul { margin: 0; }
+.md-typeset .isl-tree li { margin: 0; }
+.md-typeset .isl-tree__pages { margin: 0 0.3rem 0.5rem 0; }
+
+@media (max-width: 44.9375em) {
+  .isl-tree li { padding-inline-start: 0.9rem; }
+  .isl-tree li::before { width: 0.7rem; }
+  .isl-tree > ul { margin-inline-start: 0.8rem; }
+  .isl-tree__pages li { padding-inline-start: 0.8rem; }
+  .md-typeset .isl-tree__pages a { font-size: 0.88rem; }
+}

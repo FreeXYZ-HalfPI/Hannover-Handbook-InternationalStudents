@@ -19,6 +19,7 @@ site_dir: site
 
 theme:
   name: material
+  custom_dir: overrides
   language: en
   font:
     text: Inter
@@ -58,6 +59,7 @@ extra_css:
   - assets/site.css
 
 extra_javascript:
+  - assets/ui.js
   - assets/comments.js
 
 extra:
